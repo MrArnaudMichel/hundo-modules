@@ -128,6 +128,10 @@ hundo module keygen my-key                    # my-key.key (secret) + my-key.pub
 hundo module pack . -o my-game-0.1.0.hundo --sign my-key.key
 ```
 
+The entry carries your `driver.toml`: that is how Hundo recognises your game
+on a reader's machine — its Steam id, where its saves are — before anyone
+downloads the module, which comes only when the game is added.
+
 Upload `my-game-0.1.0.hundo` where it can be downloaded over HTTPS (a GitHub
 release of your repository is fine), then print its catalog entry:
 

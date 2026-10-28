@@ -1,6 +1,8 @@
 name: Modules
 
-# On a pull request only: builds every module and runs their unit tests.
+# On a pull request only, and only for what it touches: the modules it
+# changes — all of them when the contract (wit/) or the SDK changes. With
+# hundreds of modules, a pull request still checks one or two.
 on:
   pull_request:
   workflow_dispatch:
@@ -15,19 +17,42 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Modules touched
+        id: touched
+        run: |
+          base="${{ github.event.pull_request.base.sha }}"
+          if [ -z "$base" ] || git diff --name-only "$base" HEAD | grep -qE '^(wit/|drivers/sdk/|drivers/Cargo\.(toml|lock))'; then
+            packages="--workspace"
+          else
+            packages=""
+            for dir in $(git diff --name-only "$base" HEAD | sed -n 's|^drivers/\([^/]*\)/.*|\1|p' | sort -u); do
+              [ -f "drivers/$dir/Cargo.toml" ] || continue
+              name="$(sed -n 's/^name = "\(.*\)"/\1/p' "drivers/$dir/Cargo.toml" | head -1)"
+              packages="$packages -p $name"
+            done
+          fi
+          echo "packages=$packages" >> "$GITHUB_OUTPUT"
+          echo "À vérifier : ${packages:-rien}"
       - uses: dtolnay/rust-toolchain@stable
+        if: steps.touched.outputs.packages != ''
         with:
           targets: wasm32-wasip2
           components: clippy
       - uses: Swatinem/rust-cache@v2
+        if: steps.touched.outputs.packages != ''
         with:
           workspaces: drivers -> target
       - name: Build
-        run: cd drivers && cargo build --release
+        if: steps.touched.outputs.packages != ''
+        run: cd drivers && cargo build --release ${{ steps.touched.outputs.packages }}
       - name: Unit tests
+        if: steps.touched.outputs.packages != ''
         run: |
-          cd drivers && cargo test --target "$(rustc -vV | sed -n 's/host: //p')" --workspace
+          cd drivers && cargo test --target "$(rustc -vV | sed -n 's/host: //p')" ${{ steps.touched.outputs.packages }}
       - name: Lints
-        run: cd drivers && cargo clippy --release --workspace -- -D warnings
+        if: steps.touched.outputs.packages != ''
+        run: cd drivers && cargo clippy --release ${{ steps.touched.outputs.packages }} -- -D warnings
       - name: Catalog
         run: python3 -c "import json; json.load(open('catalog/catalog.json'))"
