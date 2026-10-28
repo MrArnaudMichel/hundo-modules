@@ -1,0 +1,11 @@
+{
+    "DataType": "GameData",
+    "DataVersion": 0,
+    "GameVersion": "0.4.7f12",
+    "OrganisationName": "Los dealos",
+    "Seed": 1935171791,
+    "Settings": {
+        "ConsoleEnabled": false,
+        "UseRandomizedMixMaps": false
+    }
+}

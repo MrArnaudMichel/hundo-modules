@@ -1,0 +1,24 @@
+api = 3
+
+[driver]
+id = "schedule-one"
+name = "Schedule I"
+version = "0.1.0"
+authors = ["Arnaud Michel"]
+license = "MIT OR Apache-2.0"
+description = "Rang, quêtes, territoires, propriétés, commerces et clients."
+
+[game]
+steam-app-id = 3164500
+tested-versions = ["0.4.7f12"]
+
+[[locations]]
+platform = "windows"
+path = "{localLow}/TVGS/Schedule I/Saves"
+
+# A save is a folder of JSON files, one per Steam account and slot.
+[slots]
+kind = "dir"
+pattern = '^(?<account>[0-9]+)/SaveGame_(?<slot>[0-9]+)$'
+label = "Partie {slot}"
+include = ["**/*.json"]

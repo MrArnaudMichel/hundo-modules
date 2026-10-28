@@ -1,0 +1,27 @@
+api = 3
+
+[driver]
+id = "hades"
+name = "Hades"
+version = "0.1.0"
+authors = ["Arnaud Michel"]
+license = "MIT OR Apache-2.0"
+description = "Armes infernales, gardiens, prophéties, relations et ressources."
+
+[game]
+steam-app-id = 1145360
+tested-versions = ["38290"]
+
+[[locations]]
+platform = "windows"
+path = "{documents}/Saved Games/Hades"
+
+[[locations]]
+platform = "macos"
+path = "{appSupport}/Supergiant Games/Hades"
+
+# Profile1_Temp.sav and Profile1.v.sav are the game's working copies.
+[slots]
+kind = "file"
+pattern = '^Profile(?<slot>[1-4])\.sav$'
+label = "Profil {slot}"

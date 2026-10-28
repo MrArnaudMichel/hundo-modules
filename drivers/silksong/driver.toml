@@ -1,0 +1,65 @@
+api = 3
+
+[driver]
+id = "silksong"
+name = "Hollow Knight: Silksong"
+version = "0.1.0"
+authors = ["Arnaud Michel"]
+license = "MIT OR Apache-2.0"
+description = "Complétion 100 % : emblèmes, outils, compétences, fragments, améliorations ; puces, médaillons et clés."
+
+[game]
+steam-app-id = 1030300
+tested-versions = ["1.0.30000"]
+
+[[locations]]
+platform = "windows"
+path = "{localLow}/Team Cherry/Hollow Knight Silksong"
+
+[[locations]]
+platform = "macos"
+path = "{appSupport}/unity.Team Cherry.Hollow Knight Silksong"
+
+[[locations]]
+platform = "linux"
+path = "{xdgConfig}/unity3d/Team Cherry/Hollow Knight Silksong"
+
+# One folder per Steam account, then userN.dat as in Hollow Knight.
+[slots]
+kind = "file"
+pattern = '^(?<account>[0-9]+)/user(?<slot>[1-4])\.dat$'
+label = "Emplacement {slot} · compte {account}"
+
+# The world map, drawn by Hundo from the installed game's own files. Silksong
+# keeps it in an Addressables bundle; its sprites are in other bundles.
+[[maps]]
+id = "pharloom"
+kind = "unity-sprite-map"
+file = "Hollow Knight Silksong_Data/StreamingAssets/aa/StandaloneLinux64/maps_assets_all.bundle"
+bundles = "Hollow Knight Silksong_Data/StreamingAssets/aa/StandaloneLinux64"
+root = "Game_Map_Hornet"
+skip = ["Main Quest Pins", "Map Markers", "Shade Pos"]
+skip-prefixes = ["Map_Arrow", "Map Arrow", "Compass", "Shade", "Map_Title", "Drop_Shadow"]
+# Benches, lost fleas and quest marks are pins: placed, not drawn.
+pin-sprites = ["pin_", "Pin_", "quest_map_icon"]
+
+# The game's own names for things (the hunting journal), read from the
+# installed game in the reader's language; the driver decrypts them.
+[texts]
+file = "Hollow Knight Silksong_Data/resources.assets"
+names = ["{lang}_Journal", "{lang}_Map Zones", "{lang}_Tools", "{lang}_UI", "{lang}_Quests", "{lang}_Belltown"]
+
+# Pictures (the hunting journal, tools, crests), drawn by the host from the
+# installed game.
+[images]
+files = [
+    "Hollow Knight Silksong_Data/StreamingAssets/aa/StandaloneLinux64/atlases_assets_assets/sprites/_atlases/journal_enemy_images.spriteatlas.bundle",
+    "Hollow Knight Silksong_Data/StreamingAssets/aa/StandaloneLinux64/atlases_assets_assets/sprites/_atlases/inventory.spriteatlas.bundle",
+    "Hollow Knight Silksong_Data/StreamingAssets/aa/StandaloneLinux64/atlases_assets_assets/sprites/_atlases/crest.spriteatlas.bundle",
+    "Hollow Knight Silksong_Data/StreamingAssets/aa/StandaloneLinux64/atlases_assets_assets/sprites/_atlases/hornet_map.spriteatlas.bundle",
+    "Hollow Knight Silksong_Data/StreamingAssets/aa/StandaloneLinux64/atlases_assets_assets/sprites/_atlases/inventory_furniture_items.spriteatlas.bundle",
+    "Hollow Knight Silksong_Data/StreamingAssets/aa/StandaloneLinux64/atlases_assets_assets/sprites/_atlases/inventory_patch.spriteatlas.bundle",
+    "Hollow Knight Silksong_Data/StreamingAssets/aa/StandaloneLinux64/atlases_assets_assets/sprites/_atlases/inventory_needles.spriteatlas.bundle",
+    "Hollow Knight Silksong_Data/StreamingAssets/aa/StandaloneLinux64/dataassets_assets_assets/dataassets/collectables/collectableitems.bundle",
+    "Hollow Knight Silksong_Data/StreamingAssets/aa/StandaloneLinux64/dataassets_assets_assets/dataassets/tools/toolitems.bundle",
+]

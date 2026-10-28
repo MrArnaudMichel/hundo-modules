@@ -1,0 +1,139 @@
+api = 3
+
+[driver]
+id = "hollow-knight"
+name = "Hollow Knight"
+version = "0.1.0"
+authors = ["Arnaud Michel"]
+license = "MIT OR Apache-2.0"
+description = "Complétion 112 %, charmes, boss, rêves de guerriers et panthéons."
+
+[game]
+steam-app-id = 367520
+# Versions the driver was checked against; older saves are read with a warning.
+tested-versions = ["1.5.12620"]
+
+# Free content packs, added by updates: each can be left out of the count.
+[[dlc]]
+id = "hidden-dreams"
+name = "Hidden Dreams"
+free = true
+
+[[dlc]]
+id = "grimm-troupe"
+name = "The Grimm Troupe"
+free = true
+
+[[dlc]]
+id = "lifeblood"
+name = "Lifeblood"
+free = true
+
+[[dlc]]
+id = "godmaster"
+name = "Godmaster"
+free = true
+
+# Paths use the host's variables (see docs/SPEC.md). On Linux, the Windows
+# entry is also looked up inside the game's Proton prefix.
+[[locations]]
+platform = "windows"
+path = "{localLow}/Team Cherry/Hollow Knight"
+
+[[locations]]
+platform = "macos"
+path = "{home}/Library/Application Support/unity.Team Cherry.Hollow Knight"
+
+[[locations]]
+platform = "linux"
+path = "{xdgConfig}/unity3d/Team Cherry/Hollow Knight"
+
+[slots]
+kind = "file"
+pattern = '^user(?<slot>[1-4])\.dat$'
+label = "Emplacement {slot}"
+
+# The world map, drawn by Hundo from the installed game's own files.
+[[maps]]
+id = "hallownest"
+kind = "unity-sprite-map"
+file = "hollow_knight_Data/resources.assets"
+root = "Game_Map"
+skip = ["Dream_Gate_Pin", "Compass Icon", "Shade Pos", "Flame Pins", "Dreamer Pins", "Map Markers"]
+skip-prefixes = ["Map_Arrow", "Map Arrow", "Shade", "pop_up"]
+# Every pin the game can show: grubs, benches, stags, roots, shops…
+pin-sprites = ["pin_", "Pin_"]
+rough-suffix = "_Cornifer"
+
+# The game's own names for things (the Hunter's Journal), read from the
+# installed game in the reader's language; the driver decrypts them.
+[texts]
+file = "hollow_knight_Data/resources.assets"
+names = ["{lang}_Journal", "{lang}_UI", "{lang}_Map Zones"]
+
+# Pictures (the Hunter's Journal portraits, the charms), drawn by the host
+# from the installed game.
+[images]
+files = ["hollow_knight_Data/resources.assets"]
+
+# Choices offered to the reader, in the menu of the page's panel they concern.
+[[options]]
+id = "journal-notes"
+label = "Journal : viser les notes du Chasseur"
+description = "Activé, une créature compte quand ses notes du Chasseur sont débloquées (assez d'ennemis vaincus). Désactivé, dès la première rencontre : c'est ce que demandent les 112 %."
+panel = "list"
+default = true
+
+# The game's page as it first opens: a reader's arrangement, kept as the base.
+[[layout]]
+panel = "progress"
+span = 6
+
+[[layout]]
+panel = "next"
+span = 6
+height = 360
+
+[[layout]]
+panel = "list"
+span = 6
+height = 320
+
+[[layout]]
+panel = "map"
+span = 6
+height = 600
+
+[[layout]]
+panel = "history"
+span = 6
+height = 400
+
+[[layout]]
+panel = "session"
+span = 6
+height = 400
+
+[[layout]]
+panel = "achievements"
+span = 6
+
+[[layout]]
+panel = "zones"
+span = 12
+height = 280
+
+[[layout]]
+panel = "details"
+span = 7
+hidden = true
+
+[[layout]]
+panel = "stats"
+span = 6
+height = 120
+
+[[layout]]
+panel = "notes"
+span = 6
+height = 320

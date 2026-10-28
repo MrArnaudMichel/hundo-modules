@@ -1,0 +1,6880 @@
+{
+  "gameVersion": "1.5.12620",
+  "title": null,
+  "completion": {
+    "label": "Complétion du jeu",
+    "value": 110.0,
+    "max": 112.0
+  },
+  "stats": [
+    {
+      "id": "playTime",
+      "label": "Temps de jeu",
+      "value": "22 h 38"
+    },
+    {
+      "id": "geo",
+      "label": "Geo",
+      "value": "4239"
+    },
+    {
+      "id": "essence",
+      "label": "Essence",
+      "value": "2768"
+    },
+    {
+      "id": "stations",
+      "label": "Stations de cerf",
+      "value": "9"
+    }
+  ],
+  "sections": [
+    {
+      "id": "charms",
+      "title": "Charmes",
+      "group": "Complétion 112 %",
+      "view": "gallery",
+      "optional": false,
+      "items": [
+        {
+          "id": "gotCharm_1",
+          "title": "Gathering Swarm",
+          "status": "done",
+          "progress": null,
+          "hint": "Sly · 300 géo",
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Gathering_Swarm",
+          "dlc": null,
+          "image": "game:charm_sprite_02",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "gotCharm_2",
+          "title": "Wayward Compass",
+          "status": "done",
+          "progress": null,
+          "hint": "Iselda · 220 géo",
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Wayward_Compass",
+          "dlc": null,
+          "image": "game:charm_sprite_03",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "gotCharm_3",
+          "title": "Grubsong",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Forgotten Crossroads",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Grubsong",
+          "dlc": null,
+          "image": "game:charm_grub_mid",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "gotCharm_4",
+          "title": "Stalwart Shell",
+          "status": "done",
+          "progress": null,
+          "hint": "Sly · 200 géo",
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Stalwart_Shell",
+          "dlc": null,
+          "image": "game:_0006_charm_stalwart_shell",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "gotCharm_5",
+          "title": "Baldur Shell",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Howling Cliffs",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Baldur_Shell",
+          "dlc": null,
+          "image": "game:charm_blocker",
+          "details": null,
+          "areas": [
+            "Howling Cliffs"
+          ]
+        },
+        {
+          "id": "gotCharm_6",
+          "title": "Fury of the Fallen",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Fury_of_the_Fallen",
+          "dlc": null,
+          "image": "game:_0005_charm_fury",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "gotCharm_7",
+          "title": "Quick Focus",
+          "status": "done",
+          "progress": null,
+          "hint": "Salubra · 800 géo",
+          "location": "Forgotten Crossroads",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Quick_Focus",
+          "dlc": null,
+          "image": "game:_0005_charm_fast_focus",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "gotCharm_8",
+          "title": "Lifeblood Heart",
+          "status": "done",
+          "progress": null,
+          "hint": "Salubra · 250 géo",
+          "location": "Forgotten Crossroads",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Lifeblood_Heart",
+          "dlc": null,
+          "image": "game:_0010_charm_bluehealth",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "gotCharm_9",
+          "title": "Lifeblood Core",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "The Abyss",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Lifeblood_Core",
+          "dlc": null,
+          "image": "game:_0007_charm_blue_health_large",
+          "details": null,
+          "areas": [
+            "The Abyss"
+          ]
+        },
+        {
+          "id": "gotCharm_10",
+          "title": "Defender's Crest",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Royal Waterways",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Defender's_Crest",
+          "dlc": null,
+          "image": "game:charm_dung_def",
+          "details": null,
+          "areas": [
+            "Royal Waterways"
+          ]
+        },
+        {
+          "id": "gotCharm_11",
+          "title": "Flukenest",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Royal Waterways",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Flukenest",
+          "dlc": null,
+          "image": "game:charm_fluke",
+          "details": null,
+          "areas": [
+            "Royal Waterways"
+          ]
+        },
+        {
+          "id": "gotCharm_12",
+          "title": "Thorns of Agony",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Greenpath",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Thorns_of_Agony",
+          "dlc": null,
+          "image": "game:_0000_charm_thorn_counter",
+          "details": null,
+          "areas": [
+            "Greenpath"
+          ]
+        },
+        {
+          "id": "gotCharm_13",
+          "title": "Mark of Pride",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Fungal Wastes",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Mark_of_Pride",
+          "dlc": null,
+          "image": "game:char_mantis",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "gotCharm_14",
+          "title": "Steady Body",
+          "status": "done",
+          "progress": null,
+          "hint": "Salubra · 120 géo",
+          "location": "Forgotten Crossroads",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Steady_Body",
+          "dlc": null,
+          "image": "game:_0006_charm_no_recoil",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "gotCharm_15",
+          "title": "Heavy Blow",
+          "status": "done",
+          "progress": null,
+          "hint": "Sly · 350 géo, avec la clé du boutiquier",
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Heavy_Blow",
+          "dlc": null,
+          "image": "game:_0008_charm_nail_damage_up",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "gotCharm_16",
+          "title": "Sharp Shadow",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Deepnest",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Sharp_Shadow",
+          "dlc": null,
+          "image": "game:charm_shade_impact",
+          "details": null,
+          "areas": [
+            "Deepnest"
+          ]
+        },
+        {
+          "id": "gotCharm_17",
+          "title": "Spore Shroom",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Fungal Wastes",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Spore_Shroom",
+          "dlc": null,
+          "image": "game:charm_fungus",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "gotCharm_18",
+          "title": "Longnail",
+          "status": "done",
+          "progress": null,
+          "hint": "Salubra · 300 géo",
+          "location": "Forgotten Crossroads",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Longnail",
+          "dlc": null,
+          "image": "game:_0007_charm_greed",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "gotCharm_19",
+          "title": "Shaman Stone",
+          "status": "done",
+          "progress": null,
+          "hint": "Salubra · 220 géo",
+          "location": "Forgotten Crossroads",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Shaman_Stone",
+          "dlc": null,
+          "image": "game:_0002_charm_spell_damage_up",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "gotCharm_20",
+          "title": "Soul Catcher",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Forgotten Crossroads",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Soul_Catcher",
+          "dlc": null,
+          "image": "game:_0001_charm_more_soul",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "gotCharm_21",
+          "title": "Soul Eater",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Resting Grounds",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Soul_Eater",
+          "dlc": null,
+          "image": "game:charm_soul_up_large",
+          "details": null,
+          "areas": [
+            "Resting Grounds"
+          ]
+        },
+        {
+          "id": "gotCharm_22",
+          "title": "Glowing Womb",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Forgotten Crossroads",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Glowing_Womb",
+          "dlc": null,
+          "image": "game:_0009_charm_Hatchling",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "gotCharm_23",
+          "title": "Fragile Heart",
+          "status": "done",
+          "progress": null,
+          "hint": "Mange-Jambes · 350 géo",
+          "location": "Fungal Wastes",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Fragile_Heart",
+          "dlc": null,
+          "image": "game:_0002_charm_glass_heal",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "gotCharm_24",
+          "title": "Fragile Greed",
+          "status": "done",
+          "progress": null,
+          "hint": "Mange-Jambes · 250 géo",
+          "location": "Fungal Wastes",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Fragile_Greed",
+          "dlc": null,
+          "image": "game:_0003_charm_glass_geo",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "gotCharm_25",
+          "title": "Fragile Strength",
+          "status": "done",
+          "progress": null,
+          "hint": "Mange-Jambes · 600 géo",
+          "location": "Fungal Wastes",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Fragile_Strength",
+          "dlc": null,
+          "image": "game:_0002_charm_glass_attack_up",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "gotCharm_26",
+          "title": "Nailmaster's Glory",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Nailmaster's_Glory",
+          "dlc": null,
+          "image": "game:_0004_charm_charge_time_up",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "gotCharm_27",
+          "title": "Joni's Blessing",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Howling Cliffs",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Joni's_Blessing",
+          "dlc": null,
+          "image": "game:charm_blue_health_convert",
+          "details": null,
+          "areas": [
+            "Howling Cliffs"
+          ]
+        },
+        {
+          "id": "gotCharm_28",
+          "title": "Shape of Unn",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Greenpath",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Shape_of_Unn",
+          "dlc": null,
+          "image": "game:charm_slug",
+          "details": null,
+          "areas": [
+            "Greenpath"
+          ]
+        },
+        {
+          "id": "gotCharm_29",
+          "title": "Hiveblood",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Kingdom's Edge",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Hiveblood",
+          "dlc": null,
+          "image": "game:charm_hive",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "gotCharm_30",
+          "title": "Dream Wielder",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Resting Grounds",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Dream_Wielder",
+          "dlc": null,
+          "image": "game:inv_dream_charm",
+          "details": null,
+          "areas": [
+            "Resting Grounds"
+          ]
+        },
+        {
+          "id": "gotCharm_31",
+          "title": "Dashmaster",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Fungal Wastes",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Dashmaster",
+          "dlc": null,
+          "image": "game:_0011_charm_generic_03",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "gotCharm_32",
+          "title": "Quick Slash",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Kingdom's Edge",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Quick_Slash",
+          "dlc": null,
+          "image": "game:_0003_charm_nail_slash_speed_up",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "gotCharm_33",
+          "title": "Spell Twister",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "City of Tears",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Spell_Twister",
+          "dlc": null,
+          "image": "game:charm_magic_cost_down",
+          "details": null,
+          "areas": [
+            "City of Tears"
+          ]
+        },
+        {
+          "id": "gotCharm_34",
+          "title": "Deep Focus",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Crystal Peak",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Deep_Focus",
+          "dlc": null,
+          "image": "game:charm_crystal",
+          "details": null,
+          "areas": [
+            "Crystal Peak"
+          ]
+        },
+        {
+          "id": "gotCharm_35",
+          "title": "Grubberfly's Elegy",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Forgotten Crossroads",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Grubberfly's_Elegy",
+          "dlc": null,
+          "image": "game:charm_grub_blade",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "gotCharm_36",
+          "title": "Kingsoul",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "White Palace",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Kingsoul",
+          "dlc": null,
+          "image": "game:charm_sprite_36",
+          "details": null,
+          "areas": [
+            "White Palace"
+          ]
+        }
+      ],
+      "tally": {
+        "done": 36,
+        "total": 36
+      }
+    },
+    {
+      "id": "equipment",
+      "title": "Équipement",
+      "group": "Complétion 112 %",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "hasDash",
+          "title": "Mothwing Cloak",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Greenpath",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Mothwing_Cloak",
+          "dlc": null,
+          "image": "game:Inv_0015_dash-cloak",
+          "details": null,
+          "areas": [
+            "Greenpath"
+          ]
+        },
+        {
+          "id": "hasWalljump",
+          "title": "Mantis Claw",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Fungal Wastes",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Mantis_Claw",
+          "dlc": null,
+          "image": "game:items__0003_mantis-claw",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "hasSuperDash",
+          "title": "Crystal Heart",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Crystal Peak",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Crystal_Heart",
+          "dlc": null,
+          "image": "game:items__0000_crystal-heart",
+          "details": null,
+          "areas": [
+            "Crystal Peak"
+          ]
+        },
+        {
+          "id": "hasDoubleJump",
+          "title": "Monarch Wings",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Ancient Basin",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Monarch_Wings",
+          "dlc": null,
+          "image": "game:items__0002_emperor-wings",
+          "details": null,
+          "areas": [
+            "Ancient Basin"
+          ]
+        },
+        {
+          "id": "hasAcidArmour",
+          "title": "Isma's Tear",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Royal Waterways",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Isma's_Tear",
+          "dlc": null,
+          "image": "game:items__0001_acid-armour",
+          "details": null,
+          "areas": [
+            "Royal Waterways"
+          ]
+        },
+        {
+          "id": "hasKingsBrand",
+          "title": "King's Brand",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Kingdom's Edge",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/King's_Brand",
+          "dlc": null,
+          "image": "game:inv_white_brand",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "hasShadowDash",
+          "title": "Shade Cloak",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "The Abyss",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Shade_Cloak",
+          "dlc": null,
+          "image": "game:items__0004_shade_cloak",
+          "details": null,
+          "areas": [
+            "The Abyss"
+          ]
+        }
+      ],
+      "tally": {
+        "done": 7,
+        "total": 7
+      }
+    },
+    {
+      "id": "spells",
+      "title": "Sorts",
+      "group": "Complétion 112 %",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "fireballLevel1",
+          "title": "Vengeful Spirit",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Greenpath",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Vengeful_Spirit",
+          "dlc": null,
+          "image": "game:Inv_0025_spell_fireball_01",
+          "details": null,
+          "areas": [
+            "Greenpath"
+          ]
+        },
+        {
+          "id": "fireballLevel2",
+          "title": "Shade Soul",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "City of Tears",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Shade_Soul",
+          "dlc": null,
+          "image": "game:Inv_0025_spell_fireball_01_level2",
+          "details": null,
+          "areas": [
+            "City of Tears"
+          ]
+        },
+        {
+          "id": "quakeLevel1",
+          "title": "Desolate Dive",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "City of Tears",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Desolate_Dive",
+          "dlc": null,
+          "image": "game:Inv_0026_spell_quake_01",
+          "details": null,
+          "areas": [
+            "City of Tears"
+          ]
+        },
+        {
+          "id": "quakeLevel2",
+          "title": "Descending Dark",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Crystal Peak",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Descending_Dark",
+          "dlc": null,
+          "image": "game:Inv_0026_spell_quake_01_level2",
+          "details": null,
+          "areas": [
+            "Crystal Peak"
+          ]
+        },
+        {
+          "id": "screamLevel1",
+          "title": "Howling Wraiths",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Fog Canyon",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Howling_Wraiths",
+          "dlc": null,
+          "image": "game:Inv_0024_spell_scream_01",
+          "details": null,
+          "areas": [
+            "Fog Canyon"
+          ]
+        },
+        {
+          "id": "screamLevel2",
+          "title": "Abyss Shriek",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "The Abyss",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Abyss_Shriek",
+          "dlc": null,
+          "image": "game:Inv_0024_spell_scream_01_level2",
+          "details": null,
+          "areas": [
+            "The Abyss"
+          ]
+        }
+      ],
+      "tally": {
+        "done": 6,
+        "total": 6
+      }
+    },
+    {
+      "id": "nail",
+      "title": "Aiguillon et arts",
+      "group": "Complétion 112 %",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "nailSmithUpgrades",
+          "title": "Améliorations du forgeron",
+          "status": "done",
+          "progress": {
+            "current": 4,
+            "total": 4
+          },
+          "hint": "Forgeron d'aiguillon, Cité des larmes",
+          "location": "City of Tears",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Nailsmith",
+          "dlc": null,
+          "image": "game:nail_upgrade_0000_pure-nail",
+          "details": null,
+          "areas": [
+            "City of Tears"
+          ]
+        },
+        {
+          "id": "hasCyclone",
+          "title": "Cyclone Slash",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Howling Cliffs",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Cyclone_Slash",
+          "dlc": null,
+          "image": "game:Inv_0023_inv_whirlwind_skill",
+          "details": null,
+          "areas": [
+            "Howling Cliffs"
+          ]
+        },
+        {
+          "id": "hasDashSlash",
+          "title": "Great Slash",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Greenpath",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Great_Slash",
+          "dlc": null,
+          "image": "game:Inv_0022_inv_uppercut_skill",
+          "details": null,
+          "areas": [
+            "Greenpath"
+          ]
+        },
+        {
+          "id": "hasUpwardSlash",
+          "title": "Dash Slash",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Kingdom's Edge",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Dash_Slash",
+          "dlc": null,
+          "image": "game:Inv_0021_inv_dash_strike_skill",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        }
+      ],
+      "tally": {
+        "done": 4,
+        "total": 4
+      }
+    },
+    {
+      "id": "health",
+      "title": "Masques et réceptacles",
+      "group": "Complétion 112 %",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "maskShards",
+          "title": "Fragments de masque",
+          "status": "done",
+          "progress": {
+            "current": 16,
+            "total": 16
+          },
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Mask_Shard",
+          "dlc": null,
+          "image": "game:select_game_HUD_0001_health",
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "vesselFragments",
+          "title": "Fragments de réceptacle",
+          "status": "done",
+          "progress": {
+            "current": 9,
+            "total": 9
+          },
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Vessel_Fragment",
+          "dlc": null,
+          "image": "game:Inventory_soul_vessel_full",
+          "details": null,
+          "areas": []
+        }
+      ],
+      "tally": {
+        "done": 2,
+        "total": 2
+      }
+    },
+    {
+      "id": "dreamNail",
+      "title": "Aiguillon des rêves",
+      "group": "Complétion 112 %",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "hasDreamNail",
+          "title": "Dream Nail",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Resting Grounds",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Dream_Nail",
+          "dlc": null,
+          "image": "game:dream_nail_0003_1",
+          "details": null,
+          "areas": [
+            "Resting Grounds"
+          ]
+        },
+        {
+          "id": "dreamNailUpgraded",
+          "title": "Awoken Dream Nail",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Resting Grounds",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Awoken_Dream_Nail",
+          "dlc": null,
+          "image": "game:dream_nail_0000_4",
+          "details": null,
+          "areas": [
+            "Resting Grounds"
+          ]
+        },
+        {
+          "id": "mothDeparted",
+          "title": "Dernières paroles de la Voyante",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Assez d'essence : retourne parler à la Voyante (2768 / 2400)",
+          "location": "Resting Grounds",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Seer",
+          "dlc": null,
+          "image": "game:pin_shop_dream_moth",
+          "details": null,
+          "areas": [
+            "Resting Grounds"
+          ]
+        }
+      ],
+      "tally": {
+        "done": 2,
+        "total": 3
+      }
+    },
+    {
+      "id": "dreamers",
+      "title": "Rêveurs",
+      "group": "Complétion 112 %",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "lurienDefeated",
+          "title": "Lurien the Watcher",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "City of Tears",
+          "spoiler": "minor",
+          "link": "https://hollowknight.wiki/w/Lurien_the_Watcher",
+          "dlc": null,
+          "image": "game:bestiary_dreamer_01_f",
+          "details": null,
+          "areas": [
+            "City of Tears"
+          ]
+        },
+        {
+          "id": "monomonDefeated",
+          "title": "Monomon the Teacher",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Fog Canyon",
+          "spoiler": "minor",
+          "link": "https://hollowknight.wiki/w/Monomon_the_Teacher",
+          "dlc": null,
+          "image": "game:bestiary_dreamer_02_f",
+          "details": null,
+          "areas": [
+            "Fog Canyon"
+          ]
+        },
+        {
+          "id": "hegemolDefeated",
+          "title": "Herrah the Beast",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Deepnest",
+          "spoiler": "minor",
+          "link": "https://hollowknight.wiki/w/Herrah_the_Beast",
+          "dlc": null,
+          "image": "game:bestiary_dreamer_03_f",
+          "details": null,
+          "areas": [
+            "Deepnest"
+          ]
+        }
+      ],
+      "tally": {
+        "done": 3,
+        "total": 3
+      }
+    },
+    {
+      "id": "bosses",
+      "title": "Boss",
+      "group": "Complétion 112 %",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "killedBigFly",
+          "title": "Gruz Mother",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Forgotten Crossroads",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Gruz_Mother",
+          "dlc": null,
+          "image": "game:bestiary_big-bouncer_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "falseKnightDefeated",
+          "title": "False Knight",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Forgotten Crossroads",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/False_Knight",
+          "dlc": null,
+          "image": "game:bestiary_false-knight_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "hornet1Defeated",
+          "title": "Hornet Protector",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Greenpath",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Hornet_Protector",
+          "dlc": null,
+          "image": "game:bestiary_hornet",
+          "details": null,
+          "areas": [
+            "Greenpath"
+          ]
+        },
+        {
+          "id": "killedMawlek",
+          "title": "Brooding Mawlek",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Forgotten Crossroads",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Brooding_Mawlek",
+          "dlc": null,
+          "image": "game:bestiary_mawlek_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "defeatedDungDefender",
+          "title": "Dung Defender",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Royal Waterways",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Dung_Defender",
+          "dlc": null,
+          "image": "game:bestiary__0005_dung-defender",
+          "details": null,
+          "areas": [
+            "Royal Waterways"
+          ]
+        },
+        {
+          "id": "mageLordDefeated",
+          "title": "Soul Master",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "City of Tears",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Soul_Master",
+          "dlc": null,
+          "image": "game:bestiary_mage_lord_f",
+          "details": null,
+          "areas": [
+            "City of Tears"
+          ]
+        },
+        {
+          "id": "defeatedMantisLords",
+          "title": "Mantis Lords",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Fungal Wastes",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Mantis_Lords",
+          "dlc": null,
+          "image": "game:bestiary_mantis_lords_f",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "killedMimicSpider",
+          "title": "Nosk",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Deepnest",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Nosk",
+          "dlc": null,
+          "image": "game:bestiary__0059_mimic-spider",
+          "details": null,
+          "areas": [
+            "Deepnest"
+          ]
+        },
+        {
+          "id": "killedInfectedKnight",
+          "title": "Broken Vessel",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Ancient Basin",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Broken_Vessel",
+          "dlc": null,
+          "image": "game:bestiary_infected_knight_f",
+          "details": null,
+          "areas": [
+            "Ancient Basin"
+          ]
+        },
+        {
+          "id": "collectorDefeated",
+          "title": "The Collector",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "City of Tears",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/The_Collector",
+          "dlc": null,
+          "image": "game:bestiary__0069_collector",
+          "details": null,
+          "areas": [
+            "City of Tears"
+          ]
+        },
+        {
+          "id": "defeatedMegaJelly",
+          "title": "Uumuu",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Fog Canyon",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Uumuu",
+          "dlc": null,
+          "image": "game:bestiary__0073_giant-jellyfish",
+          "details": null,
+          "areas": [
+            "Fog Canyon"
+          ]
+        },
+        {
+          "id": "hornetOutskirtsDefeated",
+          "title": "Hornet Sentinel",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Kingdom's Edge",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Hornet_Sentinel",
+          "dlc": null,
+          "image": "game:bestiary_hornet",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "killedTraitorLord",
+          "title": "Traitor Lord",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Queen's Gardens",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Traitor_Lord",
+          "dlc": null,
+          "image": "game:bestiary__0061_traitor-lord",
+          "details": null,
+          "areas": [
+            "Queen's Gardens"
+          ]
+        },
+        {
+          "id": "killedBlackKnight",
+          "title": "Watcher Knight",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "City of Tears",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Watcher_Knight",
+          "dlc": null,
+          "image": "game:bestiary_black_knight_f",
+          "details": null,
+          "areas": [
+            "City of Tears"
+          ]
+        }
+      ],
+      "tally": {
+        "done": 14,
+        "total": 14
+      }
+    },
+    {
+      "id": "warriors",
+      "title": "Rêves de guerriers",
+      "group": "Complétion 112 %",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "xeroDefeated",
+          "title": "Xero",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Resting Grounds",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Xero",
+          "dlc": null,
+          "image": "game:bestiary_ghosts__0001_xero",
+          "details": null,
+          "areas": [
+            "Resting Grounds"
+          ]
+        },
+        {
+          "id": "aladarSlugDefeated",
+          "title": "Gorb",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Howling Cliffs",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Gorb",
+          "dlc": null,
+          "image": "game:bestiary_ghosts__0000_brain-slug",
+          "details": null,
+          "areas": [
+            "Howling Cliffs"
+          ]
+        },
+        {
+          "id": "elderHuDefeated",
+          "title": "Elder Hu",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Fungal Wastes",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Elder_Hu",
+          "dlc": null,
+          "image": "game:bestiary_ghosts__0002_elderhu",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "mumCaterpillarDefeated",
+          "title": "Marmu",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Queen's Gardens",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Marmu",
+          "dlc": null,
+          "image": "game:bestiary_ghosts__0005_marmu",
+          "details": null,
+          "areas": [
+            "Queen's Gardens"
+          ]
+        },
+        {
+          "id": "noEyesDefeated",
+          "title": "No Eyes",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Greenpath",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/No_Eyes",
+          "dlc": null,
+          "image": "game:bestiary_ghosts__0006_no-eyes",
+          "details": null,
+          "areas": [
+            "Greenpath"
+          ]
+        },
+        {
+          "id": "galienDefeated",
+          "title": "Galien",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Deepnest",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Galien",
+          "dlc": null,
+          "image": "game:bestiary_ghosts__0003_galien",
+          "details": null,
+          "areas": [
+            "Deepnest"
+          ]
+        },
+        {
+          "id": "markothDefeated",
+          "title": "Markoth",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Kingdom's Edge",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Markoth",
+          "dlc": null,
+          "image": "game:bestiary_ghosts__0004_markoth",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        }
+      ],
+      "tally": {
+        "done": 7,
+        "total": 7
+      }
+    },
+    {
+      "id": "colosseum",
+      "title": "Colisée des fous",
+      "group": "Complétion 112 %",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "colosseumBronzeCompleted",
+          "title": "Trial of the Warrior",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Kingdom's Edge",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Trial_of_the_Warrior",
+          "dlc": null,
+          "image": "game:pin_colosseum",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "colosseumSilverCompleted",
+          "title": "Trial of the Conqueror",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Kingdom's Edge",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Trial_of_the_Conqueror",
+          "dlc": null,
+          "image": "game:pin_colosseum",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "colosseumGoldCompleted",
+          "title": "Trial of the Fool",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Kingdom's Edge",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Trial_of_the_Fool",
+          "dlc": null,
+          "image": "game:pin_colosseum",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        }
+      ],
+      "tally": {
+        "done": 3,
+        "total": 3
+      }
+    },
+    {
+      "id": "grimm",
+      "title": "Troupe Grimm",
+      "group": "Complétion 112 %",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "gotCharm_37",
+          "title": "Sprintmaster",
+          "status": "done",
+          "progress": null,
+          "hint": "Sly · 400 géo, avec la clé du boutiquier",
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Sprintmaster",
+          "dlc": "grimm-troupe",
+          "image": "game:charm_grimm_sprint_master",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "gotCharm_38",
+          "title": "Dreamshield",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Resting Grounds",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Dreamshield",
+          "dlc": "grimm-troupe",
+          "image": "game:charm_grimm_markoth_shield",
+          "details": null,
+          "areas": [
+            "Resting Grounds"
+          ]
+        },
+        {
+          "id": "gotCharm_39",
+          "title": "Weaversong",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Deepnest",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Weaversong",
+          "dlc": "grimm-troupe",
+          "image": "game:charm_grimm_silkweaver",
+          "details": null,
+          "areas": [
+            "Deepnest"
+          ]
+        },
+        {
+          "id": "gotCharm_40",
+          "title": "Grimmchild",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Grimmchild",
+          "dlc": "grimm-troupe",
+          "image": "game:charm_grimmkin_01",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "killedGrimm",
+          "title": "Troupe Master Grimm",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Troupe_Master_Grimm",
+          "dlc": "grimm-troupe",
+          "image": "game:Bestiary_Grimm_boss",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "grimmRitual",
+          "title": "Accomplir le rituel ou bannir la troupe",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Grimm_Troupe",
+          "dlc": "grimm-troupe",
+          "image": "game:Grimmkin_lantern",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        }
+      ],
+      "tally": {
+        "done": 6,
+        "total": 6
+      }
+    },
+    {
+      "id": "lifeblood",
+      "title": "Lifeblood",
+      "group": "Complétion 112 %",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "killedHiveKnight",
+          "title": "Hive Knight",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Kingdom's Edge",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Hive_Knight",
+          "dlc": "lifeblood",
+          "image": "game:bestiary_hive_knight_f",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        }
+      ],
+      "tally": {
+        "done": 1,
+        "total": 1
+      }
+    },
+    {
+      "id": "godmaster",
+      "title": "Godmaster",
+      "group": "Complétion 112 %",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "hasGodfinder",
+          "title": "Godtuner",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Godhome",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Godtuner",
+          "dlc": "godmaster",
+          "image": "game:pin_god_seeker",
+          "details": null,
+          "areas": [
+            "Godhome"
+          ]
+        },
+        {
+          "id": "pantheon1",
+          "title": "Pantheon of the Master",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Godhome",
+          "spoiler": "minor",
+          "link": "https://hollowknight.wiki/w/Pantheon_of_the_Master",
+          "dlc": "godmaster",
+          "image": "game:pin_god_seeker",
+          "details": null,
+          "areas": [
+            "Godhome"
+          ]
+        },
+        {
+          "id": "pantheon2",
+          "title": "Pantheon of the Artist",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Godhome",
+          "spoiler": "minor",
+          "link": "https://hollowknight.wiki/w/Pantheon_of_the_Artist",
+          "dlc": "godmaster",
+          "image": "game:pin_god_seeker",
+          "details": null,
+          "areas": [
+            "Godhome"
+          ]
+        },
+        {
+          "id": "pantheon3",
+          "title": "Pantheon of the Sage",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Godhome",
+          "spoiler": "minor",
+          "link": "https://hollowknight.wiki/w/Pantheon_of_the_Sage",
+          "dlc": "godmaster",
+          "image": "game:pin_god_seeker",
+          "details": null,
+          "areas": [
+            "Godhome"
+          ]
+        },
+        {
+          "id": "pantheon4",
+          "title": "Pantheon of the Knight",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": "Godhome",
+          "spoiler": "minor",
+          "link": "https://hollowknight.wiki/w/Pantheon_of_the_Knight",
+          "dlc": "godmaster",
+          "image": "game:pin_god_seeker",
+          "details": null,
+          "areas": [
+            "Godhome"
+          ]
+        }
+      ],
+      "tally": {
+        "done": 4,
+        "total": 5
+      }
+    },
+    {
+      "id": "endings",
+      "title": "Fins et panthéon final",
+      "group": "Au-delà du 112 %",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "killedHollowKnight",
+          "title": "The Hollow Knight",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Forgotten Crossroads",
+          "spoiler": "major",
+          "link": "https://hollowknight.wiki/w/The_Hollow_Knight",
+          "dlc": null,
+          "image": "game:bestiary__0003_hollow-knight",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "killedFinalBoss",
+          "title": "The Radiance",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Forgotten Crossroads",
+          "spoiler": "major",
+          "link": "https://hollowknight.wiki/w/The_Radiance",
+          "dlc": null,
+          "image": "game:bestiary__0001_radiant_moth",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "pantheon5",
+          "title": "Pantheon of Hallownest",
+          "status": "locked",
+          "progress": null,
+          "hint": null,
+          "location": "Godhome",
+          "spoiler": "minor",
+          "link": "https://hollowknight.wiki/w/Pantheon_of_Hallownest",
+          "dlc": "godmaster",
+          "image": "game:pin_god_seeker",
+          "details": null,
+          "areas": [
+            "Godhome"
+          ]
+        }
+      ],
+      "tally": {
+        "done": 2,
+        "total": 3
+      }
+    },
+    {
+      "id": "optional",
+      "title": "Boss optionnels",
+      "group": "Au-delà du 112 %",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "greyPrinceDefeated",
+          "title": "Grey Prince Zote",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Grey_Prince_Zote",
+          "dlc": "hidden-dreams",
+          "image": "game:bestiary_mighty_zote_full",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "killedWhiteDefender",
+          "title": "White Defender",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Royal Waterways",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/White_Defender",
+          "dlc": "hidden-dreams",
+          "image": "game:bestiary_White_Defender_full",
+          "details": null,
+          "areas": [
+            "Royal Waterways"
+          ]
+        },
+        {
+          "id": "killedNightmareGrimm",
+          "title": "Nightmare King Grimm",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Nightmare_King_Grimm",
+          "dlc": "grimm-troupe",
+          "image": "game:Bestiary_Grimm_Nightmare_boss",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        }
+      ],
+      "tally": {
+        "done": 2,
+        "total": 3
+      }
+    },
+    {
+      "id": "collection",
+      "title": "Objets",
+      "group": "Au-delà du 112 %",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "grubs",
+          "title": "Larves libérées",
+          "status": "done",
+          "progress": {
+            "current": 46,
+            "total": 46
+          },
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Grub",
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "charmNotches",
+          "title": "Encoches de charme",
+          "status": "done",
+          "progress": {
+            "current": 11,
+            "total": 11
+          },
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Charm_Notch",
+          "dlc": null,
+          "image": "game:Charm_Notch",
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "hasLantern",
+          "title": "Lumafly Lantern",
+          "status": "done",
+          "progress": null,
+          "hint": "Sly · 1800 géo",
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": "https://hollowknight.wiki/w/Lumafly_Lantern",
+          "dlc": null,
+          "image": "game:Lumafly_Lantern0000",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        }
+      ],
+      "tally": {
+        "done": 3,
+        "total": 3
+      }
+    },
+    {
+      "id": "journal",
+      "title": "Journal du Chasseur",
+      "group": "Bestiaire",
+      "view": "gallery",
+      "optional": false,
+      "items": [
+        {
+          "id": "journal-Crawler",
+          "title": "Crawler",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_crawler_f",
+          "details": null,
+          "areas": [
+            "White Palace",
+            "Forgotten Crossroads",
+            "Howling Cliffs",
+            "Royal Waterways",
+            "Resting Grounds",
+            "Greenpath",
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "journal-Buzzer",
+          "title": "Buzzer",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_buzzer_f",
+          "details": null,
+          "areas": [
+            "City of Tears",
+            "Forgotten Crossroads",
+            "Howling Cliffs",
+            "Resting Grounds",
+            "Greenpath",
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "journal-Bouncer",
+          "title": "Bouncer",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 13 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_bouncer_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "journal-Climber",
+          "title": "Climber",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_climber_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads",
+            "Howling Cliffs",
+            "Resting Grounds",
+            "Greenpath"
+          ]
+        },
+        {
+          "id": "journal-Hopper",
+          "title": "Hopper",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_hopper_f",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-Worm",
+          "title": "Worm",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_armoured-worm_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads",
+            "Deepnest"
+          ]
+        },
+        {
+          "id": "journal-Spitter",
+          "title": "Spitter",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0009_spitter",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads",
+            "Ancient Basin"
+          ]
+        },
+        {
+          "id": "journal-Hatcher",
+          "title": "Hatcher",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_hatcher_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "journal-Hatchling",
+          "title": "Hatchling",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_hatcher_baby_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "journal-ZombieRunner",
+          "title": "Zombie Runner",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 5 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_bug_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads",
+            "Deepnest",
+            "Greenpath",
+            "City of Tears"
+          ]
+        },
+        {
+          "id": "journal-ZombieHornhead",
+          "title": "Zombie Hornhead",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_hornhead_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads",
+            "City of Tears",
+            "Deepnest",
+            "Howling Cliffs",
+            "Greenpath",
+            "Royal Waterways",
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "journal-ZombieLeaper",
+          "title": "Zombie Leaper",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 16 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_leaper_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads",
+            "City of Tears",
+            "Howling Cliffs",
+            "Greenpath"
+          ]
+        },
+        {
+          "id": "journal-ZombieBarger",
+          "title": "Zombie Barger",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 10 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_barger_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads",
+            "City of Tears",
+            "Howling Cliffs",
+            "Royal Waterways",
+            "Greenpath"
+          ]
+        },
+        {
+          "id": "journal-ZombieShield",
+          "title": "Zombie Shield",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 7 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_shell-shielder_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "journal-ZombieGuard",
+          "title": "Zombie Guard",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 4 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_crossroads-guard_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "journal-BigBuzzer",
+          "title": "Big Buzzer",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_big-buzzer_f",
+          "details": null,
+          "areas": [
+            "Greenpath",
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-BigFly",
+          "title": "Big Fly",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_big-bouncer_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "journal-Mawlek",
+          "title": "Mawlek",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mawlek_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "journal-FalseKnight",
+          "title": "False Knight",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_false-knight_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "journal-Roller",
+          "title": "Roller",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_roller_f",
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "journal-Blocker",
+          "title": "Blocker",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_blocker_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads",
+            "Howling Cliffs"
+          ]
+        },
+        {
+          "id": "journal-PrayerSlug",
+          "title": "Prayer Slug",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_prayer_slug_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "journal-MenderBug",
+          "title": "Mender Bug",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_menderbug_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "journal-MossmanRunner",
+          "title": "Mossman Runner",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 18 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mossman_runner_f",
+          "details": null,
+          "areas": [
+            "Greenpath"
+          ]
+        },
+        {
+          "id": "journal-MossmanShaker",
+          "title": "Mossman Shaker",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 14 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mossman_shaker_f",
+          "details": null,
+          "areas": [
+            "Greenpath"
+          ]
+        },
+        {
+          "id": "journal-Mosquito",
+          "title": "Mosquito",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 1 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mosquito_f",
+          "details": null,
+          "areas": [
+            "Greenpath"
+          ]
+        },
+        {
+          "id": "journal-BlobFlyer",
+          "title": "Blob Flyer",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 14 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_blob_fly_f",
+          "details": null,
+          "areas": [
+            "Greenpath"
+          ]
+        },
+        {
+          "id": "journal-FungifiedZombie",
+          "title": "Fungified Zombie",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 8 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_fungus_zombie_02_f",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "journal-PlantShooter",
+          "title": "Plant Shooter",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_spit_turret_f",
+          "details": null,
+          "areas": [
+            "Greenpath"
+          ]
+        },
+        {
+          "id": "journal-MossCharger",
+          "title": "Moss Charger",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 12 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_moss_charger_f",
+          "details": null,
+          "areas": [
+            "Greenpath"
+          ]
+        },
+        {
+          "id": "journal-MegaMossCharger",
+          "title": "Mega Moss Charger",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mega_moss_charger_f",
+          "details": null,
+          "areas": [
+            "Greenpath"
+          ]
+        },
+        {
+          "id": "journal-SnapperTrap",
+          "title": "Snapper Trap",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 11 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_snap_turret_f",
+          "details": null,
+          "areas": [
+            "Greenpath",
+            "Queen's Gardens"
+          ]
+        },
+        {
+          "id": "journal-MossKnight",
+          "title": "Moss Knight",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 5 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_moss_knight_f",
+          "details": null,
+          "areas": [
+            "Greenpath"
+          ]
+        },
+        {
+          "id": "journal-GrassHopper",
+          "title": "Grass Hopper",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 4 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0029_crazy-hopper",
+          "details": null,
+          "areas": [
+            "Queen's Gardens"
+          ]
+        },
+        {
+          "id": "journal-AcidFlyer",
+          "title": "Acid Flyer",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0039_acid-flyer",
+          "details": null,
+          "areas": [
+            "Greenpath"
+          ]
+        },
+        {
+          "id": "journal-AcidWalker",
+          "title": "Acid Walker",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0037_acid-walker",
+          "details": null,
+          "areas": [
+            "Greenpath",
+            "Queen's Gardens"
+          ]
+        },
+        {
+          "id": "journal-MossFlyer",
+          "title": "Moss Flyer",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0017_green-flyer",
+          "details": null,
+          "areas": [
+            "Queen's Gardens",
+            "Fog Canyon"
+          ]
+        },
+        {
+          "id": "journal-MossKnightFat",
+          "title": "Moss Knight Fat",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_moss_knight_fat_f",
+          "details": null,
+          "areas": [
+            "Queen's Gardens"
+          ]
+        },
+        {
+          "id": "journal-MossWalker",
+          "title": "Moss Walker",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 23 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0041_moss-crawler",
+          "details": null,
+          "areas": [
+            "Greenpath",
+            "Queen's Gardens"
+          ]
+        },
+        {
+          "id": "journal-InfectedKnight",
+          "title": "Infected Knight",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_infected_knight_f",
+          "details": null,
+          "areas": [
+            "Ancient Basin"
+          ]
+        },
+        {
+          "id": "journal-LazyFlyer",
+          "title": "Lazy Flyer",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_fung_lazy_flyer_f",
+          "details": null,
+          "areas": [
+            "Greenpath",
+            "Queen's Gardens"
+          ]
+        },
+        {
+          "id": "journal-ZapBug",
+          "title": "Zap Bug",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_zap_bugs_f",
+          "details": null,
+          "areas": [
+            "Fog Canyon"
+          ]
+        },
+        {
+          "id": "journal-Jellyfish",
+          "title": "Jellyfish",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_jellyfish_f",
+          "details": null,
+          "areas": [
+            "Fog Canyon"
+          ]
+        },
+        {
+          "id": "journal-JellyCrawler",
+          "title": "Jelly Crawler",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0025_jelly-mini",
+          "details": null,
+          "areas": [
+            "Fog Canyon"
+          ]
+        },
+        {
+          "id": "journal-MegaJellyfish",
+          "title": "Mega Jellyfish",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0073_giant-jellyfish",
+          "details": null,
+          "areas": [
+            "Godhome"
+          ]
+        },
+        {
+          "id": "journal-FungoonBaby",
+          "title": "Fungoon Baby",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 6 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0033_fungoon-mini",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "journal-MushroomTurret",
+          "title": "Mushroom Turret",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 16 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mushroom_turret_f",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "journal-Mantis",
+          "title": "Mantis",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 19 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mantis_f",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "journal-MushroomRoller",
+          "title": "Mushroom Roller",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 13 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mushroom_roller_f",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "journal-MushroomBrawler",
+          "title": "Mushroom Brawler",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 2 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mushroom_brawler_f",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "journal-MushroomBaby",
+          "title": "Mushroom Baby",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 4 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mushroom_mini_f",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "journal-MantisFlyerChild",
+          "title": "Mantis Flyer Child",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 18 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mantis_flyer_f",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "journal-FungusFlyer",
+          "title": "Fungus Flyer",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 8 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0031_fungoon",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "journal-FungCrawler",
+          "title": "Fung Crawler",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0015_fung-crawler",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "journal-MantisLord",
+          "title": "Mantis Lord",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mantis_lords_f",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "journal-BlackKnight",
+          "title": "Black Knight",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_black_knight_f",
+          "details": null,
+          "areas": [
+            "City of Tears"
+          ]
+        },
+        {
+          "id": "journal-ElectricMage",
+          "title": "Electric Mage",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 2 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_electric_mage_f",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-Mage",
+          "title": "Mage",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 11 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mage_f",
+          "details": null,
+          "areas": [
+            "City of Tears",
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-MageKnight",
+          "title": "Mage Knight",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mage_knight_f",
+          "details": null,
+          "areas": [
+            "City of Tears",
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-RoyalDandy",
+          "title": "Royal Dandy",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 1 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_royal_zombie_point_f",
+          "details": null,
+          "areas": [
+            "City of Tears"
+          ]
+        },
+        {
+          "id": "journal-RoyalCoward",
+          "title": "Royal Coward",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_royal_zombie_flat_f",
+          "details": null,
+          "areas": [
+            "City of Tears"
+          ]
+        },
+        {
+          "id": "journal-RoyalPlumper",
+          "title": "Royal Plumper",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 5 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_royal_zombie_fat_f",
+          "details": null,
+          "areas": [
+            "City of Tears"
+          ]
+        },
+        {
+          "id": "journal-FlyingSentrySword",
+          "title": "Flying Sentry Sword",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_ruins_zombie_flier_f",
+          "details": null,
+          "areas": [
+            "City of Tears",
+            "Royal Waterways",
+            "Resting Grounds"
+          ]
+        },
+        {
+          "id": "journal-FlyingSentryJavelin",
+          "title": "Flying Sentry Javelin",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 5 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_ruins_zombie_lance_f",
+          "details": null,
+          "areas": [
+            "City of Tears",
+            "Royal Waterways"
+          ]
+        },
+        {
+          "id": "journal-Sentry",
+          "title": "Sentry",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_ruins_zombie_f",
+          "details": null,
+          "areas": [
+            "City of Tears",
+            "Royal Waterways",
+            "Resting Grounds"
+          ]
+        },
+        {
+          "id": "journal-SentryFat",
+          "title": "Sentry Fat",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 5 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_ruins_zombie_big_f",
+          "details": null,
+          "areas": [
+            "City of Tears",
+            "Royal Waterways"
+          ]
+        },
+        {
+          "id": "journal-MageBlob",
+          "title": "Mage Blob",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0023_mage-blob",
+          "details": null,
+          "areas": [
+            "City of Tears",
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-GreatShieldZombie",
+          "title": "Great Shield Zombie",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__ruin_shield_guard_f",
+          "details": null,
+          "areas": [
+            "City of Tears",
+            "Resting Grounds"
+          ]
+        },
+        {
+          "id": "journal-JarCollector",
+          "title": "Jar Collector",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0069_collector",
+          "details": null,
+          "areas": [
+            "City of Tears"
+          ]
+        },
+        {
+          "id": "journal-MageBalloon",
+          "title": "Mage Balloon",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0021_mage-balloon",
+          "details": null,
+          "areas": [
+            "City of Tears",
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-MageLord",
+          "title": "Mage Lord",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mage_lord_f",
+          "details": null,
+          "areas": [
+            "City of Tears"
+          ]
+        },
+        {
+          "id": "journal-GorgeousHusk",
+          "title": "Gorgeous Husk",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_gold_royal_f",
+          "details": null,
+          "areas": [
+            "City of Tears"
+          ]
+        },
+        {
+          "id": "journal-FlipHopper",
+          "title": "Flip Hopper",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 7 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_flipper_f",
+          "details": null,
+          "areas": [
+            "Royal Waterways"
+          ]
+        },
+        {
+          "id": "journal-Flukeman",
+          "title": "Flukeman",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_flukeman_f",
+          "details": null,
+          "areas": [
+            "Royal Waterways"
+          ]
+        },
+        {
+          "id": "journal-Inflater",
+          "title": "Inflater",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 4 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_inflater_f",
+          "details": null,
+          "areas": [
+            "Royal Waterways"
+          ]
+        },
+        {
+          "id": "journal-Flukefly",
+          "title": "Flukefly",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0055_fluke-fairy",
+          "details": null,
+          "areas": [
+            "Royal Waterways"
+          ]
+        },
+        {
+          "id": "journal-FlukeMother",
+          "title": "Fluke Mother",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0057_fluke-mother",
+          "details": null,
+          "areas": [
+            "Royal Waterways"
+          ]
+        },
+        {
+          "id": "journal-DungDefender",
+          "title": "Dung Defender",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0005_dung-defender",
+          "details": null,
+          "areas": [
+            "Royal Waterways"
+          ]
+        },
+        {
+          "id": "journal-CrystalCrawler",
+          "title": "Crystal Crawler",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 6 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mines_goomba_f",
+          "details": null,
+          "areas": [
+            "Crystal Peak",
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "journal-CrystalFlyer",
+          "title": "Crystal Flyer",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 7 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mines_flier_f",
+          "details": null,
+          "areas": [
+            "Crystal Peak"
+          ]
+        },
+        {
+          "id": "journal-LaserBug",
+          "title": "Laser Bug",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mines_climber_f",
+          "details": null,
+          "areas": [
+            "Crystal Peak"
+          ]
+        },
+        {
+          "id": "journal-BeamMiner",
+          "title": "Beam Miner",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 6 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_zombie_miner_crystal_f",
+          "details": null,
+          "areas": [
+            "Crystal Peak"
+          ]
+        },
+        {
+          "id": "journal-ZombieMiner",
+          "title": "Zombie Miner",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 7 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_zombie_miner_f",
+          "details": null,
+          "areas": [
+            "Crystal Peak",
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "journal-MegaBeamMiner",
+          "title": "Mega Beam Miner",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0065_mega-beam-miner",
+          "details": null,
+          "areas": [
+            "Crystal Peak"
+          ]
+        },
+        {
+          "id": "journal-MinesCrawler",
+          "title": "Mines Crawler",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 5 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0019_mines-crawler",
+          "details": null,
+          "areas": [
+            "Crystal Peak"
+          ]
+        },
+        {
+          "id": "journal-AngryBuzzer",
+          "title": "Angry Buzzer",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_infected_buzzer_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "journal-BurstingBouncer",
+          "title": "Bursting Bouncer",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_infected_fly_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "journal-BurstingZombie",
+          "title": "Bursting Zombie",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_infected_husk1_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "journal-SpittingZombie",
+          "title": "Spitting Zombie",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_infected_husk2_f",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "journal-BabyCentipede",
+          "title": "Baby Centipede",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_centipede_f",
+          "details": null,
+          "areas": [
+            "Deepnest"
+          ]
+        },
+        {
+          "id": "journal-BigCentipede",
+          "title": "Big Centipede",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_big_centipede_f",
+          "details": null,
+          "areas": [
+            "Deepnest"
+          ]
+        },
+        {
+          "id": "journal-CentipedeHatcher",
+          "title": "Centipede Hatcher",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_centipede_hatcher_f",
+          "details": null,
+          "areas": [
+            "Deepnest"
+          ]
+        },
+        {
+          "id": "journal-LesserMawlek",
+          "title": "Lesser Mawlek",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mini_mawlek_f",
+          "details": null,
+          "areas": [
+            "Ancient Basin"
+          ]
+        },
+        {
+          "id": "journal-SlashSpider",
+          "title": "Slash Spider",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 11 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_spider_soldier_f",
+          "details": null,
+          "areas": [
+            "Deepnest"
+          ]
+        },
+        {
+          "id": "journal-SpiderCorpse",
+          "title": "Spider Corpse",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 10 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_zombie_spider_01_f",
+          "details": null,
+          "areas": [
+            "Deepnest"
+          ]
+        },
+        {
+          "id": "journal-ShootSpider",
+          "title": "Shoot Spider",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 4 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0051_spit-spider",
+          "details": null,
+          "areas": [
+            "Deepnest"
+          ]
+        },
+        {
+          "id": "journal-MiniSpider",
+          "title": "Mini Spider",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 9 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_tiny_spider_f",
+          "details": null,
+          "areas": [
+            "Deepnest"
+          ]
+        },
+        {
+          "id": "journal-SpiderFlyer",
+          "title": "Spider Flyer",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 3 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0011_spider-flyer",
+          "details": null,
+          "areas": [
+            "Deepnest"
+          ]
+        },
+        {
+          "id": "journal-MimicSpider",
+          "title": "Mimic Spider",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0059_mimic-spider",
+          "details": null,
+          "areas": [
+            "Deepnest"
+          ]
+        },
+        {
+          "id": "journal-BeeHatchling",
+          "title": "Bee Hatchling",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_bee_tiny",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-BeeStinger",
+          "title": "Bee Stinger",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_bee_f",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-BigBee",
+          "title": "Big Bee",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 8 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_bee_big_f",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-HiveKnight",
+          "title": "Hive Knight",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": "lifeblood",
+          "image": "game:bestiary_hive_knight_f",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-BlowFly",
+          "title": "Blow Fly",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 13 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0053_blow-fly",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-CeilingDropper",
+          "title": "Ceiling Dropper",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_bat_dropper_f",
+          "details": null,
+          "areas": [
+            "Royal Waterways",
+            "City of Tears",
+            "Kingdom's Edge",
+            "Ancient Basin",
+            "Resting Grounds"
+          ]
+        },
+        {
+          "id": "journal-GiantHopper",
+          "title": "Giant Hopper",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 3 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0071_giant-hopper",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-GrubMimic",
+          "title": "Grub Mimic",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 1 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mimic_grub_f",
+          "details": null,
+          "areas": [
+            "Deepnest",
+            "Crystal Peak"
+          ]
+        },
+        {
+          "id": "journal-MawlekTurret",
+          "title": "Mawlek Turret",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 5 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_mawlek_turret_f",
+          "details": null,
+          "areas": [
+            "Ancient Basin"
+          ]
+        },
+        {
+          "id": "journal-OrangeScuttler",
+          "title": "Orange Scuttler",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0013_orange-blob",
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "journal-HealthScuttler",
+          "title": "Health Scuttler",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 6 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_blue_blob_f",
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "journal-Pigeon",
+          "title": "Pigeon",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 9 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_fung_pigeon_flyer_f",
+          "details": null,
+          "areas": [
+            "Greenpath",
+            "Queen's Gardens"
+          ]
+        },
+        {
+          "id": "journal-ZombieHive",
+          "title": "Zombie Hive",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 8 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_zombie_hive_f",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-Hornet",
+          "title": "Hornet",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_hornet",
+          "details": null,
+          "areas": [
+            "Dirtmouth",
+            "Kingdom's Edge",
+            "Greenpath"
+          ]
+        },
+        {
+          "id": "journal-AbyssCrawler",
+          "title": "Abyss Crawler",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0047_abyss-crawler",
+          "details": null,
+          "areas": [
+            "Ancient Basin"
+          ]
+        },
+        {
+          "id": "journal-SuperSpitter",
+          "title": "Super Spitter",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_super_spitter_f",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-Sibling",
+          "title": "Sibling",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0045_shade-sibling",
+          "details": null,
+          "areas": [
+            "Ancient Basin"
+          ]
+        },
+        {
+          "id": "journal-PalaceFly",
+          "title": "Palace Fly",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0043_white-palace-fly",
+          "details": null,
+          "areas": [
+            "White Palace"
+          ]
+        },
+        {
+          "id": "journal-EggSac",
+          "title": "Egg Sac",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 3 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_egg_sac",
+          "details": null,
+          "areas": [
+            "Royal Waterways",
+            "Crystal Peak",
+            "Resting Grounds",
+            "Deepnest",
+            "Kingdom's Edge",
+            "Queen's Gardens"
+          ]
+        },
+        {
+          "id": "journal-Mummy",
+          "title": "Mummy",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0007_grave-zombie",
+          "details": null,
+          "areas": [
+            "Resting Grounds"
+          ]
+        },
+        {
+          "id": "journal-OrangeBalloon",
+          "title": "Orange Balloon",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 5 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_parasite_flyer_f",
+          "details": null,
+          "areas": [
+            "Ancient Basin"
+          ]
+        },
+        {
+          "id": "journal-AbyssTendril",
+          "title": "Abyss Tendril",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_abyss_tendrils_f",
+          "details": null,
+          "areas": [
+            "Ancient Basin"
+          ]
+        },
+        {
+          "id": "journal-HeavyMantis",
+          "title": "Heavy Mantis",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_heavy_mantis_f",
+          "details": null,
+          "areas": [
+            "Queen's Gardens"
+          ]
+        },
+        {
+          "id": "journal-TraitorLord",
+          "title": "Traitor Lord",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0061_traitor-lord",
+          "details": null,
+          "areas": [
+            "Queen's Gardens"
+          ]
+        },
+        {
+          "id": "journal-MantisHeavyFlyer",
+          "title": "Mantis Heavy Flyer",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_heavy_mantis_flyer_f",
+          "details": null,
+          "areas": [
+            "Queen's Gardens"
+          ]
+        },
+        {
+          "id": "journal-GardenZombie",
+          "title": "Garden Zombie",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_fungus_zombie_03_f",
+          "details": null,
+          "areas": [
+            "Queen's Gardens"
+          ]
+        },
+        {
+          "id": "journal-RoyalGuard",
+          "title": "Royal Guard",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_kingsguard_f",
+          "details": null,
+          "areas": [
+            "White Palace"
+          ]
+        },
+        {
+          "id": "journal-WhiteRoyal",
+          "title": "White Royal",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_white_servant_f",
+          "details": null,
+          "areas": [
+            "White Palace"
+          ]
+        },
+        {
+          "id": "journal-Oblobble",
+          "title": "Oblobble",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0063_giant-fat-bee",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-Zote",
+          "title": "Zote",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0049_zote",
+          "details": null,
+          "areas": [
+            "Godhome"
+          ]
+        },
+        {
+          "id": "journal-Blobble",
+          "title": "Blobble",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0035_blobble",
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "journal-ColMosquito",
+          "title": "Col Mosquito",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_colosseum_armoured_mosquito_f",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-ColRoller",
+          "title": "Col Roller",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 3 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_colosseum_armoured_roller_f",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-ColFlyingSentry",
+          "title": "Col Flying Sentry",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_colosseum_flying_gladiator_f",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-ColMiner",
+          "title": "Col Miner",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 10 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_colosseum_miner",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-ColShield",
+          "title": "Col Shield",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 10 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_colosseum_shield_gladiator_f",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-ColWorm",
+          "title": "Col Worm",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 2 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_colosseum_worm_f",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-ColHopper",
+          "title": "Col Hopper",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_colosseum_hopper_f",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-LobsterLancer",
+          "title": "Lobster Lancer",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0067_lobster-lancer",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-GhostAladar",
+          "title": "Ghost Aladar",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_ghosts__0000_brain-slug",
+          "details": null,
+          "areas": [
+            "Howling Cliffs"
+          ]
+        },
+        {
+          "id": "journal-GhostXero",
+          "title": "Ghost Xero",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_ghosts__0001_xero",
+          "details": null,
+          "areas": [
+            "Resting Grounds"
+          ]
+        },
+        {
+          "id": "journal-GhostHu",
+          "title": "Ghost Hu",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_ghosts__0002_elderhu",
+          "details": null,
+          "areas": [
+            "Fungal Wastes"
+          ]
+        },
+        {
+          "id": "journal-GhostMarmu",
+          "title": "Ghost Marmu",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_ghosts__0005_marmu",
+          "details": null,
+          "areas": [
+            "Queen's Gardens"
+          ]
+        },
+        {
+          "id": "journal-GhostNoEyes",
+          "title": "Ghost No Eyes",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_ghosts__0006_no-eyes",
+          "details": null,
+          "areas": [
+            "Godhome"
+          ]
+        },
+        {
+          "id": "journal-GhostMarkoth",
+          "title": "Ghost Markoth",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_ghosts__0004_markoth",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-GhostGalien",
+          "title": "Ghost Galien",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_ghosts__0003_galien",
+          "details": null,
+          "areas": [
+            "Deepnest"
+          ]
+        },
+        {
+          "id": "journal-WhiteDefender",
+          "title": "White Defender",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": "hidden-dreams",
+          "image": "game:bestiary_White_Defender_full",
+          "details": null,
+          "areas": [
+            "Godhome"
+          ]
+        },
+        {
+          "id": "journal-GreyPrince",
+          "title": "Grey Prince",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": "hidden-dreams",
+          "image": "game:bestiary_mighty_zote_full",
+          "details": null,
+          "areas": [
+            "Godhome"
+          ]
+        },
+        {
+          "id": "journal-ZotelingBalloon",
+          "title": "Zoteling Balloon",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": "hidden-dreams",
+          "image": "game:bestiary_mighty_zote_balloon_full",
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "journal-ZotelingHopper",
+          "title": "Zoteling Hopper",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": "hidden-dreams",
+          "image": "game:bestiary_mighty_zote_hopper_full",
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "journal-ZotelingBuzzer",
+          "title": "Zoteling Buzzer",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": "hidden-dreams",
+          "image": "game:bestiary_mighty_zoteling_full",
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "journal-HollowKnight",
+          "title": "Hollow Knight",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0003_hollow-knight",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "journal-FinalBoss",
+          "title": "Final Boss",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary__0001_radiant_moth",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "journal-HunterMark",
+          "title": "Hunter Mark",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_hunter_mark_f",
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "journal-FlameBearerSmall",
+          "title": "Flame Bearer Small",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": "grimm-troupe",
+          "image": "game:Bestiary_Grimmkin_little",
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "journal-FlameBearerMed",
+          "title": "Flame Bearer Med",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": "grimm-troupe",
+          "image": "game:Bestiary_Grimmkin_fat",
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "journal-FlameBearerLarge",
+          "title": "Flame Bearer Large",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": "grimm-troupe",
+          "image": "game:Bestiary_Grimmkin_tall",
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "journal-Grimm",
+          "title": "Grimm",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": "grimm-troupe",
+          "image": "game:Bestiary_Grimm_boss",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "journal-NightmareGrimm",
+          "title": "Nightmare Grimm",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": "grimm-troupe",
+          "image": "game:Bestiary_Grimm_Nightmare_boss",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "journal-BindingSeal",
+          "title": "Binding Seal",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": null,
+          "image": "game:vessel_seal",
+          "details": null,
+          "areas": [
+            "Godhome"
+          ]
+        },
+        {
+          "id": "journal-FatFluke",
+          "title": "Fat Fluke",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "Encore 1 à vaincre pour les notes du Chasseur",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_fat_fluke_full",
+          "details": null,
+          "areas": [
+            "Royal Waterways"
+          ]
+        },
+        {
+          "id": "journal-PaleLurker",
+          "title": "Pale Lurker",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:bestiary_gg__0009_pale_runaway",
+          "details": null,
+          "areas": [
+            "Kingdom's Edge"
+          ]
+        },
+        {
+          "id": "journal-NailBros",
+          "title": "Nail Bros",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": "godmaster",
+          "image": "game:bestiary_gg__0006_nailmasters",
+          "details": null,
+          "areas": [
+            "Godhome"
+          ]
+        },
+        {
+          "id": "journal-Paintmaster",
+          "title": "Paintmaster",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": "godmaster",
+          "image": "game:bestiary_gg__0007_paintmaster",
+          "details": null,
+          "areas": [
+            "Godhome"
+          ]
+        },
+        {
+          "id": "journal-Nailsage",
+          "title": "Nailsage",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": "godmaster",
+          "image": "game:bestiary_gg__0005_sage",
+          "details": null,
+          "areas": [
+            "Godhome"
+          ]
+        },
+        {
+          "id": "journal-HollowKnightPrime",
+          "title": "Hollow Knight Prime",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": "godmaster",
+          "image": "game:bestiary_gg__0008_HK_prime",
+          "details": null,
+          "areas": [
+            "Godhome"
+          ]
+        },
+        {
+          "id": "journal-GodseekerMask",
+          "title": "Godseeker Mask",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": "godmaster",
+          "image": "game:bestiary_gg_mask",
+          "details": null,
+          "areas": [
+            "Godhome"
+          ]
+        },
+        {
+          "id": "journal-VoidIdol_1",
+          "title": "Void Idol 1",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": "godmaster",
+          "image": "game:bestiary_gg_void_idol",
+          "details": null,
+          "areas": [
+            "Godhome"
+          ]
+        },
+        {
+          "id": "journal-VoidIdol_2",
+          "title": "Void Idol 2",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": "godmaster",
+          "image": "game:bestiary_gg_void_idol",
+          "details": null,
+          "areas": [
+            "Godhome"
+          ]
+        },
+        {
+          "id": "journal-VoidIdol_3",
+          "title": "Void Idol 3",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "major",
+          "link": null,
+          "dlc": "godmaster",
+          "image": "game:bestiary_gg_void_idol",
+          "details": null,
+          "areas": [
+            "Godhome"
+          ]
+        }
+      ],
+      "tally": {
+        "done": 90,
+        "total": 169
+      }
+    },
+    {
+      "id": "shops",
+      "title": "Boutiques",
+      "group": "Au-delà du 112 %",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "slyShellFrag1",
+          "title": "Fragment de masque",
+          "status": "done",
+          "progress": null,
+          "hint": "Sly · 150 géo",
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:select_game_HUD_0001_health",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "slyShellFrag2",
+          "title": "Fragment de masque",
+          "status": "done",
+          "progress": null,
+          "hint": "Sly · 500 géo",
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:select_game_HUD_0001_health",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "slyVesselFrag1",
+          "title": "Fragment de réceptacle",
+          "status": "done",
+          "progress": null,
+          "hint": "Sly · 550 géo",
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:Inv_0031_inv_soul_piece_full",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "slyRancidEgg",
+          "title": "Œuf rance",
+          "status": "done",
+          "progress": null,
+          "hint": "Sly · 60 géo",
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:inv_rancid_egg",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "slySimpleKey",
+          "title": "Clé simple",
+          "status": "done",
+          "progress": null,
+          "hint": "Sly · 950 géo",
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:inv_Waterways_Key",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "slyShellFrag3",
+          "title": "Fragment de masque",
+          "status": "done",
+          "progress": null,
+          "hint": "Sly · 800 géo, avec la clé du boutiquier",
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:select_game_HUD_0001_health",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "slyShellFrag4",
+          "title": "Fragment de masque",
+          "status": "done",
+          "progress": null,
+          "hint": "Sly · 1500 géo, avec la clé du boutiquier",
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:select_game_HUD_0001_health",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "slyVesselFrag2",
+          "title": "Fragment de réceptacle",
+          "status": "done",
+          "progress": null,
+          "hint": "Sly · 900 géo, avec la clé du boutiquier",
+          "location": "Dirtmouth",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:Inv_0031_inv_soul_piece_full",
+          "details": null,
+          "areas": [
+            "Dirtmouth"
+          ]
+        },
+        {
+          "id": "salubraNotch1",
+          "title": "Encoche de charme",
+          "status": "done",
+          "progress": null,
+          "hint": "Salubra · 120 géo",
+          "location": "Forgotten Crossroads",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:charm_cost_full",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "salubraNotch2",
+          "title": "Encoche de charme",
+          "status": "done",
+          "progress": null,
+          "hint": "Salubra · 500 géo",
+          "location": "Forgotten Crossroads",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:charm_cost_full",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "salubraNotch3",
+          "title": "Encoche de charme",
+          "status": "done",
+          "progress": null,
+          "hint": "Salubra · 900 géo",
+          "location": "Forgotten Crossroads",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:charm_cost_full",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "salubraNotch4",
+          "title": "Encoche de charme",
+          "status": "done",
+          "progress": null,
+          "hint": "Salubra · 1400 géo",
+          "location": "Forgotten Crossroads",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:charm_cost_full",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        },
+        {
+          "id": "salubraBlessing",
+          "title": "Bénédiction de Salubra",
+          "status": "done",
+          "progress": null,
+          "hint": "Salubra · 800 géo",
+          "location": "Forgotten Crossroads",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": "game:pin_charm_slug",
+          "details": null,
+          "areas": [
+            "Forgotten Crossroads"
+          ]
+        }
+      ],
+      "tally": {
+        "done": 13,
+        "total": 13
+      }
+    }
+  ],
+  "maps": [
+    {
+      "id": "hallownest",
+      "title": "Hallownest",
+      "width": 2000.0,
+      "height": 1200.0,
+      "background": null,
+      "customBackground": false,
+      "generatedBackground": false,
+      "layout": null,
+      "regions": [
+        {
+          "id": "Howling Cliffs",
+          "label": "Howling Cliffs",
+          "points": [
+            [
+              40.0,
+              40.0
+            ],
+            [
+              420.0,
+              40.0
+            ],
+            [
+              400.0,
+              220.0
+            ],
+            [
+              60.0,
+              260.0
+            ]
+          ],
+          "items": [
+            "gotCharm_5",
+            "gotCharm_27",
+            "hasCyclone",
+            "aladarSlugDefeated"
+          ],
+          "tally": {
+            "done": 4,
+            "total": 4
+          }
+        },
+        {
+          "id": "Dirtmouth",
+          "label": "Dirtmouth",
+          "points": [
+            [
+              430.0,
+              40.0
+            ],
+            [
+              900.0,
+              40.0
+            ],
+            [
+              880.0,
+              170.0
+            ],
+            [
+              440.0,
+              180.0
+            ]
+          ],
+          "items": [
+            "gotCharm_1",
+            "gotCharm_2",
+            "gotCharm_4",
+            "gotCharm_6",
+            "gotCharm_15",
+            "gotCharm_26",
+            "gotCharm_37",
+            "gotCharm_40",
+            "killedGrimm",
+            "grimmRitual",
+            "greyPrinceDefeated",
+            "killedNightmareGrimm",
+            "hasLantern",
+            "slyShellFrag1",
+            "slyShellFrag2",
+            "slyVesselFrag1",
+            "slyRancidEgg",
+            "slySimpleKey",
+            "slyShellFrag3",
+            "slyShellFrag4",
+            "slyVesselFrag2"
+          ],
+          "tally": {
+            "done": 20,
+            "total": 21
+          }
+        },
+        {
+          "id": "Crystal Peak",
+          "label": "Crystal Peak",
+          "points": [
+            [
+              910.0,
+              40.0
+            ],
+            [
+              1480.0,
+              40.0
+            ],
+            [
+              1460.0,
+              230.0
+            ],
+            [
+              1180.0,
+              260.0
+            ],
+            [
+              920.0,
+              200.0
+            ]
+          ],
+          "items": [
+            "gotCharm_34",
+            "hasSuperDash",
+            "quakeLevel2"
+          ],
+          "tally": {
+            "done": 3,
+            "total": 3
+          }
+        },
+        {
+          "id": "Resting Grounds",
+          "label": "Resting Grounds",
+          "points": [
+            [
+              1490.0,
+              60.0
+            ],
+            [
+              1900.0,
+              80.0
+            ],
+            [
+              1880.0,
+              360.0
+            ],
+            [
+              1560.0,
+              380.0
+            ],
+            [
+              1470.0,
+              240.0
+            ]
+          ],
+          "items": [
+            "gotCharm_21",
+            "gotCharm_30",
+            "hasDreamNail",
+            "dreamNailUpgraded",
+            "mothDeparted",
+            "xeroDefeated",
+            "gotCharm_38"
+          ],
+          "tally": {
+            "done": 6,
+            "total": 7
+          }
+        },
+        {
+          "id": "Forgotten Crossroads",
+          "label": "Forgotten Crossroads",
+          "points": [
+            [
+              440.0,
+              190.0
+            ],
+            [
+              880.0,
+              175.0
+            ],
+            [
+              1170.0,
+              270.0
+            ],
+            [
+              1150.0,
+              420.0
+            ],
+            [
+              780.0,
+              450.0
+            ],
+            [
+              460.0,
+              400.0
+            ]
+          ],
+          "items": [
+            "gotCharm_3",
+            "gotCharm_7",
+            "gotCharm_8",
+            "gotCharm_14",
+            "gotCharm_18",
+            "gotCharm_19",
+            "gotCharm_20",
+            "gotCharm_22",
+            "gotCharm_35",
+            "killedBigFly",
+            "falseKnightDefeated",
+            "killedMawlek",
+            "killedHollowKnight",
+            "killedFinalBoss",
+            "salubraNotch1",
+            "salubraNotch2",
+            "salubraNotch3",
+            "salubraNotch4",
+            "salubraBlessing"
+          ],
+          "tally": {
+            "done": 19,
+            "total": 19
+          }
+        },
+        {
+          "id": "Greenpath",
+          "label": "Greenpath",
+          "points": [
+            [
+              60.0,
+              270.0
+            ],
+            [
+              400.0,
+              230.0
+            ],
+            [
+              450.0,
+              410.0
+            ],
+            [
+              420.0,
+              560.0
+            ],
+            [
+              80.0,
+              580.0
+            ]
+          ],
+          "items": [
+            "gotCharm_12",
+            "gotCharm_28",
+            "hasDash",
+            "fireballLevel1",
+            "hasDashSlash",
+            "hornet1Defeated",
+            "noEyesDefeated"
+          ],
+          "tally": {
+            "done": 7,
+            "total": 7
+          }
+        },
+        {
+          "id": "Fog Canyon",
+          "label": "Fog Canyon",
+          "points": [
+            [
+              430.0,
+              420.0
+            ],
+            [
+              700.0,
+              440.0
+            ],
+            [
+              700.0,
+              620.0
+            ],
+            [
+              440.0,
+              640.0
+            ]
+          ],
+          "items": [
+            "screamLevel1",
+            "monomonDefeated",
+            "defeatedMegaJelly"
+          ],
+          "tally": {
+            "done": 3,
+            "total": 3
+          }
+        },
+        {
+          "id": "Fungal Wastes",
+          "label": "Fungal Wastes",
+          "points": [
+            [
+              710.0,
+              450.0
+            ],
+            [
+              1000.0,
+              430.0
+            ],
+            [
+              1010.0,
+              760.0
+            ],
+            [
+              720.0,
+              800.0
+            ],
+            [
+              700.0,
+              630.0
+            ]
+          ],
+          "items": [
+            "gotCharm_13",
+            "gotCharm_17",
+            "gotCharm_23",
+            "gotCharm_24",
+            "gotCharm_25",
+            "gotCharm_31",
+            "hasWalljump",
+            "defeatedMantisLords",
+            "elderHuDefeated"
+          ],
+          "tally": {
+            "done": 9,
+            "total": 9
+          }
+        },
+        {
+          "id": "City of Tears",
+          "label": "City of Tears",
+          "points": [
+            [
+              1010.0,
+              430.0
+            ],
+            [
+              1160.0,
+              425.0
+            ],
+            [
+              1170.0,
+              280.0
+            ],
+            [
+              1460.0,
+              250.0
+            ],
+            [
+              1560.0,
+              390.0
+            ],
+            [
+              1540.0,
+              650.0
+            ],
+            [
+              1020.0,
+              660.0
+            ]
+          ],
+          "items": [
+            "gotCharm_33",
+            "fireballLevel2",
+            "quakeLevel1",
+            "nailSmithUpgrades",
+            "lurienDefeated",
+            "mageLordDefeated",
+            "collectorDefeated",
+            "killedBlackKnight"
+          ],
+          "tally": {
+            "done": 8,
+            "total": 8
+          }
+        },
+        {
+          "id": "Kingdom's Edge",
+          "label": "Kingdom's Edge",
+          "points": [
+            [
+              1570.0,
+              390.0
+            ],
+            [
+              1900.0,
+              370.0
+            ],
+            [
+              1960.0,
+              820.0
+            ],
+            [
+              1720.0,
+              760.0
+            ],
+            [
+              1560.0,
+              660.0
+            ]
+          ],
+          "items": [
+            "gotCharm_29",
+            "gotCharm_32",
+            "hasKingsBrand",
+            "hasUpwardSlash",
+            "hornetOutskirtsDefeated",
+            "markothDefeated",
+            "colosseumBronzeCompleted",
+            "colosseumSilverCompleted",
+            "colosseumGoldCompleted",
+            "killedHiveKnight"
+          ],
+          "tally": {
+            "done": 10,
+            "total": 10
+          }
+        },
+        {
+          "id": "Queen's Gardens",
+          "label": "Queen's Gardens",
+          "points": [
+            [
+              60.0,
+              600.0
+            ],
+            [
+              430.0,
+              580.0
+            ],
+            [
+              450.0,
+              860.0
+            ],
+            [
+              80.0,
+              900.0
+            ]
+          ],
+          "items": [
+            "killedTraitorLord",
+            "mumCaterpillarDefeated"
+          ],
+          "tally": {
+            "done": 2,
+            "total": 2
+          }
+        },
+        {
+          "id": "Royal Waterways",
+          "label": "Royal Waterways",
+          "points": [
+            [
+              1020.0,
+              670.0
+            ],
+            [
+              1550.0,
+              665.0
+            ],
+            [
+              1700.0,
+              770.0
+            ],
+            [
+              1560.0,
+              880.0
+            ],
+            [
+              1200.0,
+              860.0
+            ],
+            [
+              1030.0,
+              780.0
+            ]
+          ],
+          "items": [
+            "gotCharm_10",
+            "gotCharm_11",
+            "hasAcidArmour",
+            "defeatedDungDefender",
+            "killedWhiteDefender"
+          ],
+          "tally": {
+            "done": 5,
+            "total": 5
+          }
+        },
+        {
+          "id": "Godhome",
+          "label": "Godhome",
+          "points": [
+            [
+              1580.0,
+              890.0
+            ],
+            [
+              1720.0,
+              780.0
+            ],
+            [
+              1960.0,
+              840.0
+            ],
+            [
+              1940.0,
+              1000.0
+            ],
+            [
+              1620.0,
+              1000.0
+            ]
+          ],
+          "items": [
+            "hasGodfinder",
+            "pantheon1",
+            "pantheon2",
+            "pantheon3",
+            "pantheon4",
+            "pantheon5"
+          ],
+          "tally": {
+            "done": 4,
+            "total": 6
+          }
+        },
+        {
+          "id": "Deepnest",
+          "label": "Deepnest",
+          "points": [
+            [
+              90.0,
+              920.0
+            ],
+            [
+              450.0,
+              870.0
+            ],
+            [
+              720.0,
+              820.0
+            ],
+            [
+              760.0,
+              1040.0
+            ],
+            [
+              500.0,
+              1160.0
+            ],
+            [
+              120.0,
+              1140.0
+            ]
+          ],
+          "items": [
+            "gotCharm_16",
+            "hegemolDefeated",
+            "killedMimicSpider",
+            "galienDefeated",
+            "gotCharm_39"
+          ],
+          "tally": {
+            "done": 5,
+            "total": 5
+          }
+        },
+        {
+          "id": "Ancient Basin",
+          "label": "Ancient Basin",
+          "points": [
+            [
+              770.0,
+              820.0
+            ],
+            [
+              1020.0,
+              790.0
+            ],
+            [
+              1190.0,
+              870.0
+            ],
+            [
+              1480.0,
+              900.0
+            ],
+            [
+              1420.0,
+              1040.0
+            ],
+            [
+              1180.0,
+              1040.0
+            ],
+            [
+              960.0,
+              1030.0
+            ],
+            [
+              780.0,
+              1030.0
+            ]
+          ],
+          "items": [
+            "hasDoubleJump",
+            "killedInfectedKnight"
+          ],
+          "tally": {
+            "done": 2,
+            "total": 2
+          }
+        },
+        {
+          "id": "The Abyss",
+          "label": "The Abyss",
+          "points": [
+            [
+              960.0,
+              1050.0
+            ],
+            [
+              1400.0,
+              1060.0
+            ],
+            [
+              1380.0,
+              1170.0
+            ],
+            [
+              980.0,
+              1170.0
+            ]
+          ],
+          "items": [
+            "gotCharm_9",
+            "hasShadowDash",
+            "screamLevel2"
+          ],
+          "tally": {
+            "done": 3,
+            "total": 3
+          }
+        },
+        {
+          "id": "White Palace",
+          "label": "White Palace",
+          "points": [
+            [
+              1460.0,
+              1060.0
+            ],
+            [
+              1640.0,
+              1040.0
+            ],
+            [
+              1660.0,
+              1170.0
+            ],
+            [
+              1470.0,
+              1170.0
+            ]
+          ],
+          "items": [
+            "gotCharm_36"
+          ],
+          "tally": {
+            "done": 1,
+            "total": 1
+          }
+        }
+      ],
+      "markers": [
+        {
+          "id": "m-gotCharm_1",
+          "label": "Gathering Swarm",
+          "x": 453.7899,
+          "y": 63.78988,
+          "item": "gotCharm_1",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_2",
+          "label": "Wayward Compass",
+          "x": 501.36963,
+          "y": 63.78988,
+          "item": "gotCharm_2",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_4",
+          "label": "Stalwart Shell",
+          "x": 548.9494,
+          "y": 63.78988,
+          "item": "gotCharm_4",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_6",
+          "label": "Fury of the Fallen",
+          "x": 596.5292,
+          "y": 63.78988,
+          "item": "gotCharm_6",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_15",
+          "label": "Heavy Blow",
+          "x": 644.10895,
+          "y": 63.78988,
+          "item": "gotCharm_15",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_26",
+          "label": "Nailmaster's Glory",
+          "x": 691.6887,
+          "y": 63.78988,
+          "item": "gotCharm_26",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_37",
+          "label": "Sprintmaster",
+          "x": 739.2685,
+          "y": 63.78988,
+          "item": "gotCharm_37",
+          "category": "Troupe Grimm",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_40",
+          "label": "Grimmchild",
+          "x": 786.84827,
+          "y": 63.78988,
+          "item": "gotCharm_40",
+          "category": "Troupe Grimm",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-killedGrimm",
+          "label": "Troupe Master Grimm",
+          "x": 834.42804,
+          "y": 63.78988,
+          "item": "killedGrimm",
+          "category": "Troupe Grimm",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-grimmRitual",
+          "label": "Accomplir le rituel ou bannir la troupe",
+          "x": 453.7899,
+          "y": 111.36964,
+          "item": "grimmRitual",
+          "category": "Troupe Grimm",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-greyPrinceDefeated",
+          "label": "Grey Prince Zote",
+          "x": 501.36963,
+          "y": 111.36964,
+          "item": "greyPrinceDefeated",
+          "category": "Boss optionnels",
+          "approximate": true,
+          "icon": null,
+          "status": "todo"
+        },
+        {
+          "id": "m-killedNightmareGrimm",
+          "label": "Nightmare King Grimm",
+          "x": 548.9494,
+          "y": 111.36964,
+          "item": "killedNightmareGrimm",
+          "category": "Boss optionnels",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-hasLantern",
+          "label": "Lumafly Lantern",
+          "x": 596.5292,
+          "y": 111.36964,
+          "item": "hasLantern",
+          "category": "Objets",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-slyShellFrag1",
+          "label": "Fragment de masque",
+          "x": 644.10895,
+          "y": 111.36964,
+          "item": "slyShellFrag1",
+          "category": "Boutiques",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-slyShellFrag2",
+          "label": "Fragment de masque",
+          "x": 691.6887,
+          "y": 111.36964,
+          "item": "slyShellFrag2",
+          "category": "Boutiques",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-slyVesselFrag1",
+          "label": "Fragment de réceptacle",
+          "x": 739.2685,
+          "y": 111.36964,
+          "item": "slyVesselFrag1",
+          "category": "Boutiques",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-slyRancidEgg",
+          "label": "Œuf rance",
+          "x": 786.84827,
+          "y": 111.36964,
+          "item": "slyRancidEgg",
+          "category": "Boutiques",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-slySimpleKey",
+          "label": "Clé simple",
+          "x": 834.42804,
+          "y": 111.36964,
+          "item": "slySimpleKey",
+          "category": "Boutiques",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-slyShellFrag3",
+          "label": "Fragment de masque",
+          "x": 501.36963,
+          "y": 158.9494,
+          "item": "slyShellFrag3",
+          "category": "Boutiques",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-slyShellFrag4",
+          "label": "Fragment de masque",
+          "x": 548.9494,
+          "y": 158.9494,
+          "item": "slyShellFrag4",
+          "category": "Boutiques",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-slyVesselFrag2",
+          "label": "Fragment de réceptacle",
+          "x": 596.5292,
+          "y": 158.9494,
+          "item": "slyVesselFrag2",
+          "category": "Boutiques",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_3",
+          "label": "Grubsong",
+          "x": 625.6645,
+          "y": 212.1329,
+          "item": "gotCharm_3",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_7",
+          "label": "Quick Focus",
+          "x": 699.9303,
+          "y": 212.1329,
+          "item": "gotCharm_7",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_8",
+          "label": "Lifeblood Heart",
+          "x": 774.1961,
+          "y": 212.1329,
+          "item": "gotCharm_8",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_14",
+          "label": "Steady Body",
+          "x": 848.4619,
+          "y": 212.1329,
+          "item": "gotCharm_14",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_18",
+          "label": "Longnail",
+          "x": 477.1329,
+          "y": 286.39868,
+          "item": "gotCharm_18",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_19",
+          "label": "Shaman Stone",
+          "x": 551.3987,
+          "y": 286.39868,
+          "item": "gotCharm_19",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_20",
+          "label": "Soul Catcher",
+          "x": 625.6645,
+          "y": 286.39868,
+          "item": "gotCharm_20",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_22",
+          "label": "Glowing Womb",
+          "x": 699.9303,
+          "y": 286.39868,
+          "item": "gotCharm_22",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_35",
+          "label": "Grubberfly's Elegy",
+          "x": 774.1961,
+          "y": 286.39868,
+          "item": "gotCharm_35",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-killedBigFly",
+          "label": "Gruz Mother",
+          "x": 848.4619,
+          "y": 286.39868,
+          "item": "killedBigFly",
+          "category": "Boss",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-falseKnightDefeated",
+          "label": "False Knight",
+          "x": 996.9935,
+          "y": 286.39868,
+          "item": "falseKnightDefeated",
+          "category": "Boss",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-killedMawlek",
+          "label": "Brooding Mawlek",
+          "x": 1071.2593,
+          "y": 286.39868,
+          "item": "killedMawlek",
+          "category": "Boss",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-killedHollowKnight",
+          "label": "The Hollow Knight",
+          "x": 551.3987,
+          "y": 360.6645,
+          "item": "killedHollowKnight",
+          "category": "Fins et panthéon final",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-killedFinalBoss",
+          "label": "The Radiance",
+          "x": 625.6645,
+          "y": 360.6645,
+          "item": "killedFinalBoss",
+          "category": "Fins et panthéon final",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-salubraNotch1",
+          "label": "Encoche de charme",
+          "x": 699.9303,
+          "y": 360.6645,
+          "item": "salubraNotch1",
+          "category": "Boutiques",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-salubraNotch2",
+          "label": "Encoche de charme",
+          "x": 774.1961,
+          "y": 360.6645,
+          "item": "salubraNotch2",
+          "category": "Boutiques",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-salubraNotch3",
+          "label": "Encoche de charme",
+          "x": 848.4619,
+          "y": 360.6645,
+          "item": "salubraNotch3",
+          "category": "Boutiques",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-salubraNotch4",
+          "label": "Encoche de charme",
+          "x": 922.7277,
+          "y": 360.6645,
+          "item": "salubraNotch4",
+          "category": "Boutiques",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-salubraBlessing",
+          "label": "Bénédiction de Salubra",
+          "x": 996.9935,
+          "y": 360.6645,
+          "item": "salubraBlessing",
+          "category": "Boutiques",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_5",
+          "label": "Baldur Shell",
+          "x": 92.22531,
+          "y": 92.22531,
+          "item": "gotCharm_5",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_27",
+          "label": "Joni's Blessing",
+          "x": 196.67593,
+          "y": 92.22531,
+          "item": "gotCharm_27",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-hasCyclone",
+          "label": "Cyclone Slash",
+          "x": 301.12656,
+          "y": 92.22531,
+          "item": "hasCyclone",
+          "category": "Aiguillon et arts",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-aladarSlugDefeated",
+          "label": "Gorb",
+          "x": 92.22531,
+          "y": 196.67593,
+          "item": "aladarSlugDefeated",
+          "category": "Rêves de guerriers",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_9",
+          "label": "Lifeblood Core",
+          "x": 1026.3325,
+          "y": 1116.3325,
+          "item": "gotCharm_9",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-hasShadowDash",
+          "label": "Shade Cloak",
+          "x": 1158.9976,
+          "y": 1116.3325,
+          "item": "hasShadowDash",
+          "category": "Équipement",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-screamLevel2",
+          "label": "Abyss Shriek",
+          "x": 1291.6626,
+          "y": 1116.3325,
+          "item": "screamLevel2",
+          "category": "Sorts",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_10",
+          "label": "Defender's Crest",
+          "x": 1081.7727,
+          "y": 726.7727,
+          "item": "gotCharm_10",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_11",
+          "label": "Flukenest",
+          "x": 1205.3181,
+          "y": 726.7727,
+          "item": "gotCharm_11",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-hasAcidArmour",
+          "label": "Isma's Tear",
+          "x": 1328.8635,
+          "y": 726.7727,
+          "item": "hasAcidArmour",
+          "category": "Équipement",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-defeatedDungDefender",
+          "label": "Dung Defender",
+          "x": 1452.4089,
+          "y": 726.7727,
+          "item": "defeatedDungDefender",
+          "category": "Boss",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-killedWhiteDefender",
+          "label": "White Defender",
+          "x": 1575.9543,
+          "y": 726.7727,
+          "item": "killedWhiteDefender",
+          "category": "Boss optionnels",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_12",
+          "label": "Thorns of Agony",
+          "x": 312.22906,
+          "y": 280.4458,
+          "item": "gotCharm_12",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_28",
+          "label": "Shape of Unn",
+          "x": 110.445816,
+          "y": 381.33743,
+          "item": "gotCharm_28",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-hasDash",
+          "label": "Mothwing Cloak",
+          "x": 211.33745,
+          "y": 381.33743,
+          "item": "hasDash",
+          "category": "Équipement",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-fireballLevel1",
+          "label": "Vengeful Spirit",
+          "x": 312.22906,
+          "y": 381.33743,
+          "item": "fireballLevel1",
+          "category": "Sorts",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-hasDashSlash",
+          "label": "Great Slash",
+          "x": 110.445816,
+          "y": 482.22906,
+          "item": "hasDashSlash",
+          "category": "Aiguillon et arts",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-hornet1Defeated",
+          "label": "Hornet Protector",
+          "x": 211.33745,
+          "y": 482.22906,
+          "item": "hornet1Defeated",
+          "category": "Boss",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-noEyesDefeated",
+          "label": "No Eyes",
+          "x": 312.22906,
+          "y": 482.22906,
+          "item": "noEyesDefeated",
+          "category": "Rêves de guerriers",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_13",
+          "label": "Mark of Pride",
+          "x": 903.9099,
+          "y": 470.78198,
+          "item": "gotCharm_13",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_17",
+          "label": "Spore Shroom",
+          "x": 740.782,
+          "y": 552.34595,
+          "item": "gotCharm_17",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_23",
+          "label": "Fragile Heart",
+          "x": 822.34595,
+          "y": 552.34595,
+          "item": "gotCharm_23",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_24",
+          "label": "Fragile Greed",
+          "x": 903.9099,
+          "y": 552.34595,
+          "item": "gotCharm_24",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_25",
+          "label": "Fragile Strength",
+          "x": 740.782,
+          "y": 633.9099,
+          "item": "gotCharm_25",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_31",
+          "label": "Dashmaster",
+          "x": 822.34595,
+          "y": 633.9099,
+          "item": "gotCharm_31",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-hasWalljump",
+          "label": "Mantis Claw",
+          "x": 903.9099,
+          "y": 633.9099,
+          "item": "hasWalljump",
+          "category": "Équipement",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-defeatedMantisLords",
+          "label": "Mantis Lords",
+          "x": 740.782,
+          "y": 715.4739,
+          "item": "defeatedMantisLords",
+          "category": "Boss",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-elderHuDefeated",
+          "label": "Elder Hu",
+          "x": 822.34595,
+          "y": 715.4739,
+          "item": "elderHuDefeated",
+          "category": "Rêves de guerriers",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_16",
+          "label": "Sharp Shadow",
+          "x": 679.8766,
+          "y": 885.5419,
+          "item": "gotCharm_16",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-hegemolDefeated",
+          "label": "Herrah the Beast",
+          "x": 155.54184,
+          "y": 1016.62555,
+          "item": "hegemolDefeated",
+          "category": "Rêveurs",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-killedMimicSpider",
+          "label": "Nosk",
+          "x": 286.62555,
+          "y": 1016.62555,
+          "item": "killedMimicSpider",
+          "category": "Boss",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-galienDefeated",
+          "label": "Galien",
+          "x": 417.70923,
+          "y": 1016.62555,
+          "item": "galienDefeated",
+          "category": "Rêves de guerriers",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_39",
+          "label": "Weaversong",
+          "x": 548.7929,
+          "y": 1016.62555,
+          "item": "gotCharm_39",
+          "category": "Troupe Grimm",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_21",
+          "label": "Soul Eater",
+          "x": 1520.6487,
+          "y": 110.648674,
+          "item": "gotCharm_21",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_30",
+          "label": "Dream Wielder",
+          "x": 1621.946,
+          "y": 110.648674,
+          "item": "gotCharm_30",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-hasDreamNail",
+          "label": "Dream Nail",
+          "x": 1723.2434,
+          "y": 110.648674,
+          "item": "hasDreamNail",
+          "category": "Aiguillon des rêves",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-dreamNailUpgraded",
+          "label": "Awoken Dream Nail",
+          "x": 1621.946,
+          "y": 211.94601,
+          "item": "dreamNailUpgraded",
+          "category": "Aiguillon des rêves",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-mothDeparted",
+          "label": "Dernières paroles de la Voyante",
+          "x": 1723.2434,
+          "y": 211.94601,
+          "item": "mothDeparted",
+          "category": "Aiguillon des rêves",
+          "approximate": true,
+          "icon": null,
+          "status": "in-progress"
+        },
+        {
+          "id": "m-xeroDefeated",
+          "label": "Xero",
+          "x": 1621.946,
+          "y": 313.24335,
+          "item": "xeroDefeated",
+          "category": "Rêves de guerriers",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_38",
+          "label": "Dreamshield",
+          "x": 1723.2434,
+          "y": 313.24335,
+          "item": "gotCharm_38",
+          "category": "Troupe Grimm",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_29",
+          "label": "Hiveblood",
+          "x": 1705.4004,
+          "y": 418.46677,
+          "item": "gotCharm_29",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_32",
+          "label": "Quick Slash",
+          "x": 1802.334,
+          "y": 418.46677,
+          "item": "gotCharm_32",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-hasKingsBrand",
+          "label": "King's Brand",
+          "x": 1608.4668,
+          "y": 515.4003,
+          "item": "hasKingsBrand",
+          "category": "Équipement",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-hasUpwardSlash",
+          "label": "Dash Slash",
+          "x": 1705.4004,
+          "y": 515.4003,
+          "item": "hasUpwardSlash",
+          "category": "Aiguillon et arts",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-hornetOutskirtsDefeated",
+          "label": "Hornet Sentinel",
+          "x": 1802.334,
+          "y": 515.4003,
+          "item": "hornetOutskirtsDefeated",
+          "category": "Boss",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-markothDefeated",
+          "label": "Markoth",
+          "x": 1608.4668,
+          "y": 612.33386,
+          "item": "markothDefeated",
+          "category": "Rêves de guerriers",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-colosseumBronzeCompleted",
+          "label": "Trial of the Warrior",
+          "x": 1705.4004,
+          "y": 612.33386,
+          "item": "colosseumBronzeCompleted",
+          "category": "Colisée des fous",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-colosseumSilverCompleted",
+          "label": "Trial of the Conqueror",
+          "x": 1802.334,
+          "y": 612.33386,
+          "item": "colosseumSilverCompleted",
+          "category": "Colisée des fous",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-colosseumGoldCompleted",
+          "label": "Trial of the Fool",
+          "x": 1705.4004,
+          "y": 709.2674,
+          "item": "colosseumGoldCompleted",
+          "category": "Colisée des fous",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-killedHiveKnight",
+          "label": "Hive Knight",
+          "x": 1802.334,
+          "y": 709.2674,
+          "item": "killedHiveKnight",
+          "category": "Lifeblood",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_33",
+          "label": "Spell Twister",
+          "x": 1313.2538,
+          "y": 310.65076,
+          "item": "gotCharm_33",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-fireballLevel2",
+          "label": "Shade Soul",
+          "x": 1434.5553,
+          "y": 310.65076,
+          "item": "fireballLevel2",
+          "category": "Sorts",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-quakeLevel1",
+          "label": "Desolate Dive",
+          "x": 1191.9523,
+          "y": 431.95224,
+          "item": "quakeLevel1",
+          "category": "Sorts",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-nailSmithUpgrades",
+          "label": "Améliorations du forgeron",
+          "x": 1313.2538,
+          "y": 431.95224,
+          "item": "nailSmithUpgrades",
+          "category": "Aiguillon et arts",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-lurienDefeated",
+          "label": "Lurien the Watcher",
+          "x": 1434.5553,
+          "y": 431.95224,
+          "item": "lurienDefeated",
+          "category": "Rêveurs",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-mageLordDefeated",
+          "label": "Soul Master",
+          "x": 1070.6508,
+          "y": 553.2537,
+          "item": "mageLordDefeated",
+          "category": "Boss",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-collectorDefeated",
+          "label": "The Collector",
+          "x": 1191.9523,
+          "y": 553.2537,
+          "item": "collectorDefeated",
+          "category": "Boss",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-killedBlackKnight",
+          "label": "Watcher Knight",
+          "x": 1313.2538,
+          "y": 553.2537,
+          "item": "killedBlackKnight",
+          "category": "Boss",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_34",
+          "label": "Deep Focus",
+          "x": 996.8915,
+          "y": 126.89146,
+          "item": "gotCharm_34",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-hasSuperDash",
+          "label": "Crystal Heart",
+          "x": 1170.6744,
+          "y": 126.89146,
+          "item": "hasSuperDash",
+          "category": "Équipement",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-quakeLevel2",
+          "label": "Descending Dark",
+          "x": 1344.4574,
+          "y": 126.89146,
+          "item": "quakeLevel2",
+          "category": "Sorts",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-gotCharm_36",
+          "label": "Kingsoul",
+          "x": 1528.5292,
+          "y": 1108.5292,
+          "item": "gotCharm_36",
+          "category": "Charmes",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-hasDoubleJump",
+          "label": "Monarch Wings",
+          "x": 861.4768,
+          "y": 881.4768,
+          "item": "hasDoubleJump",
+          "category": "Équipement",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-killedInfectedKnight",
+          "label": "Broken Vessel",
+          "x": 1044.4304,
+          "y": 881.4768,
+          "item": "killedInfectedKnight",
+          "category": "Boss",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-screamLevel1",
+          "label": "Howling Wraiths",
+          "x": 480.8324,
+          "y": 470.8324,
+          "item": "screamLevel1",
+          "category": "Sorts",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-monomonDefeated",
+          "label": "Monomon the Teacher",
+          "x": 582.4972,
+          "y": 470.8324,
+          "item": "monomonDefeated",
+          "category": "Rêveurs",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-defeatedMegaJelly",
+          "label": "Uumuu",
+          "x": 480.8324,
+          "y": 572.4972,
+          "item": "defeatedMegaJelly",
+          "category": "Boss",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-killedTraitorLord",
+          "label": "Traitor Lord",
+          "x": 150.24023,
+          "y": 670.24023,
+          "item": "killedTraitorLord",
+          "category": "Boss",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-mumCaterpillarDefeated",
+          "label": "Marmu",
+          "x": 330.7207,
+          "y": 670.24023,
+          "item": "mumCaterpillarDefeated",
+          "category": "Rêves de guerriers",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-hasGodfinder",
+          "label": "Godtuner",
+          "x": 1761.2277,
+          "y": 816.24554,
+          "item": "hasGodfinder",
+          "category": "Godmaster",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-pantheon1",
+          "label": "Pantheon of the Master",
+          "x": 1616.2455,
+          "y": 888.7366,
+          "item": "pantheon1",
+          "category": "Godmaster",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-pantheon2",
+          "label": "Pantheon of the Artist",
+          "x": 1761.2277,
+          "y": 888.7366,
+          "item": "pantheon2",
+          "category": "Godmaster",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-pantheon3",
+          "label": "Pantheon of the Sage",
+          "x": 1906.2098,
+          "y": 888.7366,
+          "item": "pantheon3",
+          "category": "Godmaster",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-pantheon4",
+          "label": "Pantheon of the Knight",
+          "x": 1688.7366,
+          "y": 961.2276,
+          "item": "pantheon4",
+          "category": "Godmaster",
+          "approximate": true,
+          "icon": null,
+          "status": "todo"
+        },
+        {
+          "id": "m-pantheon5",
+          "label": "Pantheon of Hallownest",
+          "x": 1833.7188,
+          "y": 961.2276,
+          "item": "pantheon5",
+          "category": "Fins et panthéon final",
+          "approximate": true,
+          "icon": null,
+          "status": "locked"
+        }
+      ],
+      "links": [],
+      "hiddenLayers": []
+    }
+  ],
+  "warnings": [],
+  "tally": {
+    "done": 205,
+    "total": 288
+  }
+}

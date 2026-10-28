@@ -1,0 +1,31 @@
+{
+    "DataType": "ShopManagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.4.7f12",
+    "Shops": [
+        {
+            "DataType": "ShopData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.7f12",
+            "ShopCode": "gas_mart_west",
+            "ItemStockQuantities": [
+                {
+                    "String": "spraypaint",
+                    "Int": 17
+                }
+            ]
+        },
+        {
+            "DataType": "ShopData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.7f12",
+            "ShopCode": "gas_mart_central",
+            "ItemStockQuantities": [
+                {
+                    "String": "spraypaint",
+                    "Int": 17
+                }
+            ]
+        }
+    ]
+}

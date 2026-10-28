@@ -1,0 +1,12 @@
+[package]
+name = "driver-schedule-one"
+edition.workspace = true
+version.workspace = true
+license = "MIT OR Apache-2.0"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+hundo-sdk.workspace = true
+serde_json.workspace = true

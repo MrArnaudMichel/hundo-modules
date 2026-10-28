@@ -1,0 +1,2383 @@
+{
+ "source": "Alba6rek/hollow-knight-silksong-completion-check (GPL-3.0)",
+ "sections": [
+  {
+   "id": "crests",
+   "title": "Crests",
+   "group": "complete",
+   "perPercent": 1,
+   "items": [
+    {
+     "id": "completedMemory_reaper",
+     "name": "Reaper",
+     "location": "Greymoor, west",
+     "wiki": "https://hollowknight.wiki/w/Reaper",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "completedMemory_reaper"
+      ]
+     }
+    },
+    {
+     "id": "completedMemory_wanderer",
+     "name": "Wanderer",
+     "location": "Moss Grotto, Bonegrave",
+     "wiki": "https://hollowknight.wiki/w/Wanderer",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "completedMemory_wanderer"
+      ]
+     }
+    },
+    {
+     "id": "completedMemory_beast",
+     "name": "Beast",
+     "location": "Hunter's March, defeat Savage Beastfly boss",
+     "wiki": "https://hollowknight.wiki/w/Beast",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "completedMemory_beast"
+      ]
+     }
+    },
+    {
+     "id": "completedMemory_witch",
+     "name": "Witch",
+     "location": "Greymoor, complete Twisted Bud and Infestation Operation Wishs",
+     "wiki": "https://hollowknight.wiki/w/Witch",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "completedMemory_witch"
+      ]
+     }
+    },
+    {
+     "id": "completedMemory_toolmaster",
+     "name": "Architect",
+     "location": "Underworks, (must have 30 tools to buy architect key from Twelfth architect)",
+     "wiki": "https://hollowknight.wiki/w/Architect",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "completedMemory_toolmaster"
+      ]
+     }
+    },
+    {
+     "id": "completedMemory_shaman",
+     "name": "Shaman",
+     "location": "Moss Grotto, Ruined Chapel, Act 3",
+     "wiki": "https://hollowknight.wiki/w/Shaman",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "completedMemory_shaman"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "NeedleUpgrades",
+   "title": "Needle Upgrades",
+   "group": "complete",
+   "perPercent": 1,
+   "items": [
+    {
+     "id": "sharpenedNeedle",
+     "name": "Sharpened Needle",
+     "location": "Pinmaster Plinney on Bellhart for free",
+     "wiki": "https://hollowknight.wiki/w/Pinmaster_Plinney",
+     "check": {
+      "kind": "needle",
+      "level": 1
+     }
+    },
+    {
+     "id": "shiningNeedle",
+     "name": "Shining Needle",
+     "location": "find missing pale oil",
+     "wiki": "https://hollowknight.wiki/w/Pale_Oil",
+     "check": {
+      "kind": "needle",
+      "level": 2
+     }
+    },
+    {
+     "id": "hivesteelNeedle",
+     "name": "Hivesteel Needle",
+     "location": "find missing pale oil",
+     "wiki": "https://hollowknight.wiki/w/Pale_Oil",
+     "check": {
+      "kind": "needle",
+      "level": 3
+     }
+    },
+    {
+     "id": "paleSteelNeedle",
+     "name": "Pale Steel Needle",
+     "location": "find missing pale oil",
+     "wiki": "https://hollowknight.wiki/w/Pale_Oil",
+     "check": {
+      "kind": "needle",
+      "level": 4
+     }
+    }
+   ]
+  },
+  {
+   "id": "silkHeart",
+   "title": "Silk Heart",
+   "group": "complete",
+   "perPercent": 1,
+   "items": [
+    {
+     "id": "Memory_Silk_Heart_BellBeast",
+     "name": "Silk Heart",
+     "location": "The Marrow, Defeating the Bell Beast",
+     "wiki": "https://hollowknight.wiki/w/Silk_Heart",
+     "check": {
+      "kind": "scene",
+      "scene": "Memory_Silk_Heart_BellBeast"
+     }
+    },
+    {
+     "id": "Memory_Silk_Heart_WardBoss",
+     "name": "Silk Heart",
+     "location": "Whiteward, Defeating The Unravelled, requires Surgeon's Key",
+     "wiki": "https://hollowknight.wiki/w/Silk_Heart",
+     "check": {
+      "kind": "scene",
+      "scene": "Memory_Silk_Heart_WardBoss"
+     }
+    },
+    {
+     "id": "Memory_Silk_Heart_LaceTower",
+     "name": "Silk Heart",
+     "location": "The Cradle, Defeating Lace for the second time",
+     "wiki": "https://hollowknight.wiki/w/Silk_Heart",
+     "check": {
+      "kind": "scene",
+      "scene": "Memory_Silk_Heart_LaceTower"
+     }
+    }
+   ]
+  },
+  {
+   "id": "redTools",
+   "title": "Red Tools",
+   "group": "complete",
+   "perPercent": 1,
+   "items": [
+    {
+     "id": "straightPin",
+     "name": "Straight Pin",
+     "location": "The Marrow, inside of Grindle's cell",
+     "wiki": "https://hollowknight.wiki/w/Straight_Pin",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Straight Pin"
+      ]
+     }
+    },
+    {
+     "id": "triPin",
+     "name": "Threefold Pin",
+     "location": "Greymoor, above Craw Lake, hidden cave",
+     "wiki": "https://hollowknight.wiki/w/Threefold_Pin",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Tri Pin"
+      ]
+     }
+    },
+    {
+     "id": "stingShard",
+     "name": "Sting Shard",
+     "location": "Forge Daughter: 140 Rosaries and 1 Craftmetal",
+     "wiki": "https://hollowknight.wiki/w/Sting_Shard",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Sting Shard"
+      ]
+     }
+    },
+    {
+     "id": "Tack",
+     "name": "Tacks",
+     "location": "complete the Roach Guts Wish",
+     "wiki": "https://hollowknight.wiki/w/Tacks",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Tack"
+      ]
+     }
+    },
+    {
+     "id": "harpoon",
+     "name": "Longpin",
+     "location": "Shellwood, main Bellhart entrance, behind Wood Wasp",
+     "wiki": "https://hollowknight.wiki/w/Longpin",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Harpoon"
+      ]
+     }
+    },
+    {
+     "id": "curveClaws",
+     "name": "Curveclaw",
+     "location": "Skarr: 140 Rosaries, or above skarr main location",
+     "wiki": "https://hollowknight.wiki/w/Curveclaw",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Curve Claws",
+       "Curve Claws Upgraded"
+      ]
+     }
+    },
+    {
+     "id": "shakraRing",
+     "name": "Throwing Ring",
+     "location": "complete Trail's End wish",
+     "wiki": "https://hollowknight.wiki/w/Throwing_Ring",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Shakra Ring"
+      ]
+     }
+    },
+    {
+     "id": "pimpilo",
+     "name": "Pimpillo",
+     "location": "Greymoor, northwest, above Yarnaby's home",
+     "wiki": "https://hollowknight.wiki/w/Pimpillo",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Pimpilo"
+      ]
+     }
+    },
+    {
+     "id": "conchDrill",
+     "name": "Conchcutter",
+     "location": "Sands of Karak, Coral Tower",
+     "wiki": "https://hollowknight.wiki/w/Conchcutter",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Conch Drill"
+      ]
+     }
+    },
+    {
+     "id": "webShot",
+     "name": "Silkshot",
+     "location": "Royal Waterways, defeat Dung Defender",
+     "wiki": "https://hollowknight.wiki/w/Silkshot",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "WebShot Architect",
+       "WebShot Forge",
+       "WebShot Weaver"
+      ]
+     }
+    },
+    {
+     "id": "screwAttack",
+     "name": "Delver's Drill",
+     "location": "Underworks, bottom left",
+     "wiki": "https://hollowknight.wiki/w/Delver's_Drill",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Screw Attack"
+      ]
+     }
+    },
+    {
+     "id": "cogworkSaw",
+     "name": "Cogwork Wheel",
+     "location": "Twelfth Architect: 360 Rosaries and 1 Craftmetal.",
+     "wiki": "https://hollowknight.wiki/w/Cogwork_Wheel",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Cogwork Saw"
+      ]
+     }
+    },
+    {
+     "id": "cogworkFlier",
+     "name": "Cogfly",
+     "location": "High Halls, crafting bench, Requires 1 Craftmetal",
+     "wiki": "https://hollowknight.wiki/w/Cogfly",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Cogwork Flier"
+      ]
+     }
+    },
+    {
+     "id": "rosaryCannon",
+     "name": "Rosary Cannon",
+     "location": "High Halls, est of The Forum, behind locked door",
+     "wiki": "https://hollowknight.wiki/w/Rosary_Cannon",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Rosary Cannon"
+      ]
+     }
+    },
+    {
+     "id": "lightningRod",
+     "name": "Voltvessels",
+     "location": "Memorium, top-right, behind a hidden wall",
+     "wiki": "https://hollowknight.wiki/w/Voltvessels",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Lightning Rod"
+      ]
+     }
+    },
+    {
+     "id": "flintstone",
+     "name": "Flintslate",
+     "location": "Deep Docks, behind the Simple Key door",
+     "wiki": "https://hollowknight.wiki/w/Flintslate",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Flintstone"
+      ]
+     }
+    },
+    {
+     "id": "fleaBrew",
+     "name": "Flea Brew",
+     "location": "Helping out the Flea Caravan",
+     "wiki": "https://hollowknight.wiki/w/Flea_Brew",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Flea Brew"
+      ]
+     }
+    },
+    {
+     "id": "lifebloodSyringe",
+     "name": "Plasmium Phial",
+     "location": "Complete Alchemist's Assistant Wish",
+     "wiki": "https://hollowknight.wiki/w/Plasmium_Phial",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Lifeblood Syringe"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "blueTools",
+   "title": "Blue Tools",
+   "group": "complete",
+   "perPercent": 1,
+   "items": [
+    {
+     "id": "mosscreepTool",
+     "name": "Druid's Eye",
+     "location": "Salubra: 220 Geo",
+     "wiki": "https://hollowknight.wiki/w/Druid's_Eye",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Mosscreep Tool 1",
+       "Mosscreep Tool 2"
+      ]
+     }
+    },
+    {
+     "id": "lavaCharm",
+     "name": "Magma Bell",
+     "location": "Complete Rite of the Pollip Wish",
+     "wiki": "https://hollowknight.wiki/w/Magma_Bell",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Lava Charm"
+      ]
+     }
+    },
+    {
+     "id": "bellBind",
+     "name": "Warding Bell",
+     "location": "lower Far Fields",
+     "wiki": "https://hollowknight.wiki/w/Warding_Bell",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Bell Bind"
+      ]
+     }
+    },
+    {
+     "id": "poisonPouch",
+     "name": "Pollip Pouch",
+     "location": "Forgotten Crossroads, requires Crystal Heart",
+     "wiki": "https://hollowknight.wiki/w/Pollip_Pouch",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Poison Pouch"
+      ]
+     }
+    },
+    {
+     "id": "fracturedMask",
+     "name": "Fractured Mask",
+     "location": "Skarr: 260 Rosaries, or above skarr main location",
+     "wiki": "https://hollowknight.wiki/w/Fractured_Mask",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Fractured Mask"
+      ]
+     }
+    },
+    {
+     "id": "multibind",
+     "name": "Multibinder",
+     "location": "Frey: 800 after comleting My Missing Courier Wish",
+     "wiki": "https://hollowknight.wiki/w/Multibinder",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Multibind"
+      ]
+     }
+    },
+    {
+     "id": "whiteRing",
+     "name": "Weavelight",
+     "location": "Weavenest Atla, defeating the 2nd Moss Mother",
+     "wiki": "https://hollowknight.wiki/w/Weavelight",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "White Ring"
+      ]
+     }
+    },
+    {
+     "id": "brollySpike",
+     "name": "Sawtooth Circlet",
+     "location": "Twelfth Architect: 230 Rosaries and 1 Craftmetal",
+     "wiki": "https://hollowknight.wiki/w/Sawtooth_Circlet",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Brolly Spike"
+      ]
+     }
+    },
+    {
+     "id": "quickbind",
+     "name": "Injector Band",
+     "location": "Whiteward",
+     "wiki": "https://hollowknight.wiki/w/Injector_Band",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Quickbind"
+      ]
+     }
+    },
+    {
+     "id": "spoolExtender",
+     "name": "Spool Extender",
+     "location": "Jubilana: 720 Rosaries",
+     "wiki": "https://hollowknight.wiki/w/Spool_Extender",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Spool Extender"
+      ]
+     }
+    },
+    {
+     "id": "reserveBind",
+     "name": "Reserve Bind",
+     "location": "complete Final Audience Wish",
+     "wiki": "https://hollowknight.wiki/w/Reserve_Bind",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Reserve Bind"
+      ]
+     }
+    },
+    {
+     "id": "DazzleBind",
+     "name": "Claw Mirror",
+     "location": "Defeat Trobbio",
+     "wiki": "https://hollowknight.wiki/w/Claw_Mirror",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Dazzle Bind",
+       "Dazzle Bind Upgraded"
+      ]
+     }
+    },
+    {
+     "id": "revengeCrystal",
+     "name": "Memory Crystal",
+     "location": "Mount Fay, southwest, breakable wall next to bench",
+     "wiki": "https://hollowknight.wiki/w/Memory_Crystal",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Revenge Crystal"
+      ]
+     }
+    },
+    {
+     "id": "thiefClaw",
+     "name": "Snitch Pick",
+     "location": "Grindle : 740 Rosaries",
+     "wiki": "https://hollowknight.wiki/w/Snitch Pick",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Thief Claw"
+      ]
+     }
+    },
+    {
+     "id": "zapImbuement",
+     "name": "Volt Filament",
+     "location": "Defeat Voltvyrm",
+     "wiki": "https://hollowknight.wiki/w/Volt_Filament",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Zap Imbuement"
+      ]
+     }
+    },
+    {
+     "id": "quickSling",
+     "name": "Quick Sling",
+     "location": "2nd room above Bilewater word, breakable ceiling",
+     "wiki": "https://hollowknight.wiki/w/Quick_Sling",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Quick Sling"
+      ]
+     }
+    },
+    {
+     "id": "maggotCharm",
+     "name": "Wreath of Purity",
+     "location": "Putrified Ducts, secret passage",
+     "wiki": "https://hollowknight.wiki/w/Wreath_of_Purity",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Maggot Charm"
+      ]
+     }
+    },
+    {
+     "id": "longneedle",
+     "name": "Longclaw",
+     "location": "complete Broodfeast or Runtfeast Wish",
+     "wiki": "https://hollowknight.wiki/w/Longclaw",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Longneedle"
+      ]
+     }
+    },
+    {
+     "id": "wispLantern",
+     "name": "Wispfire Lantern",
+     "location": "Defeat Father of the Flame in Wisp Thicket",
+     "wiki": "https://hollowknight.wiki/w/Wispfire_Lantern",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Wisp Lantern"
+      ]
+     }
+    },
+    {
+     "id": "fleaCharm",
+     "name": "Egg of Flealia",
+     "location": "Fleamaster Mooshka: Find all the 30 fleas",
+     "wiki": "https://hollowknight.wiki/w/Egg_of_Flealia",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Flea Charm"
+      ]
+     }
+    },
+    {
+     "id": "pinstressTool",
+     "name": "Pin Badge",
+     "location": "Defeat Pinstress",
+     "wiki": "https://hollowknight.wiki/w/Pin_Badge",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Pinstress Tool"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "yellowTools",
+   "title": "Yellow Tools",
+   "group": "complete",
+   "perPercent": 1,
+   "items": [
+    {
+     "id": "compass",
+     "name": "Compass",
+     "location": "Shakra: 70 Rosaries",
+     "wiki": "https://hollowknight.wiki/w/Compass",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Compass"
+      ]
+     }
+    },
+    {
+     "id": "boneNecklace",
+     "name": "Shard Pendant",
+     "location": "The Marrow, left side of the collapsing platforms",
+     "wiki": "https://hollowknight.wiki/w/Magnetite_Brooch",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Bone Necklace"
+      ]
+     }
+    },
+    {
+     "id": "rosaryMagnet",
+     "name": "Magnetite Brooch",
+     "location": "Pebb: 120 Rosaries",
+     "wiki": "https://hollowknight.wiki/w/Grubberfly's_Elegy",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Rosary Magnet"
+      ]
+     }
+    },
+    {
+     "id": "weightedAnklet",
+     "name": "Weighted Belt",
+     "location": "Mort: 160",
+     "wiki": "https://hollowknight.wiki/w/Weighted_Belt",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Weighted Anklet"
+      ]
+     }
+    },
+    {
+     "id": "barbedWire",
+     "name": "Barbed Bracelet",
+     "location": "Sinner's Road, souteast",
+     "wiki": "https://hollowknight.wiki/w/Barbed_Bracelet",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Barbed Wire"
+      ]
+     }
+    },
+    {
+     "id": "deadMansPurse",
+     "name": "Dead Bug's Purse",
+     "location": "Wormways",
+     "wiki": "https://hollowknight.wiki/w/Dead_Bug's_Purse",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Dead Mans Purse",
+       "Shell Satchel"
+      ]
+     }
+    },
+    {
+     "id": "magnetiteDice",
+     "name": "Magnetite Dice",
+     "location": "Given by Lumble the Lucky, or Grindle: 300 on Act 3",
+     "wiki": "https://hollowknight.wiki/w/Magnetite_Dice",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Magnetite Dice"
+      ]
+     }
+    },
+    {
+     "id": "scuttlebrace",
+     "name": "Scuttlebrace",
+     "location": "Twelfth Architect: 140 Rosaries and 1 Craftmetal",
+     "wiki": "https://hollowknight.wiki/w/Scuttlebrace",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Scuttlebrace"
+      ]
+     }
+    },
+    {
+     "id": "Wallcling",
+     "name": "Ascendant's Grip",
+     "location": "Jubilana: 350 Rosaries",
+     "wiki": "https://hollowknight.wiki/w/Ascendant's_Grip",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Wallcling"
+      ]
+     }
+    },
+    {
+     "id": "musicianCharm",
+     "name": "Silkspeed Anklets",
+     "location": "Jubilana: 350 Rosaries after Lost Merchant Wish",
+     "wiki": "https://hollowknight.wiki/w/Silkspeed_Anklets",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Musician Charm"
+      ]
+     }
+    },
+    {
+     "id": "sprintmaster",
+     "name": "Silkspeed Anklets",
+     "location": "Far Fields, inside Weavenest Cindril",
+     "wiki": "https://hollowknight.wiki/w/Silkspeed_Anklets",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Sprintmaster"
+      ]
+     }
+    },
+    {
+     "id": "thiefCharm",
+     "name": "Thief's Mark",
+     "location": "Grindle: 350 Rosaries",
+     "wiki": "https://hollowknight.wiki/w/Thief's_Mark",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Thief Charm"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "equipment",
+   "title": "Equipment",
+   "group": "complete",
+   "perPercent": 1,
+   "items": [
+    {
+     "id": "silkSpear",
+     "name": "Silkspear",
+     "location": "Mosshome",
+     "wiki": "https://hollowknight.wiki/w/Silkspear",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Silk Spear"
+      ]
+     }
+    },
+    {
+     "id": "threadSphere",
+     "name": "Thread Storm",
+     "location": "Greymoor",
+     "wiki": "https://hollowknight.wiki/w/Thread_Storm",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Thread Sphere"
+      ]
+     }
+    },
+    {
+     "id": "Parry",
+     "name": "Cross Stitch",
+     "location": "Bilewater, Exhaust Organ, Defeat Phantom",
+     "wiki": "https://hollowknight.wiki/w/Cross_Stitch",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Parry"
+      ]
+     }
+    },
+    {
+     "id": "silkCharge",
+     "name": "Sharpdart",
+     "location": "Wormways",
+     "wiki": "https://hollowknight.wiki/w/Sharpdart",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Silk Charge"
+      ]
+     }
+    },
+    {
+     "id": "silkBomb",
+     "name": "Rune Rage",
+     "location": "The Slab, Kill the First Sinner",
+     "wiki": "https://hollowknight.wiki/w/Rune Rage",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Silk Bomb"
+      ]
+     }
+    },
+    {
+     "id": "silkBossNeedle",
+     "name": "Pale Nails",
+     "location": "Kingdom's Edge, defeat Hornet Sentinel",
+     "wiki": "https://hollowknight.wiki/w/Pale_Nails",
+     "check": {
+      "kind": "tool",
+      "names": [
+       "Silk Boss Needle"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "skills",
+   "title": "Skills",
+   "group": "complete",
+   "perPercent": 1,
+   "items": [
+    {
+     "id": "hasDash",
+     "name": "Swift Step",
+     "location": "Deep Docks",
+     "wiki": "https://hollowknight.wiki/w/Swift_Step",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "hasDash"
+      ]
+     }
+    },
+    {
+     "id": "hasWalljump",
+     "name": "Cling Grip",
+     "location": "Shellwood",
+     "wiki": "https://hollowknight.wiki/w/Cling_Grip",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "hasWalljump"
+      ]
+     }
+    },
+    {
+     "id": "hasHarpoonDash",
+     "name": "Clawline",
+     "location": "Underworks",
+     "wiki": "https://hollowknight.wiki/w/Clawline",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "hasHarpoonDash"
+      ]
+     }
+    },
+    {
+     "id": "hasNeedolin",
+     "name": "Needolin",
+     "location": "Bellhart, defeat Widow",
+     "wiki": "https://hollowknight.wiki/w/Needolin",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "hasNeedolin"
+      ]
+     }
+    },
+    {
+     "id": "hasChargeSlash",
+     "name": "Needle Strike",
+     "location": "Blasted Steps: from the Pinstress",
+     "wiki": "https://hollowknight.wiki/w/Needle_Strike",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "hasChargeSlash"
+      ]
+     }
+    },
+    {
+     "id": "hasSuperJump",
+     "name": "Silk Soar",
+     "location": "The Abyss, Weavenest Absolom, Act 3",
+     "wiki": "https://hollowknight.wiki/w/Silk_Soar",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "hasSuperJump"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "miscellaneous",
+   "title": "Miscellaneous",
+   "group": "complete",
+   "perPercent": 1,
+   "items": [
+    {
+     "id": "HasSeenEvaHeal",
+     "name": "Sylphsong Step",
+     "location": "Eva: Require 6 crests and 18 memory lockets.",
+     "wiki": "https://hollowknight.wiki/w/Sylphsong",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "HasSeenEvaHeal"
+      ]
+     }
+    },
+    {
+     "id": "CompletedRedMemory",
+     "name": "Everbloom",
+     "location": "Complete The Old Hearts Wish, Act 3",
+     "wiki": "https://hollowknight.wiki/w/Everbloom",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "CompletedRedMemory"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "maskShards",
+   "title": "Mask Shards",
+   "group": "complete",
+   "perPercent": 4,
+   "items": [
+    {
+     "id": "PurchasedBonebottomHeartPiece",
+     "name": "Mask Shards",
+     "location": "Pebb: 300 Rosariy, or Grindle: 320 Rosairy if Pebb left",
+     "wiki": "https://hollowknight.wiki/w/All_Mask_Shard_Locations#BoneBottom",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "PurchasedBonebottomHeartPiece"
+      ]
+     }
+    },
+    {
+     "id": "wormwayMask",
+     "name": "Mask Shards",
+     "location": "Wormways, Behind a breakable wall",
+     "wiki": "https://hollowknight.wiki/w/All_Mask_Shard_Locations#Wormways",
+     "check": {
+      "kind": "world",
+      "scene": "Crawl_02",
+      "id": "Heart Piece"
+     }
+    },
+    {
+     "id": "deepDocksMask",
+     "name": "Mask Shards",
+     "location": "Between the Marrow and Deep Docks, Cling Grip recommended",
+     "wiki": "https://hollowknight.wiki/w/All_Mask_Shard_Locations#DeepDocks",
+     "check": {
+      "kind": "world",
+      "scene": "Dock_08",
+      "id": "Heart Piece"
+     }
+    },
+    {
+     "id": "farFieldsMask1",
+     "name": "Mask Shards",
+     "location": "Area above Seamstress's home in Far Fields, requires Drifter's Cloak",
+     "wiki": "https://hollowknight.wiki/w/All_Mask_Shard_Locations#FarFields",
+     "check": {
+      "kind": "world",
+      "scene": "Bone_East_20",
+      "id": "Heart Piece"
+     }
+    },
+    {
+     "id": "shellwoodMask",
+     "name": "Mask Shard",
+     "location": "Centre of Shellwood, behind a breakable wall",
+     "wiki": "https://hollowknight.wiki/w/All_Mask_Shard_Locations#Shellwood",
+     "check": {
+      "kind": "world",
+      "scene": "Shellwood_14",
+      "id": "Heart Piece"
+     }
+    },
+    {
+     "id": "weavenestAtlaMask",
+     "name": "Mask Shard",
+     "location": "East Weavenest Atla, behind breakable wall, requires Cling Grip",
+     "wiki": "https://hollowknight.wiki/w/All_Mask_Shard_Locations#WeavenestAtla",
+     "check": {
+      "kind": "world",
+      "scene": "Weave_05b",
+      "id": "Heart Piece"
+     }
+    },
+    {
+     "id": "MerchantEnclaveShellFragment",
+     "name": "Mask Shard",
+     "location": "Jubilana: 750 Rosaries, after complete The Wandering Merchant Wish",
+     "wiki": "https://hollowknight.wiki/w/All_Mask_Shard_Locations#ChoralChambers",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "MerchantEnclaveShellFragment"
+      ]
+     }
+    },
+    {
+     "id": "cogworkCoreMask",
+     "name": "Mask Shard",
+     "location": "West Cogwork Core past enemy gauntlet, defeat Cogwork Dancers",
+     "wiki": "https://hollowknight.wiki/w/All_Mask_Shard_Locations#CogworkCore",
+     "check": {
+      "kind": "world",
+      "scene": "Song_09",
+      "id": "Heart Piece"
+     }
+    },
+    {
+     "id": "libraryMask",
+     "name": "Mask Shard",
+     "location": "Behind moving box puzzle in central Whispering Vaults",
+     "wiki": "https://hollowknight.wiki/w/All_Mask_Shard_Locations#WhisperingVaults",
+     "check": {
+      "kind": "world",
+      "scene": "Library_05",
+      "id": "Heart Piece"
+     }
+    },
+    {
+     "id": "beastflyHuntWish",
+     "name": "Mask Shard",
+     "location": "Reward for completing the Savage Beastfly Wish",
+     "wiki": "https://hollowknight.wiki/w/All_Mask_Shard_Locations#Bellhart",
+     "check": {
+      "kind": "quest",
+      "name": "Beastfly Hunt"
+     }
+    },
+    {
+     "id": "boneBuildingMask",
+     "name": "Mask Shard",
+     "location": "East Far Fields, inside bone building, requires Clawline and Drifter's Cloak",
+     "wiki": "https://hollowknight.wiki/w/All_Mask_Shard_Locations#FarFields",
+     "check": {
+      "kind": "world",
+      "scene": "Bone_East_LavaChallenge",
+      "id": "Heart Piece (1)"
+     }
+    },
+    {
+     "id": "mountFayMask",
+     "name": "Mask Shard",
+     "location": "Mount Fay, soutwest, west of the bench, requires Faydown Cloak",
+     "wiki": "https://hollowknight.wiki/w/All_Mask_Shard_Locations#MountFay",
+     "check": {
+      "kind": "world",
+      "scene": "Peak_04c",
+      "id": "Heart Piece"
+     }
+    },
+    {
+     "id": "slabMask",
+     "name": "Mask Shard",
+     "location": "the Slab, Northeast, require key of Apostate and Faydown Cloak",
+     "wiki": "https://hollowknight.wiki/w/All_Mask_Shard_Locations#TheSlab",
+     "check": {
+      "kind": "world",
+      "scene": "Slab_17",
+      "id": "Heart Piece"
+     }
+    },
+    {
+     "id": "bilewaterMask",
+     "name": "Mask Shard",
+     "location": "Bilewater, east, end of a hallway filled with Slubberlugs",
+     "wiki": "https://hollowknight.wiki/w/All_Mask_Shard_Locations#Bilewater",
+     "check": {
+      "kind": "world",
+      "scene": "Shadow_13",
+      "id": "Heart Piece"
+     }
+    },
+    {
+     "id": "wispThicketMask",
+     "name": "Mask Shard",
+     "location": "Wisp Thicket, east, requires Faydown Cloak",
+     "wiki": "https://hollowknight.wiki/w/All_Mask_Shard_Locations#WispThicket",
+     "check": {
+      "kind": "world",
+      "scene": "Wisp_07",
+      "id": "Heart Piece"
+     }
+    },
+    {
+     "id": "blastedStepsMask",
+     "name": "Mask Shard",
+     "location": "Blasted Steps, west, requires Clawline and Faydown Cloak.",
+     "wiki": "https://hollowknight.wiki/w/All_Mask_Shard_Locations#BlastedSteps",
+     "check": {
+      "kind": "world",
+      "scene": "Coral_19b",
+      "id": "Heart Piece"
+     }
+    },
+    {
+     "id": "brightveinMask",
+     "name": "Mask Shard",
+     "location": "Brightvein, requires Silk Soar",
+     "wiki": "https://hollowknight.wiki/w/All_Mask_Shard_Locations#MountFay",
+     "check": {
+      "kind": "world",
+      "scene": "Peak_06",
+      "id": "Heart Piece"
+     }
+    },
+    {
+     "id": "sprintmasterRaceWish",
+     "name": "Mask Shard",
+     "location": "Far Fields, east, complete Fastest in Pharloom wish",
+     "wiki": "https://hollowknight.wiki/w/All_Mask_Shard_Locations#FarFields",
+     "check": {
+      "kind": "quest",
+      "name": "Sprintmaster Race"
+     }
+    },
+    {
+     "id": "destroyThreadCoresWish",
+     "name": "Mask Shard",
+     "location": "Bellhart Wishwall, complete Dark Hearts wish",
+     "wiki": "https://hollowknight.wiki/w/All_Mask_Shard_Locations#Bellhart",
+     "check": {
+      "kind": "quest",
+      "name": "Destroy Thread Cores"
+     }
+    },
+    {
+     "id": "antTrapperWish",
+     "name": "Mask Shard",
+     "location": "Bellhart Wishwall, complete Hidden Hunter wish",
+     "wiki": "https://hollowknight.wiki/w/All_Mask_Shard_Locations#Bellhart",
+     "check": {
+      "kind": "quest",
+      "name": "Ant Trapper"
+     }
+    }
+   ]
+  },
+  {
+   "id": "spoolFragments",
+   "title": "Spool Fragments",
+   "group": "complete",
+   "perPercent": 2,
+   "items": [
+    {
+     "id": "boneBottomSpool",
+     "name": "Fragments",
+     "location": "Bone Bottom, Mosshome, behind a breakable wall",
+     "wiki": "https://hollowknight.wiki/w/Spool_Fragment",
+     "check": {
+      "kind": "world",
+      "scene": "Bone_11b",
+      "id": "Silk Spool"
+     }
+    },
+    {
+     "id": "deepDocksSpool1",
+     "name": "Fragments",
+     "location": "Deep Docks, lower left (too lazy to explane the location..)",
+     "wiki": "https://hollowknight.wiki/w/Spool_Fragment",
+     "check": {
+      "kind": "world",
+      "scene": "Bone_East_13",
+      "id": "Silk Spool"
+     }
+    },
+    {
+     "id": "greymoorSpool",
+     "name": "Fragments",
+     "location": "Greymoor, above Shakra's bench",
+     "wiki": "https://hollowknight.wiki/w/Spool_Fragment",
+     "check": {
+      "kind": "world",
+      "scene": "Greymoor_02",
+      "id": "Silk Spool"
+     }
+    },
+    {
+     "id": "PurchasedBelltownSpoolSegment",
+     "name": "Fragments",
+     "location": "Frey: 270 Rosaries, Complete My Missing Courier Wish",
+     "wiki": "https://hollowknight.wiki/w/Spool_Fragment",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "PurchasedBelltownSpoolSegment"
+      ]
+     }
+    },
+    {
+     "id": "weavenestAtlaSpool",
+     "name": "Fragments",
+     "location": "Weavenest Atla, require Needolin",
+     "wiki": "https://hollowknight.wiki/w/Spool_Fragment",
+     "check": {
+      "kind": "world",
+      "scene": "Weave_11",
+      "id": "Silk Spool"
+     }
+    },
+    {
+     "id": "slabSpool",
+     "name": "Fragments",
+     "location": "The Slab, west, require Cling Grip",
+     "wiki": "https://hollowknight.wiki/w/Spool_Fragment",
+     "check": {
+      "kind": "world",
+      "scene": "Peak_01",
+      "id": "Silk Spool"
+     }
+    },
+    {
+     "id": "grandGateSpool",
+     "name": "Fragments",
+     "location": "Grand Gate, top",
+     "wiki": "https://hollowknight.wiki/w/Spool_Fragment",
+     "check": {
+      "kind": "world",
+      "scene": "Song_19_entrance",
+      "id": "Silk Spool"
+     }
+    },
+    {
+     "id": "UnderworksSpool1",
+     "name": "Fragments",
+     "location": "Underworks, pass a challenging battle area",
+     "wiki": "https://hollowknight.wiki/w/Spool_Fragment",
+     "check": {
+      "kind": "world",
+      "scene": "Under_10",
+      "id": "Silk Spool"
+     }
+    },
+    {
+     "id": "MetCaravanTroupeLeaderJudge",
+     "name": "Fragments",
+     "location": "Grand Gate, Flea Caravan, requires 12 fleas and Last Judge defeated",
+     "wiki": "https://hollowknight.wiki/w/Spool_Fragment",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "MetCaravanTroupeLeaderJudge"
+      ]
+     }
+    },
+    {
+     "id": "whitewardSpool",
+     "name": "Fragments",
+     "location": "Whiteward, under the lift, require White Key",
+     "wiki": "https://hollowknight.wiki/w/Spool_Fragment",
+     "check": {
+      "kind": "world",
+      "scene": "Ward_01",
+      "id": "Silk Spool"
+     }
+    },
+    {
+     "id": "cogworkCoreSpool",
+     "name": "Fragments",
+     "location": "Cogwork Core, Southeast",
+     "wiki": "https://hollowknight.wiki/w/Spool_Fragment",
+     "check": {
+      "kind": "world",
+      "scene": "Cog_07",
+      "id": "Silk Spool"
+     }
+    },
+    {
+     "id": "UnderworksSpool2",
+     "name": "Fragments",
+     "location": "Underworks, east of the Cauldron",
+     "wiki": "https://hollowknight.wiki/w/Spool_Fragment",
+     "check": {
+      "kind": "world",
+      "scene": "Library_11b",
+      "id": "Silk Spool"
+     }
+    },
+    {
+     "id": "saveShermaWish",
+     "name": "Fragments",
+     "location": "complete Balm For The Wounded Wish",
+     "wiki": "https://hollowknight.wiki/w/Quests",
+     "check": {
+      "kind": "quest",
+      "name": "Save Sherma"
+     }
+    },
+    {
+     "id": "MerchantEnclaveSpoolPiece",
+     "name": "Fragments",
+     "location": "Jubilana: 500 rosaries, after complete Lost Merchant Wish",
+     "wiki": "https://hollowknight.wiki/w/Quests",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "MerchantEnclaveSpoolPiece"
+      ]
+     }
+    },
+    {
+     "id": "deepDocksSpool2",
+     "name": "Fragments",
+     "location": "Deep Docks, Southeast, require Clawline and Cling Grip",
+     "wiki": "https://hollowknight.wiki/w/Spool_Fragment",
+     "check": {
+      "kind": "world",
+      "scene": "Dock_03c",
+      "id": "Silk Spool"
+     }
+    },
+    {
+     "id": "highHallsSpool",
+     "name": "Fragments",
+     "location": "High Halls, top of left vertical room, require Faydown Cloak and Clawline",
+     "wiki": "https://hollowknight.wiki/w/Spool_Fragment",
+     "check": {
+      "kind": "world",
+      "scene": "Hang_03_top",
+      "id": "Silk Spool"
+     }
+    },
+    {
+     "id": "MemoriumSpool",
+     "name": "Fragments",
+     "location": "Memorium, western section, requires Faydown Cloak and Clawline",
+     "wiki": "https://hollowknight.wiki/w/Spool_Fragment",
+     "check": {
+      "kind": "world",
+      "scene": "Arborium_09",
+      "id": "Silk Spool"
+     }
+    },
+    {
+     "id": "purchasedGrindleSpoolPiece",
+     "name": "Fragments",
+     "location": "Grindle: 680 rosaries, requires Faydown Cloak and Cling Grip",
+     "wiki": "https://hollowknight.wiki/w/Spool_Fragment",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "purchasedGrindleSpoolPiece"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "craftingKitUpgrades",
+   "title": "Crafting Kit Upgrades",
+   "group": "complete",
+   "perPercent": 1,
+   "items": [
+    {
+     "id": "PurchasedForgeToolKit",
+     "name": "Upgrades",
+     "location": "Forge Daughter: 180 rosaries",
+     "wiki": "https://hollowknight.wiki/w/Crafting_Kit",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "PurchasedForgeToolKit"
+      ]
+     }
+    },
+    {
+     "id": "crowFeathersWish",
+     "name": "Upgrades",
+     "location": "complete Crawbug Clearing Wish",
+     "wiki": "https://hollowknight.wiki/w/Crafting_Kit",
+     "check": {
+      "kind": "quest",
+      "name": "Crow Feathers"
+     }
+    },
+    {
+     "id": "PurchasedArchitectToolKit",
+     "name": "Upgrades",
+     "location": "Twelfth Architect: 450 rosaries, requires Clawline",
+     "wiki": "https://hollowknight.wiki/w/Crafting_Kit",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "PurchasedArchitectToolKit"
+      ]
+     }
+    },
+    {
+     "id": "purchasedGrindleToolKit",
+     "name": "Upgrades",
+     "location": "Grindle: 700 rosaries, requires Faydown Cloak",
+     "wiki": "https://hollowknight.wiki/w/Crafting_Kit",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "purchasedGrindleToolKit"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "toolPouchUpgrades",
+   "title": "Tool Pouch Upgrades",
+   "group": "complete",
+   "perPercent": 1,
+   "items": [
+    {
+     "id": "PurchasedPilgrimsRestToolPouch",
+     "name": "Upgrades",
+     "location": "Mort: 220 rosaries, or Grindle: 220 (Act 3)",
+     "wiki": "https://hollowknight.wiki/w/Tool_Pouch",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "PurchasedPilgrimsRestToolPouch"
+      ]
+     }
+    },
+    {
+     "id": "ladybugCraftPickupToolPouch",
+     "name": "Upgrades",
+     "location": "The Marrow, Lodie Callange (Act 1 & 2), on table (Act 3)",
+     "wiki": "https://hollowknight.wiki/w/Tool_Pouch",
+     "check": {
+      "kind": "world",
+      "scene": "Bone_12",
+      "id": "Ladybug Craft Pickup",
+      "orIntAtLeast": [
+       "pinGalleriesCompleted",
+       1
+      ]
+     }
+    },
+    {
+     "id": "journalWish",
+     "name": "Upgrades",
+     "location": "complete Nuu's Wish: Bugs of Pharloom",
+     "wiki": "https://hollowknight.wiki/w/Tool_Pouch",
+     "check": {
+      "kind": "quest",
+      "name": "Journal"
+     }
+    },
+    {
+     "id": "CaravanTroupeLocation",
+     "name": "Upgrades",
+     "location": "Mooshka after helping the Flea Caravan move to Putrified Ducts",
+     "wiki": "https://hollowknight.wiki/w/Tool_Pouch",
+     "check": {
+      "kind": "intAtLeast",
+      "key": "CaravanTroupeLocation",
+      "value": 3
+     }
+    }
+   ]
+  },
+  {
+   "id": "essentialsMemoryLocket",
+   "title": "Memory Locket",
+   "group": "beyond",
+   "perPercent": 1,
+   "items": [
+    {
+     "id": "marrowMemoryLocket",
+     "name": "Memory Locket",
+     "location": "Marrow, northeast of the Bellway station, Cling Grip required",
+     "wiki": "https://hollowknight.wiki/w/Memory_Locket",
+     "check": {
+      "kind": "world",
+      "scene": "Bone_18",
+      "id": "Collectable Item Pickup"
+     }
+    },
+    {
+     "id": "hunterMarchMemoryLocket",
+     "name": "Memory Locket",
+     "location": "Hunter's March, below the Chapel of the Beast",
+     "wiki": "https://hollowknight.wiki/w/Memory_Locket",
+     "check": {
+      "kind": "world",
+      "scene": "Ant_20",
+      "id": "Collectable Item Pickup"
+     }
+    },
+    {
+     "id": "PurchasedPilgrimsRestMemoryLocket",
+     "name": "Memory Locket",
+     "location": "Mort: 150 rosaries or Grindle: 250 rosaries (Act3)",
+     "wiki": "https://hollowknight.wiki/w/Memory_Locket",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "PurchasedPilgrimsRestMemoryLocket"
+      ]
+     }
+    },
+    {
+     "id": "greymoorMemoryLocket01",
+     "name": "Memory Locket",
+     "location": "Greymoor, West of the Bellway",
+     "wiki": "https://hollowknight.wiki/w/Memory_Locket",
+     "check": {
+      "kind": "world",
+      "scene": "Greymoor_16",
+      "id": "Collectable Item Pickup"
+     }
+    },
+    {
+     "id": "rockRollersWish",
+     "name": "Memory Locket",
+     "location": "Bone Bottom, complet Volatile Flintbeetles Wish",
+     "wiki": "https://hollowknight.wiki/w/Memory_Locket",
+     "check": {
+      "kind": "quest",
+      "name": "Rock Rollers"
+     }
+    },
+    {
+     "id": "PurchasedBelltownMemoryLocket",
+     "name": "Memory Locket",
+     "location": "Frey: 330 rosaries, complete Threadspun Town",
+     "wiki": "https://hollowknight.wiki/w/Memory_Locket",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "PurchasedBelltownMemoryLocket"
+      ]
+     }
+    },
+    {
+     "id": "blastedStepsMemoryLocket",
+     "name": "Memory Locket",
+     "location": "Blasted Steps, require Cling Grip",
+     "wiki": "https://hollowknight.wiki/w/Memory_Locket",
+     "check": {
+      "kind": "world",
+      "scene": "Coral_02",
+      "id": "Collectable Item Pickup (1)"
+     }
+    },
+    {
+     "id": "wormwaysMemoryLocket",
+     "name": "Memory Locket",
+     "location": "Wormways, Southwest, require Simple Key",
+     "wiki": "https://hollowknight.wiki/w/Memory_Locket",
+     "check": {
+      "kind": "world",
+      "scene": "Crawl_09",
+      "id": "Collectable Item Pickup"
+     }
+    },
+    {
+     "id": "bilewaterMemoryLocket01",
+     "name": "Memory Locket",
+     "location": "Bilewater, hidden room northwest of the Bellway",
+     "wiki": "https://hollowknight.wiki/w/Memory_Locket",
+     "check": {
+      "kind": "world",
+      "scene": "Shadow_20",
+      "id": "Collectable Item Pickup"
+     }
+    },
+    {
+     "id": "choralChambersMemoryLocket",
+     "name": "Memory Locket",
+     "location": "Choral Chambers, Bellway Station, accessed from Exhaust Organ",
+     "wiki": "https://hollowknight.wiki/w/Memory_Locket",
+     "check": {
+      "kind": "world",
+      "scene": "Bellway_City",
+      "id": "Collectable Item Pickup"
+     }
+    },
+    {
+     "id": "underworksMemoryLocket",
+     "name": "Memory Locket",
+     "location": "Underworks, hidden entrance above benches by the confessional",
+     "wiki": "https://hollowknight.wiki/w/Memory_Locket",
+     "check": {
+      "kind": "world",
+      "scene": "Under_08",
+      "id": "Collectable Item Pickup"
+     }
+    },
+    {
+     "id": "deepDocksMemoryLocket",
+     "name": "Memory Locket",
+     "location": "Deep Docks, west of the diving bell",
+     "wiki": "https://hollowknight.wiki/w/Memory_Locket",
+     "check": {
+      "kind": "world",
+      "scene": "Dock_13",
+      "id": "Collectable Item Pickup"
+     }
+    },
+    {
+     "id": "whisperingVaultsMemoryLocket",
+     "name": "Memory Locket",
+     "location": "Whispering Vaults, below the exit to the outside area",
+     "wiki": "https://hollowknight.wiki/w/Memory_Locket",
+     "check": {
+      "kind": "world",
+      "scene": "Library_08",
+      "id": "Collectable Item Pickup"
+     }
+    },
+    {
+     "id": "sandsOfKarakMemoryLocket",
+     "name": "Memory Locket",
+     "location": "Sands of Karak, Southwest, Clawline required",
+     "wiki": "https://hollowknight.wiki/w/Memory_Locket",
+     "check": {
+      "kind": "world",
+      "scene": "Coral_23",
+      "id": "Collectable Item Pickup"
+     }
+    },
+    {
+     "id": "greymoorMemoryLocket02",
+     "name": "Memory Locket",
+     "location": "Greymoor, Halfway Home, above the left-hand door",
+     "wiki": "https://hollowknight.wiki/w/Memory_Locket",
+     "check": {
+      "kind": "world",
+      "scene": "Halfway_01",
+      "id": "Collectable Item Pickup"
+     }
+    },
+    {
+     "id": "MemoriumMemoryLocket",
+     "name": "Memory Locket",
+     "location": "Memorium, central area, parkour",
+     "wiki": "https://hollowknight.wiki/w/Memory_Locket",
+     "check": {
+      "kind": "world",
+      "scene": "Arborium_05",
+      "id": "Collectable Item Pickup"
+     }
+    },
+    {
+     "id": "slabMemoryLocket",
+     "name": "Memory Locket",
+     "location": "Slab, shortcut cave between the Bellway area and the upper areas",
+     "wiki": "https://hollowknight.wiki/w/Memory_Locket",
+     "check": {
+      "kind": "world",
+      "scene": "Slab_Cell_Quiet",
+      "id": "Collectable Item Pickup"
+     }
+    },
+    {
+     "id": "BilewaterMemoryLocket02",
+     "name": "Memory Locket",
+     "location": "Bilewater, west of hidden bench, inside breakable cocoon",
+     "wiki": "https://hollowknight.wiki/w/Memory_Locket",
+     "check": {
+      "kind": "world",
+      "scene": "Shadow_27",
+      "id": "Sack Corpse Pickup"
+     }
+    },
+    {
+     "id": "bellhartMemoryLocket",
+     "name": "Memory Locket",
+     "location": "Bellhart, above the Bellhome, require Silk Soar (Act3)",
+     "wiki": "https://hollowknight.wiki/w/Memory_Locket",
+     "check": {
+      "kind": "world",
+      "scene": "Belltown",
+      "id": "Collectable Item Pickup"
+     }
+    },
+    {
+     "id": "farFieldsMemoryLocket",
+     "name": "Memory Locket",
+     "location": "Far Fields, hidden in east of Skarrsinger Karmelita entrance (Act3)",
+     "wiki": "https://hollowknight.wiki/w/Memory_Locket",
+     "check": {
+      "kind": "world",
+      "scene": "Bone_East_25",
+      "id": "Collectable Item Pickup"
+     }
+    }
+   ]
+  },
+  {
+   "id": "essentialsCraftmetal",
+   "title": "Craftmetal",
+   "group": "beyond",
+   "perPercent": 1,
+   "items": [
+    {
+     "id": "PurchasedBonebottomToolMetal",
+     "name": "Craftmetal",
+     "location": "Pebb: 60 Rosaries",
+     "wiki": "https://hollowknight.wiki/w/Craftmetal",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "PurchasedBonebottomToolMetal"
+      ]
+     }
+    },
+    {
+     "id": "marrowCraftmetal",
+     "name": "Craftmetal",
+     "location": "Marrow, Larg room in east room, bottomleft corner",
+     "wiki": "https://hollowknight.wiki/w/Craftmetal",
+     "check": {
+      "kind": "world",
+      "scene": "Bone_07",
+      "id": "Collectable Item Pickup - Tool Metal"
+     }
+    },
+    {
+     "id": "deepDocksCraftmetal",
+     "name": "Craftmetal",
+     "location": "Deep Docks, behind locked room, inside chest",
+     "wiki": "https://hollowknight.wiki/w/Craftmetal",
+     "check": {
+      "kind": "world",
+      "scene": "Dock_03",
+      "id": "City Shard Chest"
+     }
+    },
+    {
+     "id": "blastedStepsCraftmetal",
+     "name": "Craftmetal",
+     "location": "Blasted Steps, hole before the Last Judge",
+     "wiki": "https://hollowknight.wiki/w/Craftmetal",
+     "check": {
+      "kind": "world",
+      "scene": "Coral_32",
+      "id": "Collectable Item Pickup - Tool Metal"
+     }
+    },
+    {
+     "id": "MerchantEnclaveToolMetal",
+     "name": "Craftmetal",
+     "location": "Jubilana: 180 Rosaries, complete Lost Merchant wish",
+     "wiki": "https://hollowknight.wiki/w/Craftmetal",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "MerchantEnclaveToolMetal"
+      ]
+     }
+    },
+    {
+     "id": "wispThicketCraftmetal",
+     "name": "Craftmetal",
+     "location": "Wisp Thicket, behind a breakable ceiling",
+     "wiki": "https://hollowknight.wiki/w/Craftmetal",
+     "check": {
+      "kind": "world",
+      "scene": "Wisp_05",
+      "id": "Collectable Item Pickup - Tool Metal"
+     }
+    },
+    {
+     "id": "underworksCraftmetal",
+     "name": "Craftmetal",
+     "location": "Underworks, central, south of where Clawline can be found",
+     "wiki": "https://hollowknight.wiki/w/Craftmetal",
+     "check": {
+      "kind": "world",
+      "scene": "Under_19b",
+      "id": "Collectable Item Pickup - Tool Metal"
+     }
+    },
+    {
+     "id": "putrifiedDuctsCraftmetal",
+     "name": "Craftmetal",
+     "location": "Putrified Ducts, far eastern end of the Pale Lake",
+     "wiki": "https://hollowknight.wiki/w/Craftmetal",
+     "check": {
+      "kind": "world",
+      "scene": "Aqueduct_05",
+      "id": "Collectable Item Pickup - Tool Metal"
+     }
+    }
+   ]
+  },
+  {
+   "id": "essentialsKeys",
+   "title": "Keys",
+   "group": "beyond",
+   "perPercent": 1,
+   "items": [
+    {
+     "id": "purchasedGrindleSimpleKey",
+     "name": "Sample Key #1",
+     "location": "Pebb: 500 rosaries (Act1&2), or Grindle: 600 rosaries (Act3)",
+     "wiki": "https://hollowknight.wiki/w/Simple_Key",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "purchasedGrindleSimpleKey",
+       "PurchasedBonebottomFaithToken"
+      ]
+     }
+    },
+    {
+     "id": "CollectedDustCageKey",
+     "name": "Sample Key #2",
+     "location": "Sinner's Road, northeast, defeat Roachkeeper",
+     "wiki": "https://hollowknight.wiki/w/Simple_Key",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "CollectedDustCageKey"
+      ]
+     }
+    },
+    {
+     "id": "MerchantEnclaveSimpleKey",
+     "name": "Sample Key #3",
+     "location": "Jubilana: 650 rosaries, complete Wandering Merchant wish",
+     "wiki": "https://hollowknight.wiki/w/Simple_Key",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "MerchantEnclaveSimpleKey"
+      ]
+     }
+    },
+    {
+     "id": "bellshrineCoralSimpleKey",
+     "name": "Sample Key #4",
+     "location": "Sands of Karak, east, in bench",
+     "wiki": "https://hollowknight.wiki/w/Simple_Key",
+     "check": {
+      "kind": "world",
+      "scene": "Bellshrine_Coral",
+      "id": "Collectable Item Pickup"
+     }
+    },
+    {
+     "id": "HasSlabKeyA",
+     "name": "Key of Indolent",
+     "location": "Slab, middle west, hanging inside a room",
+     "wiki": "https://hollowknight.wiki/w/Key_of_Indolent",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "HasSlabKeyA"
+      ]
+     }
+    },
+    {
+     "id": "HasSlabKeyB",
+     "name": "Key of Heretic",
+     "location": "Slab, after defeating enemies in northwest room",
+     "wiki": "https://hollowknight.wiki/w/Key_of_Heretic",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "HasSlabKeyB"
+      ]
+     }
+    },
+    {
+     "id": "HasSlabKeyC",
+     "name": "Key of Apostate",
+     "location": "Putrified Ducts, west of Huntress's home",
+     "wiki": "https://hollowknight.wiki/w/Key_of_Apostate",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "HasSlabKeyC"
+      ]
+     }
+    },
+    {
+     "id": "collectedWardBossKey",
+     "name": "White Key",
+     "location": "Songclave, far right edge, or Jubilana: 220 after Wandering Merchant wish",
+     "wiki": "https://hollowknight.wiki/w/White_Key",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "collectedWardBossKey"
+      ]
+     }
+    },
+    {
+     "id": "BelltownGreeterHouseFullDlg",
+     "name": "Bellhome Key",
+     "location": "Pavo: complete Bellhart's Glory wish and 2 of wishes on Bellhart Wishwall",
+     "wiki": "https://hollowknight.wiki/w/Bellhome_Guide",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "BelltownGreeterHouseFullDlg"
+      ]
+     }
+    },
+    {
+     "id": "BallowGivenKey",
+     "name": "Diving Bell Key",
+     "location": "(Act 3), The Dark Below Quest, Deep Docks, talk to Ballow",
+     "wiki": "https://hollowknight.wiki/w/Diving_Bell_Key",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "BallowGivenKey"
+      ]
+     }
+    },
+    {
+     "id": "CrowSummonsAppearedScene",
+     "name": "Craw Summons",
+     "location": "(Act 3), completed Awaiting the End, and hit the lever inside the Craw house on Craw Lake, there is a chance to summon evertime rests at certain benches",
+     "wiki": "https://hollowknight.wiki/w/Craw_Summons",
+     "check": {
+      "kind": "text",
+      "key": "CrowSummonsAppearedScene"
+     }
+    }
+   ]
+  },
+  {
+   "id": "flea",
+   "title": "Flea",
+   "group": "beyond",
+   "perPercent": 1,
+   "items": [
+    {
+     "id": "SavedFlea_Bone_06",
+     "name": "The Marrow",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#themarrow",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Bone_06"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Dock_16",
+     "name": "Deep Docks",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#deepdocks",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Dock_16"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Bone_East_05",
+     "name": "Deep Docks",
+     "location": "Swift Step",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#deepdocks",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Bone_East_05"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Dock_03d",
+     "name": "Deep Docks",
+     "location": "Clawline",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#deepdocks",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Dock_03d"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Ant_03",
+     "name": "Hunter's March",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#huntersmarch",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Ant_03"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Bone_East_17b",
+     "name": "Far Fields",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#farfields",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Bone_East_17b"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Bone_East_10_Church",
+     "name": "Far Fields",
+     "location": "Require Drifter's Cloak and Cling Grip",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#farfields",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Bone_East_10_Church"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Crawl_06",
+     "name": "Wormways",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#wormways",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Crawl_06"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Greymoor_15b",
+     "name": "Greymoor",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#crawlake",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Greymoor_15b"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Greymoor_06",
+     "name": "Greymoor",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#greymoor",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Greymoor_06"
+      ]
+     }
+    },
+    {
+     "id": "CaravanLechReturnedToCaravan",
+     "name": "Greymoor (Kratt)",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/Kratt",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "CaravanLechReturnedToCaravan"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Belltown_04",
+     "name": "Bellhart",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#bellhart",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Belltown_04"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Shellwood_03",
+     "name": "Shellwood",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#shellwood",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Shellwood_03"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Coral_35",
+     "name": "Blasted Steps",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#blastedsteps",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Coral_35"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Dust_12",
+     "name": "Sinner's Road",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#sinnersroad",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Dust_12"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Shadow_28",
+     "name": "Bilewater",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#bilewater",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Shadow_28"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Dust_09",
+     "name": "Bilewater",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#bilewater",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Dust_09"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Shadow_10",
+     "name": "Bilewater",
+     "location": "Require Cling Grip",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#bilewater",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Shadow_10"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Under_23",
+     "name": "Underworks",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#wispthicket",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Under_23"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Under_21",
+     "name": "Underworks",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#underworks",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Under_21"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Song_14",
+     "name": "Choral Chambers",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#choralchambers",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Song_14"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Song_11",
+     "name": "Choral Chambers",
+     "location": "Drifter's Cloak (or needle-bounce)",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#choralchambers",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Song_11"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Library_09",
+     "name": "Choral Chambers",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#songclave",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Library_09"
+      ]
+     }
+    },
+    {
+     "id": "tamedGiantFlea",
+     "name": "Memorium",
+     "location": "Defeat the Huge Flea in the top",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#memorium",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "tamedGiantFlea"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Slab_Cell",
+     "name": "The Slab",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#theslab",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Slab_Cell"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Slab_06",
+     "name": "The Slab",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#theslab",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Slab_06"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Peak_05c",
+     "name": "Mount Fay",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#mountfay",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Peak_05c"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Coral_24",
+     "name": "Sands of Karak",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#sandsofkarak",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Coral_24"
+      ]
+     }
+    },
+    {
+     "id": "MetTroupeHunterWild",
+     "name": "Putrified Ducts (Vog)",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#putrifiedducts",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "MetTroupeHunterWild"
+      ]
+     }
+    },
+    {
+     "id": "SavedFlea_Library_01",
+     "name": "Whispering Vaults",
+     "location": "Nothing required",
+     "wiki": "https://hollowknight.wiki/w/All_Lost_Flea_Locations#whisperingvaults",
+     "check": {
+      "kind": "flag",
+      "keys": [
+       "SavedFlea_Library_01"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+[package]
+name = "driver-silksong"
+edition.workspace = true
+version.workspace = true
+# data/checks.json comes from a GPL-3.0 project, so this driver is GPL too.
+license = "MIT OR Apache-2.0"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+hundo-sdk.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+aes = "0.8"
+base64 = "0.22"

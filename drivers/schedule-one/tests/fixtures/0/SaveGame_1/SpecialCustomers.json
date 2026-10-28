@@ -1,0 +1,117 @@
+{
+    "DataType": "SpecialCustomerSaveData",
+    "DataVersion": 0,
+    "GameVersion": "0.4.7f12",
+    "GroupId": "businessmen",
+    "Phase": 1,
+    "DaysLeftInPhase": 3,
+    "RunningBudget": 40,
+    "ChanceToAppear": 0.5,
+    "GroupData": [
+        {
+            "GroupId": "businessmen",
+            "DaySinceLastVisit": 22,
+            "VisitCount": 0,
+            "GroupInventory": {
+                "Items": [],
+                "SlotFilters": []
+            }
+        },
+        {
+            "GroupId": "hippies",
+            "DaySinceLastVisit": 22,
+            "VisitCount": 0,
+            "GroupInventory": {
+                "Items": [],
+                "SlotFilters": []
+            }
+        },
+        {
+            "GroupId": "partybus",
+            "DaySinceLastVisit": 22,
+            "VisitCount": 0,
+            "GroupInventory": {
+                "Items": [],
+                "SlotFilters": []
+            }
+        },
+        {
+            "GroupId": "bikers",
+            "DaySinceLastVisit": 8,
+            "VisitCount": 1,
+            "GroupInventory": {
+                "Items": [
+                    "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.7f12\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":129.0}",
+                    "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.7f12\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":674.0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.7f12\",\"ID\":\"donut\",\"Quantity\":1}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.7f12\",\"ID\":\"addy\",\"Quantity\":1}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.7f12\",\"ID\":\"\",\"Quantity\":0}"
+                ],
+                "SlotFilters": [
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "DesiredEffects": [
+        "thoughtprovoking",
+        "balding",
+        "Focused",
+        "antigravity",
+        "energizing"
+    ]
+}

@@ -1,0 +1,1516 @@
+{
+  "gameVersion": "38290",
+  "title": null,
+  "completion": null,
+  "stats": [
+    {
+      "id": "runs",
+      "label": "Tentatives",
+      "value": "53"
+    },
+    {
+      "id": "escapes",
+      "label": "Évasions",
+      "value": "0"
+    },
+    {
+      "id": "darkness",
+      "label": "Ténèbres gagnées",
+      "value": "7151"
+    },
+    {
+      "id": "gems",
+      "label": "Gemmes gagnées",
+      "value": "1685"
+    },
+    {
+      "id": "nectar",
+      "label": "Nectar reçu",
+      "value": "48"
+    },
+    {
+      "id": "codex",
+      "label": "Entrées du Codex",
+      "value": "90"
+    },
+    {
+      "id": "mirror",
+      "label": "Talents du Miroir",
+      "value": "27"
+    },
+    {
+      "id": "contractor",
+      "label": "Ouvrages du Constructeur",
+      "value": "32"
+    }
+  ],
+  "sections": [
+    {
+      "id": "weapons",
+      "title": "Armes infernales",
+      "group": "Progression",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "SwordWeapon",
+          "title": "Stygius",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Maison d'Hadès",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "SpearWeapon",
+          "title": "Varatha",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Maison d'Hadès",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "ShieldWeapon",
+          "title": "Aegis",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Maison d'Hadès",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "BowWeapon",
+          "title": "Coronacht",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Maison d'Hadès",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "FistWeapon",
+          "title": "Malphon",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Maison d'Hadès",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "GunWeapon",
+          "title": "Exagryph",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Maison d'Hadès",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        }
+      ],
+      "tally": {
+        "done": 6,
+        "total": 6
+      }
+    },
+    {
+      "id": "guardians",
+      "title": "Gardiens",
+      "group": "Progression",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "Harpy",
+          "title": "Megaera",
+          "status": "done",
+          "progress": null,
+          "hint": "15 fois vaincu",
+          "location": "Tartare",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "Harpy2",
+          "title": "Alecto",
+          "status": "done",
+          "progress": null,
+          "hint": "11 fois vaincu",
+          "location": "Tartare",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "Harpy3",
+          "title": "Tisiphone",
+          "status": "done",
+          "progress": null,
+          "hint": "6 fois vaincu",
+          "location": "Tartare",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "HydraHeadImmortal",
+          "title": "Lernie",
+          "status": "done",
+          "progress": null,
+          "hint": "20 fois vaincu",
+          "location": "Asphodèle",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "Theseus",
+          "title": "Theseus",
+          "status": "done",
+          "progress": null,
+          "hint": "7 fois vaincu",
+          "location": "Élysée",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "Minotaur",
+          "title": "Asterius",
+          "status": "done",
+          "progress": null,
+          "hint": "13 fois vaincu",
+          "location": "Élysée",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "Hades",
+          "title": "Hades",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": "Temple du Styx",
+          "spoiler": "minor",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        }
+      ],
+      "tally": {
+        "done": 6,
+        "total": 7
+      }
+    },
+    {
+      "id": "realms",
+      "title": "Royaumes atteints",
+      "group": "Progression",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "realm-Tartarus",
+          "title": "Tartare",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Tartare",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "realm-Asphodel",
+          "title": "Asphodèle",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Asphodèle",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "realm-Elysium",
+          "title": "Élysée",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Élysée",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "realm-Styx",
+          "title": "Temple du Styx",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": "Temple du Styx",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "realm-Surface",
+          "title": "Surface",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": "Surface",
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        }
+      ],
+      "tally": {
+        "done": 4,
+        "total": 5
+      }
+    },
+    {
+      "id": "prophecies",
+      "title": "Liste du destin",
+      "group": "Progression",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "DemeterUpgrades",
+          "title": "Tous les bienfaits : Demeter",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "CodexSmall",
+          "title": "Remplir le Codex",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "ArtemisUpgrades",
+          "title": "Tous les bienfaits : Artemis",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "MeetOlympians",
+          "title": "Rencontrer les dieux de l'Olympe",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "ShieldHammerUpgrades",
+          "title": "Améliorations du marteau : Aegis",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "MiniBossKills",
+          "title": "Vaincre les champions des royaumes",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "FistHammerUpgrades",
+          "title": "Améliorations du marteau : Malphon",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "AphroditeUpgrades",
+          "title": "Tous les bienfaits : Aphrodite",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "PoseidonUpgrades",
+          "title": "Tous les bienfaits : Poseidon",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "GunHammerUpgrades",
+          "title": "Améliorations du marteau : Exagryph",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "SwordHammerUpgrades",
+          "title": "Améliorations du marteau : Stygius",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "HermesUpgrades",
+          "title": "Tous les bienfaits : Hermes",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "SpearHammerUpgrades",
+          "title": "Améliorations du marteau : Varatha",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "ChaosCurses",
+          "title": "Les bénédictions du Chaos",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "MeetChthonicGods",
+          "title": "Rencontrer les dieux chthoniens",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "SynergyUpgrades",
+          "title": "Obtenir des bienfaits duo",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "DionysusUpgrades",
+          "title": "Tous les bienfaits : Dionysus",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "CosmeticsSmall",
+          "title": "Commander des ouvrages au Constructeur",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "AthenaUpgrades",
+          "title": "Tous les bienfaits : Athena",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "WeaponUnlocks",
+          "title": "Débloquer toutes les armes infernales",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "AresUpgrades",
+          "title": "Tous les bienfaits : Ares",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "AresEarnKills",
+          "title": "Ares Earn Kills",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "FirstClear",
+          "title": "S'échapper des Enfers",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "OrpheusRelease",
+          "title": "Libérer Orphée",
+          "status": "done",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "ZeusUpgrades",
+          "title": "Tous les bienfaits : Zeus",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "BowHammerUpgrades",
+          "title": "Améliorations du marteau : Coronacht",
+          "status": "todo",
+          "progress": null,
+          "hint": null,
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        }
+      ],
+      "tally": {
+        "done": 9,
+        "total": 26
+      }
+    },
+    {
+      "id": "denizens",
+      "title": "Habitants des Enfers",
+      "group": "Relations",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "NPC_Nyx_01",
+          "title": "Nyx",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "2 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "NPC_Thanatos_01",
+          "title": "Thanatos",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "1 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "NPC_FurySister_01",
+          "title": "Megaera",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "1 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "NPC_Dusa_01",
+          "title": "Dusa",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "1 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "NPC_Achilles_01",
+          "title": "Achilles",
+          "status": "todo",
+          "progress": null,
+          "hint": "0 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "NPC_Hypnos_01",
+          "title": "Hypnos",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "1 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "NPC_Cerberus_01",
+          "title": "Cerberus",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "1 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "NPC_Orpheus_01",
+          "title": "Orpheus",
+          "status": "todo",
+          "progress": null,
+          "hint": "0 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "NPC_Skelly_01",
+          "title": "Skelly",
+          "status": "todo",
+          "progress": null,
+          "hint": "0 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "NPC_Charon_01",
+          "title": "Charon",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "2 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "NPC_Sisyphus_01",
+          "title": "Sisyphus",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "1 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "NPC_Eurydice_01",
+          "title": "Eurydice",
+          "status": "todo",
+          "progress": null,
+          "hint": "0 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "NPC_Patroclus_01",
+          "title": "Patroclus",
+          "status": "todo",
+          "progress": null,
+          "hint": "0 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "NPC_Bouldy_01",
+          "title": "Bouldy",
+          "status": "todo",
+          "progress": null,
+          "hint": "0 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "NPC_Persephone_Home_01",
+          "title": "Persephone",
+          "status": "todo",
+          "progress": null,
+          "hint": "0 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "NPC_Hades_01",
+          "title": "Hades",
+          "status": "todo",
+          "progress": null,
+          "hint": "0 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        }
+      ],
+      "tally": {
+        "done": 0,
+        "total": 16
+      }
+    },
+    {
+      "id": "gods",
+      "title": "Dieux de l'Olympe",
+      "group": "Relations",
+      "view": "list",
+      "optional": false,
+      "items": [
+        {
+          "id": "ZeusUpgrade",
+          "title": "Zeus",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "2 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "PoseidonUpgrade",
+          "title": "Poseidon",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "1 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "AthenaUpgrade",
+          "title": "Athena",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "6 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "AresUpgrade",
+          "title": "Ares",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "6 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "AphroditeUpgrade",
+          "title": "Aphrodite",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "3 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "ArtemisUpgrade",
+          "title": "Artemis",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "4 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "DionysusUpgrade",
+          "title": "Dionysus",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "2 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "HermesUpgrade",
+          "title": "Hermes",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "1 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "DemeterUpgrade",
+          "title": "Demeter",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "4 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        },
+        {
+          "id": "TrialUpgrade",
+          "title": "Chaos",
+          "status": "in-progress",
+          "progress": null,
+          "hint": "2 cœur(s)",
+          "location": null,
+          "spoiler": "none",
+          "link": null,
+          "dlc": null,
+          "image": null,
+          "details": null,
+          "areas": []
+        }
+      ],
+      "tally": {
+        "done": 0,
+        "total": 10
+      }
+    }
+  ],
+  "maps": [
+    {
+      "id": "underworld",
+      "title": "Les Enfers",
+      "width": 1000.0,
+      "height": 1400.0,
+      "background": null,
+      "customBackground": false,
+      "generatedBackground": false,
+      "layout": null,
+      "regions": [
+        {
+          "id": "House",
+          "label": "Maison d'Hadès",
+          "points": [
+            [
+              260.0,
+              1230.0
+            ],
+            [
+              740.0,
+              1230.0
+            ],
+            [
+              800.0,
+              1380.0
+            ],
+            [
+              200.0,
+              1380.0
+            ]
+          ],
+          "items": [
+            "SwordWeapon",
+            "SpearWeapon",
+            "ShieldWeapon",
+            "BowWeapon",
+            "FistWeapon",
+            "GunWeapon"
+          ],
+          "tally": {
+            "done": 6,
+            "total": 6
+          }
+        },
+        {
+          "id": "Tartarus",
+          "label": "Tartare",
+          "points": [
+            [
+              120.0,
+              960.0
+            ],
+            [
+              880.0,
+              960.0
+            ],
+            [
+              840.0,
+              1210.0
+            ],
+            [
+              160.0,
+              1210.0
+            ]
+          ],
+          "items": [
+            "Harpy",
+            "Harpy2",
+            "Harpy3",
+            "realm-Tartarus"
+          ],
+          "tally": {
+            "done": 4,
+            "total": 4
+          }
+        },
+        {
+          "id": "Asphodel",
+          "label": "Asphodèle",
+          "points": [
+            [
+              160.0,
+              700.0
+            ],
+            [
+              840.0,
+              700.0
+            ],
+            [
+              880.0,
+              940.0
+            ],
+            [
+              120.0,
+              940.0
+            ]
+          ],
+          "items": [
+            "HydraHeadImmortal",
+            "realm-Asphodel"
+          ],
+          "tally": {
+            "done": 2,
+            "total": 2
+          }
+        },
+        {
+          "id": "Elysium",
+          "label": "Élysée",
+          "points": [
+            [
+              140.0,
+              440.0
+            ],
+            [
+              860.0,
+              440.0
+            ],
+            [
+              840.0,
+              680.0
+            ],
+            [
+              160.0,
+              680.0
+            ]
+          ],
+          "items": [
+            "Theseus",
+            "Minotaur",
+            "realm-Elysium"
+          ],
+          "tally": {
+            "done": 3,
+            "total": 3
+          }
+        },
+        {
+          "id": "Styx",
+          "label": "Temple du Styx",
+          "points": [
+            [
+              200.0,
+              200.0
+            ],
+            [
+              800.0,
+              200.0
+            ],
+            [
+              860.0,
+              420.0
+            ],
+            [
+              140.0,
+              420.0
+            ]
+          ],
+          "items": [
+            "Hades",
+            "realm-Styx"
+          ],
+          "tally": {
+            "done": 1,
+            "total": 2
+          }
+        },
+        {
+          "id": "Surface",
+          "label": "Surface",
+          "points": [
+            [
+              300.0,
+              30.0
+            ],
+            [
+              700.0,
+              30.0
+            ],
+            [
+              780.0,
+              180.0
+            ],
+            [
+              220.0,
+              180.0
+            ]
+          ],
+          "items": [
+            "realm-Surface"
+          ],
+          "tally": {
+            "done": 0,
+            "total": 1
+          }
+        }
+      ],
+      "markers": [
+        {
+          "id": "m-SwordWeapon",
+          "label": "Stygius",
+          "x": 312.822,
+          "y": 1267.6073,
+          "item": "SwordWeapon",
+          "category": "Armes infernales",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-SpearWeapon",
+          "label": "Varatha",
+          "x": 463.2513,
+          "y": 1267.6073,
+          "item": "SpearWeapon",
+          "category": "Armes infernales",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-ShieldWeapon",
+          "label": "Aegis",
+          "x": 613.6806,
+          "y": 1267.6073,
+          "item": "ShieldWeapon",
+          "category": "Armes infernales",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-BowWeapon",
+          "label": "Coronacht",
+          "x": 312.822,
+          "y": 1342.8219,
+          "item": "BowWeapon",
+          "category": "Armes infernales",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-FistWeapon",
+          "label": "Malphon",
+          "x": 463.2513,
+          "y": 1342.8219,
+          "item": "FistWeapon",
+          "category": "Armes infernales",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-GunWeapon",
+          "label": "Exagryph",
+          "x": 613.6806,
+          "y": 1342.8219,
+          "item": "GunWeapon",
+          "category": "Armes infernales",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-Harpy",
+          "label": "Megaera",
+          "x": 212.6266,
+          "y": 1052.6266,
+          "item": "Harpy",
+          "category": "Gardiens",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-Harpy2",
+          "label": "Alecto",
+          "x": 397.87982,
+          "y": 1052.6266,
+          "item": "Harpy2",
+          "category": "Gardiens",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-Harpy3",
+          "label": "Tisiphone",
+          "x": 583.13306,
+          "y": 1052.6266,
+          "item": "Harpy3",
+          "category": "Gardiens",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-realm-Tartarus",
+          "label": "Tartare",
+          "x": 768.3862,
+          "y": 1052.6266,
+          "item": "realm-Tartarus",
+          "category": "Royaumes atteints",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-HydraHeadImmortal",
+          "label": "Lernie",
+          "x": 248.34718,
+          "y": 828.34717,
+          "item": "HydraHeadImmortal",
+          "category": "Gardiens",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-realm-Asphodel",
+          "label": "Asphodèle",
+          "x": 505.04156,
+          "y": 828.34717,
+          "item": "realm-Asphodel",
+          "category": "Royaumes atteints",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-Theseus",
+          "label": "Theseus",
+          "x": 260.0,
+          "y": 560.0,
+          "item": "Theseus",
+          "category": "Gardiens",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-Minotaur",
+          "label": "Asterius",
+          "x": 500.0,
+          "y": 560.0,
+          "item": "Minotaur",
+          "category": "Gardiens",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-realm-Elysium",
+          "label": "Élysée",
+          "x": 740.0,
+          "y": 560.0,
+          "item": "realm-Elysium",
+          "category": "Royaumes atteints",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-Hades",
+          "label": "Hades",
+          "x": 259.60562,
+          "y": 319.60562,
+          "item": "Hades",
+          "category": "Gardiens",
+          "approximate": true,
+          "icon": null,
+          "status": "todo"
+        },
+        {
+          "id": "m-realm-Styx",
+          "label": "Temple du Styx",
+          "x": 498.81683,
+          "y": 319.60562,
+          "item": "realm-Styx",
+          "category": "Royaumes atteints",
+          "approximate": true,
+          "icon": null,
+          "status": "done"
+        },
+        {
+          "id": "m-realm-Surface",
+          "label": "Surface",
+          "x": 446.9377,
+          "y": 105.645905,
+          "item": "realm-Surface",
+          "category": "Royaumes atteints",
+          "approximate": true,
+          "icon": null,
+          "status": "todo"
+        }
+      ],
+      "links": [],
+      "hiddenLayers": []
+    }
+  ],
+  "warnings": [
+    "La Liste du destin ne montre que les prophéties déjà révélées par le jeu."
+  ],
+  "tally": {
+    "done": 25,
+    "total": 70
+  }
+}

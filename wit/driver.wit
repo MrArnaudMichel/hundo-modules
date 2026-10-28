@@ -1,0 +1,195 @@
+// The contract between Hundo and a game driver.
+//
+// A driver is a pure function: the host hands it the files of one save slot,
+// it answers with a report. It imports nothing from the host, so it can read
+// no file it was not given and reach no network: everything it knows about a
+// game ships inside the component.
+//
+// Changing anything here is a breaking change for every driver: bump the
+// package version and keep the host able to load the previous one.
+package hundo:driver@0.3.0;
+
+interface types {
+    /// One file of the slot, with its path relative to the slot's root
+    /// (`/`-separated) and its modification time in seconds since the epoch.
+    record save-file {
+        path: string,
+        bytes: list<u8>,
+        modified: u64,
+    }
+
+    /// The slot the host found, and the named captures of the manifest's
+    /// slot pattern (`slot` → "1", `account` → "7656…").
+    record slot {
+        id: string,
+        label: string,
+        captures: list<tuple<string, string>>,
+    }
+
+    record input {
+        slot: slot,
+        files: list<save-file>,
+        /// BCP 47 tag of the reader's language, such as "fr" or "en-US".
+        locale: string,
+        /// The reader's value for each option of driver.toml's [[options]]:
+        /// "true" or "false" for a switch, the chosen id otherwise.
+        options: list<tuple<string, string>>,
+    }
+
+    enum status {
+        done,
+        todo,
+        in-progress,
+        /// Not reachable yet: a prerequisite is missing.
+        locked,
+        /// No longer possible on this save.
+        missed,
+    }
+
+    enum spoiler {
+        none,
+        minor,
+        major,
+    }
+
+    record counter {
+        current: u32,
+        total: u32,
+    }
+
+    record item {
+        /// Stable across versions of the driver: the host keys user notes on it.
+        id: string,
+        title: string,
+        status: status,
+        progress: option<counter>,
+        /// How to get it.
+        hint: option<string>,
+        location: option<string>,
+        spoiler: spoiler,
+        link: option<string>,
+        /// The content pack this belongs to, an id from the manifest's
+        /// `[[dlc]]`: the reader can leave it out of the count.
+        dlc: option<string>,
+        /// A picture of it: a file in the driver's `assets/` folder, or
+        /// `game:<name>`, a sprite the host draws from the installed game's
+        /// own files (the manifest's `[images]` says where to look).
+        image: option<string>,
+        /// Longer text, shown when the reader opens the item: what the game
+        /// says about it, its lore, the notes it unlocks.
+        details: option<string>,
+        /// The areas of the game it belongs to, by name: where a creature
+        /// lives, where a collectible lies. The host groups and filters by
+        /// them, and sums each area's progress.
+        areas: list<string>,
+    }
+
+    /// How the host lays out a section's items.
+    enum section-view {
+        /// One row per item.
+        %list,
+        /// Cards with their pictures, grouped by area: for collections
+        /// (creatures, charms, tools) whose pictures say more than names.
+        gallery,
+    }
+
+    record section {
+        id: string,
+        title: string,
+        /// Sections sharing a group are shown together, as one tab.
+        group: option<string>,
+        view: section-view,
+        /// Needed for no completion (geo rocks, rosary caches): left out of
+        /// the list, the map and the counts until the reader asks for them.
+        optional: bool,
+        items: list<item>,
+    }
+
+    record stat {
+        id: string,
+        label: string,
+        value: string,
+    }
+
+    /// An area of a map, drawn as a polygon in map units.
+    record map-region {
+        id: string,
+        label: string,
+        points: list<tuple<f32, f32>>,
+        /// Ids of the items found in this area: the host colours it from them.
+        items: list<string>,
+    }
+
+    record map-marker {
+        id: string,
+        label: string,
+        /// Position in map units, from the top left.
+        x: f32,
+        y: f32,
+        /// The item this marker stands for: it takes that item's status.
+        item: option<string>,
+        /// Groups markers into layers the reader can hide: "boss", "charm"…
+        category: string,
+        /// The driver only knows the area, not the exact spot.
+        approximate: bool,
+        /// A picture for the marker itself, as an item's `image`: the game's
+        /// own pin for a bench or a merchant. An item's marker shows the
+        /// item's picture without it.
+        icon: option<string>,
+    }
+
+    /// An interactive map. Coordinates are in the map's own units, `width` by
+    /// `height`; a background image, if any, is stretched over that frame.
+    record game-map {
+        id: string,
+        title: string,
+        width: f32,
+        height: f32,
+        /// An image (PNG, JPEG, WebP or SVG) in the driver's `assets/` folder.
+        /// The reader may replace it with an image of their own.
+        background: option<string>,
+        regions: list<map-region>,
+        markers: list<map-marker>,
+        /// Pairs of marker or region ids joined by a line: paths, connections.
+        links: list<tuple<string, string>>,
+        /// Marker categories hidden until the reader shows them: what is on
+        /// the map for completeness but needed by no one (geo rocks, chests).
+        hidden-layers: list<string>,
+    }
+
+    /// The game's own completion figure, when it has one (112 % in Hollow Knight).
+    record completion {
+        label: string,
+        value: f64,
+        max: f64,
+    }
+
+    record report {
+        /// The game version that wrote the save, as the save states it.
+        game-version: option<string>,
+        /// What the player named this save, if the game lets them.
+        title: option<string>,
+        completion: option<completion>,
+        stats: list<stat>,
+        sections: list<section>,
+        maps: list<game-map>,
+        /// Shown above the report: partial support, an untested game version…
+        warnings: list<string>,
+    }
+
+    variant driver-error {
+        /// The save comes from a game version this driver cannot read.
+        unsupported-version(string),
+        /// The game is writing the save: the host retries a moment later.
+        incomplete(string),
+        corrupt(string),
+        /// A file the driver needs was not among those the host passed.
+        missing-file(string),
+    }
+}
+
+world driver {
+    use types.{input, report, driver-error};
+
+    export analyze: func(input: input) -> result<report, driver-error>;
+}

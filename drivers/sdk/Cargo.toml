@@ -1,0 +1,9 @@
+[package]
+name = "hundo-sdk"
+description = "Everything a Hundo driver needs: the WIT bindings and helpers to build a report."
+edition.workspace = true
+version.workspace = true
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+wit-bindgen.workspace = true

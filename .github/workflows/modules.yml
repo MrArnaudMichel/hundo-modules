@@ -1,0 +1,33 @@
+name: Modules
+
+# On a pull request only: builds every module and runs their unit tests.
+on:
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: modules-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: wasm32-wasip2
+          components: clippy
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: drivers -> target
+      - name: Build
+        run: cd drivers && cargo build --release
+      - name: Unit tests
+        run: |
+          cd drivers && cargo test --target "$(rustc -vV | sed -n 's/host: //p')" --workspace
+      - name: Lints
+        run: cd drivers && cargo clippy --release --workspace -- -D warnings
+      - name: Catalog
+        run: python3 -c "import json; json.load(open('catalog/catalog.json'))"

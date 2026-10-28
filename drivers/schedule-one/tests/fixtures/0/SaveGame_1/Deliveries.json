@@ -1,0 +1,9 @@
+{
+    "DataType": "DeliveriesData",
+    "DataVersion": 0,
+    "GameVersion": "0.4.7f12",
+    "ActiveDeliveries": [],
+    "DeliveryVehicles": [],
+    "DeliveryHistory": [],
+    "DisplayedDeliveryHistory": []
+}
