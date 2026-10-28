@@ -5,7 +5,7 @@ id = "silksong"
 name = "Hollow Knight: Silksong"
 version = "0.1.0"
 authors = ["Arnaud Michel"]
-license = "MIT OR Apache-2.0"
+license = "GPL-3.0-or-later"
 description = "Complétion 100 % : emblèmes, outils, compétences, fragments, améliorations ; puces, médaillons et clés."
 
 [game]

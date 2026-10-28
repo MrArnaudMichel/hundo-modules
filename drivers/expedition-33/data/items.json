@@ -1,0 +1,6216 @@
+{
+ "source": "Item keys and areas from MahmoudHamdy02/e33tracker, cross-checked facts; names derived from the keys",
+ "items": [
+  {
+   "kind": "weapon",
+   "keys": [
+    "Abysseram"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Abysseram",
+   "id": "weapon-Abysseram"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Algueron"
+   ],
+   "areas": [
+    "Old Lumiere"
+   ],
+   "name": "Algueron",
+   "id": "weapon-Algueron"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Angerim"
+   ],
+   "areas": [],
+   "name": "Angerim",
+   "id": "weapon-Angerim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Baguettaro"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Baguettaro",
+   "id": "weapon-Baguettaro"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Sirenaro_1"
+   ],
+   "areas": [
+    "Lumiere (Act III)",
+    "Sirene's Dress"
+   ],
+   "name": "Ballaro",
+   "id": "weapon-Ballaro"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Chainebum"
+   ],
+   "areas": [
+    "Sirene"
+   ],
+   "name": "BarrierBreaker",
+   "id": "weapon-BarrierBreaker"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Battlum"
+   ],
+   "areas": [
+    "Old Lumiere",
+    "Flying Manor"
+   ],
+   "name": "Battlum",
+   "id": "weapon-Battlum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Benisim"
+   ],
+   "areas": [
+    "Forgotten Battlefield"
+   ],
+   "name": "Benisim",
+   "id": "weapon-Benisim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Betelim"
+   ],
+   "areas": [
+    "Gestral Village"
+   ],
+   "name": "Betelim",
+   "id": "weapon-Betelim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Blizzon"
+   ],
+   "areas": [],
+   "name": "Blizzon",
+   "id": "weapon-Blizzon"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Blodam"
+   ],
+   "areas": [],
+   "name": "Blodam",
+   "id": "weapon-Blodam"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "VD_Lune_1"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Bonbim",
+   "id": "weapon-Bonbim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Boucharo"
+   ],
+   "areas": [],
+   "name": "Boucharo",
+   "id": "weapon-Boucharo"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Bourgelon"
+   ],
+   "areas": [
+    "Coastal Cave"
+   ],
+   "name": "Bourgelon",
+   "id": "weapon-Bourgelon"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Braselim"
+   ],
+   "areas": [
+    "The Monolith"
+   ],
+   "name": "Braselim",
+   "id": "weapon-Braselim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Brulerum"
+   ],
+   "areas": [
+    "Flying Waters",
+    "Coastal Cave"
+   ],
+   "name": "Brulerum",
+   "id": "weapon-Brulerum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Brumaro"
+   ],
+   "areas": [],
+   "name": "Brumaro",
+   "id": "weapon-Brumaro"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "VD_Monoco_1"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Cannaro",
+   "id": "weapon-Cannaro"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Chaliso"
+   ],
+   "areas": [
+    "Sinister Cave"
+   ],
+   "name": "Chalium",
+   "id": "weapon-Chalium"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Sirenum_2"
+   ],
+   "areas": [
+    "Sirene"
+   ],
+   "name": "Chantenum",
+   "id": "weapon-Chantenum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Chapelim"
+   ],
+   "areas": [
+    "Visages"
+   ],
+   "name": "Chapelim",
+   "id": "weapon-Chapelim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Charnon"
+   ],
+   "areas": [],
+   "name": "Charnon",
+   "id": "weapon-Charnon"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Chation"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Chation",
+   "id": "weapon-Chation"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Chevalam"
+   ],
+   "areas": [
+    "Crimson Forest"
+   ],
+   "name": "Chevalam",
+   "id": "weapon-Chevalam"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Sirenim_1"
+   ],
+   "areas": [
+    "Sirene's Dress"
+   ],
+   "name": "Choralim",
+   "id": "weapon-Choralim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Chromaro"
+   ],
+   "areas": [],
+   "name": "Chromaro",
+   "id": "weapon-Chromaro"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Simonim"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "name": "Cleim",
+   "id": "weapon-Cleim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Clierum"
+   ],
+   "areas": [
+    "Visages"
+   ],
+   "name": "Clierum",
+   "id": "weapon-Clierum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Coldum"
+   ],
+   "areas": [],
+   "name": "Coldum",
+   "id": "weapon-Coldum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Sirenim_2"
+   ],
+   "areas": [],
+   "name": "Colim",
+   "id": "weapon-Colim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Confuso"
+   ],
+   "areas": [
+    "Visages"
+   ],
+   "name": "Confuso",
+   "id": "weapon-Confuso"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Moissoso"
+   ],
+   "areas": [
+    "The Chosen Path"
+   ],
+   "name": "Contorso",
+   "id": "weapon-Contorso"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Coralim"
+   ],
+   "areas": [
+    "Stone Wave Cliffs"
+   ],
+   "name": "Coralim",
+   "id": "weapon-Coralim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Corderon"
+   ],
+   "areas": [
+    "Sinister Cave"
+   ],
+   "name": "Corderon",
+   "id": "weapon-Corderon"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Corpeso"
+   ],
+   "areas": [
+    "Dark Shores"
+   ],
+   "name": "Corpeso",
+   "id": "weapon-Corpeso"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Cruleram"
+   ],
+   "areas": [
+    "Flying Waters",
+    "Coastal Cave",
+    "Endless Night Sanctuary",
+    "Flying Manor"
+   ],
+   "name": "Cruleram",
+   "id": "weapon-Cruleram"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Cultam"
+   ],
+   "areas": [],
+   "name": "Cultam",
+   "id": "weapon-Cultam"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Danseso"
+   ],
+   "areas": [],
+   "name": "Danseso",
+   "id": "weapon-Danseso"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Delaram"
+   ],
+   "areas": [
+    "Stone Wave Cliffs"
+   ],
+   "name": "Delaram",
+   "id": "weapon-Delaram"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Deminerim"
+   ],
+   "areas": [
+    "Flying Waters",
+    "Coastal Cave"
+   ],
+   "name": "Deminerim",
+   "id": "weapon-Deminerim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Demonam"
+   ],
+   "areas": [
+    "Gestral Village"
+   ],
+   "name": "Demonam",
+   "id": "weapon-Demonam"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Direton"
+   ],
+   "areas": [
+    "Falling Leaves"
+   ],
+   "name": "Direton",
+   "id": "weapon-Direton"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Sireso_2"
+   ],
+   "areas": [
+    "The Monolith"
+   ],
+   "name": "Dreameso",
+   "id": "weapon-Dreameso"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Dualim"
+   ],
+   "areas": [
+    "Forgotten Battlefield",
+    "Flying Manor"
+   ],
+   "name": "Dualiso",
+   "id": "weapon-Dualiso"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Duenum"
+   ],
+   "areas": [
+    "Stone Wave Cliffs"
+   ],
+   "name": "Duenum",
+   "id": "weapon-Duenum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Duollison"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "name": "Duollison",
+   "id": "weapon-Duollison"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Elerim"
+   ],
+   "areas": [
+    "Flying Manor",
+    "Sinister Cave"
+   ],
+   "name": "Elerim",
+   "id": "weapon-Elerim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "VD_Maelle_2"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Esqium",
+   "id": "weapon-Esqium"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "VD_Monoco_2"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Esquiaro",
+   "id": "weapon-Esquiaro"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "VD_Lune_2"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Esquim",
+   "id": "weapon-Esquim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "VD_Sciel_2"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Esquion",
+   "id": "weapon-Esquion"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "VD_Verso_2"
+   ],
+   "areas": [],
+   "name": "Esquiso",
+   "id": "weapon-Esquiso"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Facesum"
+   ],
+   "areas": [
+    "Isle of the Eyes"
+   ],
+   "name": "Facesum",
+   "id": "weapon-Facesum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Reacharo_2"
+   ],
+   "areas": [
+    "The Monolith"
+   ],
+   "name": "Fragaro",
+   "id": "weapon-Fragaro"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Garganon"
+   ],
+   "areas": [],
+   "name": "Garganon",
+   "id": "weapon-Garganon"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Gaulteram"
+   ],
+   "areas": [
+    "Lumiere (Act III)",
+    "Yellow Harvest"
+   ],
+   "name": "Gaulteram",
+   "id": "weapon-Gaulteram"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Gesam"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Gesam",
+   "id": "weapon-Gesam"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Glaceso"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Glaceso",
+   "id": "weapon-Glaceso"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Glaisum"
+   ],
+   "areas": [
+    "Falling Leaves"
+   ],
+   "name": "Glaisum",
+   "id": "weapon-Glaisum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Gobluson"
+   ],
+   "areas": [
+    "Coastal Cave"
+   ],
+   "name": "Gobluson",
+   "id": "weapon-Gobluson"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Grandaro"
+   ],
+   "areas": [],
+   "name": "Grandaro",
+   "id": "weapon-Grandaro"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Reacheron_1"
+   ],
+   "areas": [],
+   "name": "Guleson",
+   "id": "weapon-Guleson"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Hevason"
+   ],
+   "areas": [
+    "Gestral Village"
+   ],
+   "name": "Hevasson",
+   "id": "weapon-Hevasson"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Jarum"
+   ],
+   "areas": [],
+   "name": "Jarum",
+   "id": "weapon-Jarum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Joyaro"
+   ],
+   "areas": [
+    "Endless Night Sanctuary",
+    "Flying Manor"
+   ],
+   "name": "Joyaro",
+   "id": "weapon-Joyaro"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Reacherim_1"
+   ],
+   "areas": [
+    "Yellow Harvest"
+   ],
+   "name": "Kralim",
+   "id": "weapon-Kralim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Lanceram"
+   ],
+   "areas": [
+    "Spring Meadows",
+    "Coastal Cave",
+    "Flying Manor"
+   ],
+   "name": "Lanceram",
+   "id": "weapon-Lanceram"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "VD_Maelle_1"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Licorum",
+   "id": "weapon-Licorum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Lighterim"
+   ],
+   "areas": [
+    "Spring Meadows",
+    "Coastal Cave",
+    "Flying Manor"
+   ],
+   "name": "Lighterim",
+   "id": "weapon-Lighterim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Reacheso_2"
+   ],
+   "areas": [
+    "Lumiere (Act III)"
+   ],
+   "name": "Liteso",
+   "id": "weapon-Liteso"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Reacherim_2"
+   ],
+   "areas": [
+    "The Monolith"
+   ],
+   "name": "Lithelim",
+   "id": "weapon-Lithelim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Reacheron_2"
+   ],
+   "areas": [
+    "Lumiere (Act III)"
+   ],
+   "name": "Litheson",
+   "id": "weapon-Litheson"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Reachum_1"
+   ],
+   "areas": [
+    "The Reacher"
+   ],
+   "name": "Lithum",
+   "id": "weapon-Lithum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Lunerim"
+   ],
+   "areas": [],
+   "name": "Lunerim",
+   "id": "weapon-Lunerim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Lusteson"
+   ],
+   "areas": [
+    "Forgotten Battlefield"
+   ],
+   "name": "Lusteson",
+   "id": "weapon-Lusteson"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Maellum"
+   ],
+   "areas": [],
+   "name": "Maellum",
+   "id": "weapon-Maellum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Sirenon_2"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Martenon",
+   "id": "weapon-Martenon"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Medalum"
+   ],
+   "areas": [
+    "Gestral Village"
+   ],
+   "name": "Medalum",
+   "id": "weapon-Medalum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Melarum"
+   ],
+   "areas": [
+    "Old Lumiere"
+   ],
+   "name": "Melarum",
+   "id": "weapon-Melarum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Minason"
+   ],
+   "areas": [
+    "The Crows"
+   ],
+   "name": "Minason",
+   "id": "weapon-Minason"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Contorson"
+   ],
+   "areas": [],
+   "name": "Moisson",
+   "id": "weapon-Moisson"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Monocaro"
+   ],
+   "areas": [],
+   "name": "Monocaro",
+   "id": "weapon-Monocaro"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Noahram"
+   ],
+   "areas": [],
+   "name": "Noahram",
+   "id": "weapon-Noahram"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Nosaram"
+   ],
+   "areas": [],
+   "name": "Nosaram",
+   "id": "weapon-Nosaram"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Reacharo_1"
+   ],
+   "areas": [
+    "Old Lumiere"
+   ],
+   "name": "Nusaro",
+   "id": "weapon-Nusaro"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Painerim"
+   ],
+   "areas": [],
+   "name": "Painerim",
+   "id": "weapon-Painerim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Reachum_2"
+   ],
+   "areas": [
+    "Yellow Harvest"
+   ],
+   "name": "Plenum",
+   "id": "weapon-Plenum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Potierim"
+   ],
+   "areas": [
+    "Lumiere (Act III)",
+    "Yellow Harvest"
+   ],
+   "name": "Potierim",
+   "id": "weapon-Potierim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Ramasson"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Ramasson",
+   "id": "weapon-Ramasson"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Rangeson"
+   ],
+   "areas": [],
+   "name": "Rangeson",
+   "id": "weapon-Rangeson"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Redalim"
+   ],
+   "areas": [
+    "Old Lumiere"
+   ],
+   "name": "Redalim",
+   "id": "weapon-Redalim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Sadon"
+   ],
+   "areas": [
+    "Visages",
+    "Lumiere (Act III)"
+   ],
+   "name": "Sadon",
+   "id": "weapon-Sadon"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Sakaram"
+   ],
+   "areas": [
+    "Ancient Sanctuary",
+    "Dark Gestral Arena"
+   ],
+   "name": "Sakaram",
+   "id": "weapon-Sakaram"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Saperim"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Saperim",
+   "id": "weapon-Saperim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Scaverim"
+   ],
+   "areas": [
+    "Falling Leaves"
+   ],
+   "name": "Scaverim",
+   "id": "weapon-Scaverim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Scieleson"
+   ],
+   "areas": [],
+   "name": "Scieleson",
+   "id": "weapon-Scieleson"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Seashelum"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Seashelum",
+   "id": "weapon-Seashelum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Seeram"
+   ],
+   "areas": [
+    "Coastal Cave"
+   ],
+   "name": "Seeram",
+   "id": "weapon-Seeram"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Sekarum"
+   ],
+   "areas": [
+    "Gestral Village"
+   ],
+   "name": "Sekarum",
+   "id": "weapon-Sekarum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Sidaro"
+   ],
+   "areas": [
+    "Gestral Village",
+    "Flying Manor"
+   ],
+   "name": "Sidaro",
+   "id": "weapon-Sidaro"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Simoso"
+   ],
+   "areas": [
+    "The Abyss"
+   ],
+   "name": "Simoso",
+   "id": "weapon-Simoso"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Sireso_1"
+   ],
+   "areas": [],
+   "name": "Sireso",
+   "id": "weapon-Sireso"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Snowim"
+   ],
+   "areas": [
+    "Flying Manor",
+    "Frozen Hearts"
+   ],
+   "name": "Snowim",
+   "id": "weapon-Snowim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Stalum"
+   ],
+   "areas": [
+    "Frozen Hearts"
+   ],
+   "name": "Stalum",
+   "id": "weapon-Stalum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "VD_Sciel_1"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Sucetton",
+   "id": "weapon-Sucetton"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "VD_Verso_1"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Sucreso",
+   "id": "weapon-Sucreso"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Reacheso_1"
+   ],
+   "areas": [
+    "The Reacher"
+   ],
+   "name": "Tireso",
+   "id": "weapon-Tireso"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Sirenum_1"
+   ],
+   "areas": [
+    "Sirene"
+   ],
+   "name": "Tissenum",
+   "id": "weapon-Tissenum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Sirenon_1"
+   ],
+   "areas": [
+    "Sirene"
+   ],
+   "name": "Tisseron",
+   "id": "weapon-Tisseron"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Trebuchim"
+   ],
+   "areas": [
+    "Ancient Sanctuary",
+    "Gestral Village",
+    "Dark Gestral Arena"
+   ],
+   "name": "Trebuchim",
+   "id": "weapon-Trebuchim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Troubadum"
+   ],
+   "areas": [
+    "Flying Waters",
+    "Forgotten Battlefield",
+    "Flying Manor"
+   ],
+   "name": "Troubadim",
+   "id": "weapon-Troubadim"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Sirenaro_2"
+   ],
+   "areas": [
+    "Sky Island"
+   ],
+   "name": "Urnaro",
+   "id": "weapon-Urnaro"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Veremum"
+   ],
+   "areas": [
+    "The Monolith"
+   ],
+   "name": "Veremum",
+   "id": "weapon-Veremum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Verleso"
+   ],
+   "areas": [],
+   "name": "Verleso",
+   "id": "weapon-Verleso"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Volesterum"
+   ],
+   "areas": [
+    "Lumiere (Act III)"
+   ],
+   "name": "Volesterum",
+   "id": "weapon-Volesterum"
+  },
+  {
+   "kind": "weapon",
+   "keys": [
+    "Yeverum"
+   ],
+   "areas": [],
+   "name": "Yeverum",
+   "id": "weapon-Yeverum"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "APDiscount"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "AP Discount",
+   "id": "picto-APDiscount"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "AcceleratorHeal"
+   ],
+   "areas": [],
+   "name": "Accelerating Heal",
+   "id": "picto-AcceleratingHeal"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "LastStandSpeed"
+   ],
+   "areas": [
+    "Hidden Gestral Arena"
+   ],
+   "name": "Accelerating Last Stand",
+   "id": "picto-AcceleratingLastStand"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "FreeAimSpeed"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Accelerating Shots",
+   "id": "picto-AcceleratingShots"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "SpeedTint"
+   ],
+   "areas": [],
+   "name": "Accelerating Tint",
+   "id": "picto-AcceleratingTint"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "AegisRevival"
+   ],
+   "areas": [
+    "Spring Meadows"
+   ],
+   "name": "Aegis Revival",
+   "id": "picto-AegisRevival"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "AlternatingCritical"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Alternating Critical",
+   "id": "picto-AlternatingCritical"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "AntiBlight"
+   ],
+   "areas": [
+    "The Reacher"
+   ],
+   "name": "Anti Blight",
+   "id": "picto-AntiBlight"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "AntiBurn"
+   ],
+   "areas": [
+    "Flying Manor",
+    "Frozen Hearts"
+   ],
+   "name": "Anti Burn",
+   "id": "picto-AntiBurn"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "AntiCharm"
+   ],
+   "areas": [
+    "Sirene"
+   ],
+   "name": "Anti Charm",
+   "id": "picto-AntiCharm"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "AntiFrozen"
+   ],
+   "areas": [
+    "Frozen Hearts"
+   ],
+   "name": "Anti Freeze",
+   "id": "picto-AntiFreeze"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "AntiStun"
+   ],
+   "areas": [],
+   "name": "Anti Stun",
+   "id": "picto-AntiStun"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "LastStand"
+   ],
+   "areas": [
+    "Stone Wave Cliffs",
+    "Painting Workshop"
+   ],
+   "name": "At Deaths Door",
+   "id": "picto-AtDeathsDoor"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "AttackLifesteal"
+   ],
+   "areas": [
+    "Ancient Sanctuary"
+   ],
+   "name": "Attack Lifesteal",
+   "id": "picto-AttackLifesteal"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "AugmentedAim"
+   ],
+   "areas": [
+    "Flying Waters",
+    "Gestral Village"
+   ],
+   "name": "Augmented Aim",
+   "id": "picto-AugmentedAim"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "AugmentedAttack"
+   ],
+   "areas": [
+    "Spring Meadows"
+   ],
+   "name": "Augmented Attack",
+   "id": "picto-AugmentedAttack"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "CounterUpdragdeA"
+   ],
+   "areas": [
+    "Flying Waters",
+    "Flying Manor"
+   ],
+   "name": "Augmented Counter I",
+   "id": "picto-AugmentedCounterI"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "CounterUpdragdeB"
+   ],
+   "areas": [
+    "Visages"
+   ],
+   "name": "Augmented Counter II",
+   "id": "picto-AugmentedCounterII"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "CounterUpdragdeC"
+   ],
+   "areas": [
+    "Lumiere (Act III)"
+   ],
+   "name": "Augmented Counter III",
+   "id": "picto-AugmentedCounterIII"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Augmented1stStrike"
+   ],
+   "areas": [
+    "Esquie's Nest"
+   ],
+   "name": "Augmented First Strike",
+   "id": "picto-AugmentedFirstStrike"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "AutoDeath"
+   ],
+   "areas": [
+    "Yellow Harvest"
+   ],
+   "name": "Auto Death",
+   "id": "picto-AutoDeath"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "AutoPowerful"
+   ],
+   "areas": [
+    "Floating Cemetary"
+   ],
+   "name": "Auto Powerful",
+   "id": "picto-AutoPowerful"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "AutoRegen"
+   ],
+   "areas": [
+    "Sirene"
+   ],
+   "name": "Auto Regen",
+   "id": "picto-AutoRegen"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "AutoRush"
+   ],
+   "areas": [
+    "Old Lumiere"
+   ],
+   "name": "Auto Rush",
+   "id": "picto-AutoRush"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "AutoShell"
+   ],
+   "areas": [
+    "Stone Wave Cliffs"
+   ],
+   "name": "Auto Shell",
+   "id": "picto-AutoShell"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "BaseShield"
+   ],
+   "areas": [
+    "The Chosen Path"
+   ],
+   "name": "Base Shield",
+   "id": "picto-BaseShield"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "BeneficialContamination"
+   ],
+   "areas": [
+    "Falling Leaves"
+   ],
+   "name": "Beneficial Contamination",
+   "id": "picto-BeneficialContamination"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "BreakSpecialist"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Break Specialist",
+   "id": "picto-BreakSpecialist"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Breaker"
+   ],
+   "areas": [
+    "Ancient Sanctuary"
+   ],
+   "name": "Breaker",
+   "id": "picto-Breaker"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "BreakingAttack"
+   ],
+   "areas": [
+    "The Monolith"
+   ],
+   "name": "Breaking Attack",
+   "id": "picto-BreakingAttack"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "BreakDamageOnBurn"
+   ],
+   "areas": [],
+   "name": "Breaking Burn",
+   "id": "picto-BreakingBurn"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "BreakingCounter"
+   ],
+   "areas": [
+    "Stone Wave Cliffs"
+   ],
+   "name": "Breaking Counter",
+   "id": "picto-BreakingCounter"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "BreakingDeath"
+   ],
+   "areas": [],
+   "name": "Breaking Death",
+   "id": "picto-BreakingDeath"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "BreakShot"
+   ],
+   "areas": [
+    "Stone Wave Cliffs"
+   ],
+   "name": "Breaking Shots",
+   "id": "picto-BreakingShots"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "BreakDamageOnSlow"
+   ],
+   "areas": [],
+   "name": "Breaking Slow",
+   "id": "picto-BreakingSlow"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "BurnAffinity"
+   ],
+   "areas": [
+    "Frozen Hearts"
+   ],
+   "name": "Burn Affinity",
+   "id": "picto-BurnAffinity"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "BurningBreak"
+   ],
+   "areas": [
+    "Frozen Hearts"
+   ],
+   "name": "Burning Break",
+   "id": "picto-BurningBreak"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "BurningDeath"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Burning Death",
+   "id": "picto-BurningDeath"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "BurningMark"
+   ],
+   "areas": [
+    "Ancient Sanctuary"
+   ],
+   "name": "Burning Mark",
+   "id": "picto-BurningMark"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "FreeAimBurnShot"
+   ],
+   "areas": [
+    "Spring Meadows",
+    "Sacred River"
+   ],
+   "name": "Burning Shots",
+   "id": "picto-BurningShots"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GradientOnBuff"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Charging Alteration",
+   "id": "picto-ChargingAlteration"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GradientStacker"
+   ],
+   "areas": [
+    "The Reacher"
+   ],
+   "name": "Charging Attack",
+   "id": "picto-ChargingAttack"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GradientOnBurn"
+   ],
+   "areas": [],
+   "name": "Charging Burn",
+   "id": "picto-ChargingBurn"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GradientCounterCharge"
+   ],
+   "areas": [
+    "The Reacher"
+   ],
+   "name": "Charging Counter",
+   "id": "picto-ChargingCounter"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GradientOnCrit"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "name": "Charging Critical",
+   "id": "picto-ChargingCritical"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GradientMark"
+   ],
+   "areas": [],
+   "name": "Charging Mark",
+   "id": "picto-ChargingMark"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GradientOnStun"
+   ],
+   "areas": [
+    "Lumiere (Act III)"
+   ],
+   "name": "Charging Stun",
+   "id": "picto-ChargingStun"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GradientTint"
+   ],
+   "areas": [],
+   "name": "Charging Tint",
+   "id": "picto-ChargingTint"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GradientWeakness"
+   ],
+   "areas": [
+    "The Reacher"
+   ],
+   "name": "Charging Weakness",
+   "id": "picto-ChargingWeakness"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Cheater"
+   ],
+   "areas": [],
+   "name": "Cheater",
+   "id": "picto-Cheater"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "CleansingTint"
+   ],
+   "areas": [
+    "Spring Meadows"
+   ],
+   "name": "Cleansing Tint",
+   "id": "picto-CleansingTint"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "CleasDeath"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "name": "Cleas Death",
+   "id": "picto-CleasDeath"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "CleasLife"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Cleas Life",
+   "id": "picto-CleasLife"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ComboAttack1"
+   ],
+   "areas": [
+    "Forgotten Battlefield"
+   ],
+   "name": "Combo Attack I",
+   "id": "picto-ComboAttackI"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ComboAttack2"
+   ],
+   "areas": [
+    "The Monolith"
+   ],
+   "name": "Combo Attack II",
+   "id": "picto-ComboAttackII"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ComboAttack3"
+   ],
+   "areas": [
+    "Dark Gestral Arena"
+   ],
+   "name": "Combo Attack III",
+   "id": "picto-ComboAttackIII"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Confident"
+   ],
+   "areas": [
+    "Stone Wave Cliffs"
+   ],
+   "name": "Confident",
+   "id": "picto-Confident"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ConfidentFighter"
+   ],
+   "areas": [
+    "Visages"
+   ],
+   "name": "Confident Fighter",
+   "id": "picto-ConfidentFighter"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ConsumingAttack"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Consuming Attack",
+   "id": "picto-ConsumingAttack"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "BreakDamageOnCrit"
+   ],
+   "areas": [],
+   "name": "Critical Break",
+   "id": "picto-CriticalBreak"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "CritChanceBurn"
+   ],
+   "areas": [
+    "Spring Meadows"
+   ],
+   "name": "Critical Burn",
+   "id": "picto-CriticalBurn"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "CriticalMoment"
+   ],
+   "areas": [
+    "Gestral Village"
+   ],
+   "name": "Critical Moment",
+   "id": "picto-CriticalMoment"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "CriticalBreak"
+   ],
+   "areas": [
+    "Sacred River"
+   ],
+   "name": "Critical Stun",
+   "id": "picto-CriticalStun"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "CritChanceOnDefenseless"
+   ],
+   "areas": [],
+   "name": "Critical Vulnerability",
+   "id": "picto-CriticalVulnerability"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "CritCHanceOnWeak"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "name": "Critical Weakness",
+   "id": "picto-CriticalWeakness"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "DamageShare"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Damage Share",
+   "id": "picto-DamageShare"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "DeadEnergy"
+   ],
+   "areas": [],
+   "name": "Dead Energy I",
+   "id": "picto-DeadEnergyI"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "BootyHunter"
+   ],
+   "areas": [
+    "Spring Meadows"
+   ],
+   "name": "Dead Energy II",
+   "id": "picto-DeadEnergyII"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "DeathBombPhysical"
+   ],
+   "areas": [
+    "Yellow Harvest"
+   ],
+   "name": "Death Bomb",
+   "id": "picto-DeathBomb"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "DefensiveMode"
+   ],
+   "areas": [
+    "Stone Wave Cliffs"
+   ],
+   "name": "Defensive Mode",
+   "id": "picto-DefensiveMode"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Dodger"
+   ],
+   "areas": [
+    "Spring Meadows"
+   ],
+   "name": "Dodger",
+   "id": "picto-Dodger"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "DoubleBurn"
+   ],
+   "areas": [
+    "Visages",
+    "Sacred River"
+   ],
+   "name": "Double Burn",
+   "id": "picto-DoubleBurn"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "DoubleMark"
+   ],
+   "areas": [
+    "Sirene"
+   ],
+   "name": "Double Mark",
+   "id": "picto-DoubleMark"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "DoubleThird"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Double Third",
+   "id": "picto-DoubleThird"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "DispelOnAPConsume"
+   ],
+   "areas": [
+    "The Reacher"
+   ],
+   "name": "Draining Cleanse",
+   "id": "picto-DrainingCleanse"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "EffectiveHeal"
+   ],
+   "areas": [
+    "Sirene"
+   ],
+   "name": "Effective Heal",
+   "id": "picto-EffectiveHeal"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "EffectivSupport"
+   ],
+   "areas": [],
+   "name": "Effective Support",
+   "id": "picto-EffectiveSupport"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "EmpoweredHealer"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Empowered Healer",
+   "id": "picto-EmpoweredHealer"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "PowerfulStrike"
+   ],
+   "areas": [
+    "Spring Meadows",
+    "Sacred River"
+   ],
+   "name": "Empowering Attack",
+   "id": "picto-EmpoweringAttack"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "BreakingStrong"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Empowering Break",
+   "id": "picto-EmpoweringBreak"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "PowerDodgeCombo"
+   ],
+   "areas": [],
+   "name": "Empowering Dodge",
+   "id": "picto-EmpoweringDodge"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "EmpoweringJumps"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Empowering Jumps",
+   "id": "picto-EmpoweringJumps"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "LastStandPowerful"
+   ],
+   "areas": [
+    "Hidden Gestral Arena"
+   ],
+   "name": "Empowering Last Stand",
+   "id": "picto-EmpoweringLastStand"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ReinforcementParade"
+   ],
+   "areas": [
+    "The Monolith",
+    "Flying Manor"
+   ],
+   "name": "Empowering Parry",
+   "id": "picto-EmpoweringParry"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "PowerfulTint"
+   ],
+   "areas": [
+    "Forgotten Battlefield",
+    "Endless Tower"
+   ],
+   "name": "Empowering Tint",
+   "id": "picto-EmpoweringTint"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "VersatileHealer"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Energetic Healer",
+   "id": "picto-EnergeticHealer"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "AP+1Attack"
+   ],
+   "areas": [
+    "Painting Workshop",
+    "Yellow Harvest"
+   ],
+   "name": "Energising Attack I",
+   "id": "picto-EnergisingAttackI"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Energy"
+   ],
+   "areas": [
+    "Sirene"
+   ],
+   "name": "Energising Attack II",
+   "id": "picto-EnergisingAttackII"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "EnergyBreak"
+   ],
+   "areas": [
+    "Flying Waters"
+   ],
+   "name": "Energising Break",
+   "id": "picto-EnergisingBreak"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "APOnBurn"
+   ],
+   "areas": [
+    "Frozen Hearts"
+   ],
+   "name": "Energising Burn",
+   "id": "picto-EnergisingBurn"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "AutoDispelEnergy"
+   ],
+   "areas": [
+    "The Monolith"
+   ],
+   "name": "Energising Cleanse",
+   "id": "picto-EnergisingCleanse"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "EnergyDeath"
+   ],
+   "areas": [
+    "Forgotten Battlefield"
+   ],
+   "name": "Energising Death",
+   "id": "picto-EnergisingDeath"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GradientEnergy"
+   ],
+   "areas": [],
+   "name": "Energising Gradient",
+   "id": "picto-EnergisingGradient"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "EnergizingHeal"
+   ],
+   "areas": [],
+   "name": "Energising Heal",
+   "id": "picto-EnergisingHeal"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "JumpRecovery"
+   ],
+   "areas": [
+    "Ancient Sanctuary"
+   ],
+   "name": "Energising Jump",
+   "id": "picto-EnergisingJump"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "PowerOfPain"
+   ],
+   "areas": [
+    "Stone Wave Cliffs",
+    "Flying Manor"
+   ],
+   "name": "Energising Pain",
+   "id": "picto-EnergisingPain"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "AP+1Parry"
+   ],
+   "areas": [
+    "Forgotten Battlefield",
+    "Sacred River"
+   ],
+   "name": "Energising Parry",
+   "id": "picto-EnergisingParry"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "APOnPowerful"
+   ],
+   "areas": [
+    "Lumiere (Act III)"
+   ],
+   "name": "Energising Powerful",
+   "id": "picto-EnergisingPowerful"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ReviveCheer"
+   ],
+   "areas": [
+    "Stone Wave Cliffs Cave"
+   ],
+   "name": "Energising Revive",
+   "id": "picto-EnergisingRevive"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "APOnRush"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "name": "Energising Rush",
+   "id": "picto-EnergisingRush"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "APOnShell"
+   ],
+   "areas": [],
+   "name": "Energising Shell",
+   "id": "picto-EnergisingShell"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "FreeAimEnergy"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Energising Shots",
+   "id": "picto-EnergisingShots"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "InitialAp+1A"
+   ],
+   "areas": [],
+   "name": "Energising Start I",
+   "id": "picto-EnergisingStartI"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "InitialAp+1B"
+   ],
+   "areas": [
+    "Ancient Sanctuary"
+   ],
+   "name": "Energising Start II",
+   "id": "picto-EnergisingStartII"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "InitialAp+1C"
+   ],
+   "areas": [
+    "Esquie's Nest"
+   ],
+   "name": "Energising Start III",
+   "id": "picto-EnergisingStartIII"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "InitialAp+1D"
+   ],
+   "areas": [
+    "Forgotten Battlefield"
+   ],
+   "name": "Energising Start IV",
+   "id": "picto-EnergisingStartIV"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "StunEnergy"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Energising Stun",
+   "id": "picto-EnergisingStun"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "AP+1TurnStart"
+   ],
+   "areas": [
+    "Sacred River"
+   ],
+   "name": "Energising Turn",
+   "id": "picto-EnergisingTurn"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "DoubleAP"
+   ],
+   "areas": [],
+   "name": "Energy Master",
+   "id": "picto-EnergyMaster"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "PowerlessStrike"
+   ],
+   "areas": [
+    "The Monolith"
+   ],
+   "name": "Enfeebling Attack",
+   "id": "picto-EnfeeblingAttack"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "WeakeningMark"
+   ],
+   "areas": [
+    "Stone Wave Cliffs"
+   ],
+   "name": "Enfeebling Mark",
+   "id": "picto-EnfeeblingMark"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ExhaustAffinity"
+   ],
+   "areas": [
+    "Stone Wave Cliffs Cave"
+   ],
+   "name": "Exhausting Power",
+   "id": "picto-ExhaustingPower"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "DefenslessStrike"
+   ],
+   "areas": [
+    "Flying Waters"
+   ],
+   "name": "Exposing Attack",
+   "id": "picto-ExposingAttack"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "DefenselessOnBreak"
+   ],
+   "areas": [
+    "The Reacher"
+   ],
+   "name": "Exposing Break",
+   "id": "picto-ExposingBreak"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "FasterThanStrong"
+   ],
+   "areas": [
+    "Lumiere (Act III)"
+   ],
+   "name": "Faster Than Strong",
+   "id": "picto-FasterThanStrong"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Feint"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Feint",
+   "id": "picto-Feint"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "FirstLife"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "name": "First Life",
+   "id": "picto-FirstLife"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "FirstOffensive"
+   ],
+   "areas": [
+    "Abbest Cave"
+   ],
+   "name": "First Offensive",
+   "id": "picto-FirstOffensive"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "FirstStrike"
+   ],
+   "areas": [
+    "Stone Wave Cliffs"
+   ],
+   "name": "First Strike",
+   "id": "picto-FirstStrike"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Frenzy"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Frenzy",
+   "id": "picto-Frenzy"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GreatFireBreak"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "name": "Fueling Break",
+   "id": "picto-FuelingBreak"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Stand"
+   ],
+   "areas": [
+    "Lumiere (Act III)"
+   ],
+   "name": "Full Strength",
+   "id": "picto-FullStrength"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GlassCanon"
+   ],
+   "areas": [
+    "Visages",
+    "Sacred River"
+   ],
+   "name": "Glass Cannon",
+   "id": "picto-GlassCannon"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GradientBreak"
+   ],
+   "areas": [
+    "Endless Night Sanctuary"
+   ],
+   "name": "Gradient Break",
+   "id": "picto-GradientBreak"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GradientBreaker"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Gradient Breaker",
+   "id": "picto-GradientBreaker"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GradientFighter"
+   ],
+   "areas": [
+    "Lumiere (Act III)"
+   ],
+   "name": "Gradient Fighter",
+   "id": "picto-GradientFighter"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GradientOvercharge"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Gradient Overcharge",
+   "id": "picto-GradientOvercharge"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GradientParry"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Gradient Parry",
+   "id": "picto-GradientParry"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GreaterDefenseless"
+   ],
+   "areas": [
+    "The Monolith",
+    "Endless Tower"
+   ],
+   "name": "Greater Defenceless",
+   "id": "picto-GreaterDefenceless"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GreaterPowerful"
+   ],
+   "areas": [
+    "Sirene"
+   ],
+   "name": "Greater Powerful",
+   "id": "picto-GreaterPowerful"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GreaterPowerless"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "name": "Greater Powerless",
+   "id": "picto-GreaterPowerless"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GreaterSpeed"
+   ],
+   "areas": [],
+   "name": "Greater Rush",
+   "id": "picto-GreaterRush"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GreaterShell"
+   ],
+   "areas": [
+    "Sirene"
+   ],
+   "name": "Greater Shell",
+   "id": "picto-GreaterShell"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "GreaterSlow"
+   ],
+   "areas": [
+    "Sky Island"
+   ],
+   "name": "Greater Slow",
+   "id": "picto-GreaterSlow"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "HealOnBuff"
+   ],
+   "areas": [
+    "The Reacher"
+   ],
+   "name": "Healing Boon",
+   "id": "picto-HealingBoon"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "HealingCounter"
+   ],
+   "areas": [
+    "Old Lumiere"
+   ],
+   "name": "Healing Counter",
+   "id": "picto-HealingCounter"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "HealingDeath"
+   ],
+   "areas": [
+    "Old Lumiere"
+   ],
+   "name": "Healing Death",
+   "id": "picto-HealingDeath"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "HealingFire"
+   ],
+   "areas": [
+    "Sirene"
+   ],
+   "name": "Healing Fire",
+   "id": "picto-HealingFire"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "HealingMark"
+   ],
+   "areas": [
+    "Gestral Village"
+   ],
+   "name": "Healing Mark",
+   "id": "picto-HealingMark"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "HealingParry"
+   ],
+   "areas": [
+    "Stone Quarry"
+   ],
+   "name": "Healing Parry",
+   "id": "picto-HealingParry"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "HealingShare"
+   ],
+   "areas": [
+    "Visages"
+   ],
+   "name": "Healing Share",
+   "id": "picto-HealingShare"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "HealingStun"
+   ],
+   "areas": [
+    "Lumiere (Act III)"
+   ],
+   "name": "Healing Stun",
+   "id": "picto-HealingStun"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "HealingTintEnergy"
+   ],
+   "areas": [
+    "Stone Wave Cliffs"
+   ],
+   "name": "Healing Tint Energy",
+   "id": "picto-HealingTintEnergy"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Immaculate"
+   ],
+   "areas": [
+    "Visages"
+   ],
+   "name": "Immaculate",
+   "id": "picto-Immaculate"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "InMediasRes"
+   ],
+   "areas": [
+    "Dark Shores"
+   ],
+   "name": "In Medias Res",
+   "id": "picto-InMediasRes"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "InvertedAffinity"
+   ],
+   "areas": [
+    "Forgotten Battlefield"
+   ],
+   "name": "Inverted Affinity",
+   "id": "picto-InvertedAffinity"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "LastStandCritical"
+   ],
+   "areas": [
+    "Hidden Gestral Arena"
+   ],
+   "name": "Last Stand Critical",
+   "id": "picto-LastStandCritical"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "LongerBreak"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Longer Break",
+   "id": "picto-LongerBreak"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "BurnDurationIncrease"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Longer Burn",
+   "id": "picto-LongerBurn"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "LongerPowerful"
+   ],
+   "areas": [
+    "Old Lumiere"
+   ],
+   "name": "Longer Powerful",
+   "id": "picto-LongerPowerful"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "LongerRush"
+   ],
+   "areas": [],
+   "name": "Longer Rush",
+   "id": "picto-LongerRush"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "LongerShell"
+   ],
+   "areas": [
+    "Forgotten Battlefield",
+    "Flying Manor",
+    "The Reacher"
+   ],
+   "name": "Longer Shell",
+   "id": "picto-LongerShell"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "MarkOnBreak"
+   ],
+   "areas": [],
+   "name": "Marking Break",
+   "id": "picto-MarkingBreak"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "FreeAimMarkingShot"
+   ],
+   "areas": [
+    "Flying Waters"
+   ],
+   "name": "Marking Shots",
+   "id": "picto-MarkingShots"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "OverPowered"
+   ],
+   "areas": [],
+   "name": "Painted Power",
+   "id": "picto-PaintedPower"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Painter"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Painter",
+   "id": "picto-Painter"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ManOfParry"
+   ],
+   "areas": [
+    "Stone Wave Cliffs",
+    "Old Lumiere"
+   ],
+   "name": "Perilous Parry",
+   "id": "picto-PerilousParry"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "PiercingShot"
+   ],
+   "areas": [
+    "Ancient Sanctuary"
+   ],
+   "name": "Piercing Shot",
+   "id": "picto-PiercingShot"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "FullEnergyAttack"
+   ],
+   "areas": [
+    "Visages"
+   ],
+   "name": "Powered Attack",
+   "id": "picto-PoweredAttack"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "PowerfulHeal"
+   ],
+   "areas": [],
+   "name": "Powerful Heal",
+   "id": "picto-PowerfulHeal"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "PowerfulMark"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Powerful Mark",
+   "id": "picto-PowerfulMark"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "PowerfulOnShell"
+   ],
+   "areas": [
+    "Sirene"
+   ],
+   "name": "Powerful On Shell",
+   "id": "picto-PowerfulOnShell"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ReviveWithPower"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Powerful Revive",
+   "id": "picto-PowerfulRevive"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "PowerfulShield"
+   ],
+   "areas": [],
+   "name": "Powerful Shield",
+   "id": "picto-PowerfulShield"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "FreeAimPowerful"
+   ],
+   "areas": [
+    "Gestral Village"
+   ],
+   "name": "Powerful Shots",
+   "id": "picto-PowerfulShots"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ProRetreat"
+   ],
+   "areas": [],
+   "name": "Pro Retreat",
+   "id": "picto-ProRetreat"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ShellStrike"
+   ],
+   "areas": [],
+   "name": "Protecting Attack",
+   "id": "picto-ProtectingAttack"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ProtectingDeath"
+   ],
+   "areas": [
+    "Sirene"
+   ],
+   "name": "Protecting Death",
+   "id": "picto-ProtectingDeath"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ProtectingHeal"
+   ],
+   "areas": [
+    "Esoteric Ruins",
+    "The Reacher"
+   ],
+   "name": "Protecting Heal",
+   "id": "picto-ProtectingHeal"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "LastStandShell"
+   ],
+   "areas": [
+    "Hidden Gestral Arena"
+   ],
+   "name": "Protecting Last Stand",
+   "id": "picto-ProtectingLastStand"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "FreeAimShell"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Protecting Shots",
+   "id": "picto-ProtectingShots"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ShellTint"
+   ],
+   "areas": [
+    "The Reacher"
+   ],
+   "name": "Protecting Tint",
+   "id": "picto-ProtectingTint"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "BreakMomentum"
+   ],
+   "areas": [
+    "Endless Night Sanctuary"
+   ],
+   "name": "Quick Break",
+   "id": "picto-QuickBreak"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "RandomDefense"
+   ],
+   "areas": [
+    "The Monolith"
+   ],
+   "name": "Random Defense",
+   "id": "picto-RandomDefense"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Recovery"
+   ],
+   "areas": [
+    "Red Woods"
+   ],
+   "name": "Recovery",
+   "id": "picto-Recovery"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ReviveWithRegen"
+   ],
+   "areas": [
+    "Stone Wave Cliffs"
+   ],
+   "name": "Rejuvenating Revive",
+   "id": "picto-RejuvenatingRevive"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ReviveParadox"
+   ],
+   "areas": [],
+   "name": "Revive Paradox",
+   "id": "picto-ReviveParadox"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ReviveTintEnergy"
+   ],
+   "areas": [
+    "Forgotten Battlefield",
+    "Sacred River"
+   ],
+   "name": "Revive Tint Energy",
+   "id": "picto-ReviveTintEnergy"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "RewardingMark"
+   ],
+   "areas": [
+    "Flying Waters",
+    "Sacred River"
+   ],
+   "name": "Rewarding Mark",
+   "id": "picto-RewardingMark"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Roulette"
+   ],
+   "areas": [
+    "Gestral Village",
+    "Flying Manor"
+   ],
+   "name": "Roulette",
+   "id": "picto-Roulette"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "RushOnPowerful"
+   ],
+   "areas": [
+    "Endless Tower",
+    "Renoir's Drafts"
+   ],
+   "name": "Rush On Powerful",
+   "id": "picto-RushOnPowerful"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "SOSHealingTint"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "SOS Healing Tint",
+   "id": "picto-SOSHealingTint"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "SosPower"
+   ],
+   "areas": [
+    "Stone Wave Cliffs"
+   ],
+   "name": "SOS Power",
+   "id": "picto-SOSPower"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "SosRush"
+   ],
+   "areas": [
+    "Falling Leaves"
+   ],
+   "name": "SOS Rush",
+   "id": "picto-SOSRush"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "SosShell"
+   ],
+   "areas": [
+    "Flying Waters"
+   ],
+   "name": "SOS Shell",
+   "id": "picto-SOSShell"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "SecondChance"
+   ],
+   "areas": [
+    "Renoir's Drafts"
+   ],
+   "name": "Second Chance",
+   "id": "picto-SecondChance"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "SharedCare"
+   ],
+   "areas": [],
+   "name": "Shared Care",
+   "id": "picto-SharedCare"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ShellOnRush"
+   ],
+   "areas": [],
+   "name": "Shell On Rush",
+   "id": "picto-ShellOnRush"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ShieldAffinity"
+   ],
+   "areas": [
+    "Sirene",
+    "Sacred River"
+   ],
+   "name": "Shield Affinity",
+   "id": "picto-ShieldAffinity"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ShieldingDeath"
+   ],
+   "areas": [
+    "The Crows"
+   ],
+   "name": "Shielding Death",
+   "id": "picto-ShieldingDeath"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "ShieldingTint"
+   ],
+   "areas": [],
+   "name": "Shielding Tint",
+   "id": "picto-ShieldingTint"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Shortcut"
+   ],
+   "areas": [
+    "Lumiere (Act III)"
+   ],
+   "name": "Shortcut",
+   "id": "picto-Shortcut"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "SlowingAttack"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Slowing Attack",
+   "id": "picto-SlowingAttack"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "SlowOnBreak"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "name": "Slowing Break",
+   "id": "picto-SlowingBreak"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Sniper"
+   ],
+   "areas": [
+    "The Reacher"
+   ],
+   "name": "Sniper",
+   "id": "picto-Sniper"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Solidifying"
+   ],
+   "areas": [
+    "Crushing Cavern",
+    "Sacred River"
+   ],
+   "name": "Solidifying",
+   "id": "picto-Solidifying"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "SoloFighter"
+   ],
+   "areas": [
+    "Hidden Gestral Arena"
+   ],
+   "name": "Solo Fighter",
+   "id": "picto-SoloFighter"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "SimpleBreaker"
+   ],
+   "areas": [
+    "Flying Waters"
+   ],
+   "name": "Staggering Attack",
+   "id": "picto-StaggeringAttack"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "StayMarked"
+   ],
+   "areas": [
+    "The Monolith",
+    "Flying Manor"
+   ],
+   "name": "Stay Marked",
+   "id": "picto-StayMarked"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "StunBoost"
+   ],
+   "areas": [
+    "Ancient Sanctuary",
+    "Sacred River"
+   ],
+   "name": "Stun Boost",
+   "id": "picto-StunBoost"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Survivor"
+   ],
+   "areas": [],
+   "name": "Survivor",
+   "id": "picto-Survivor"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "SweetKill"
+   ],
+   "areas": [
+    "Forgotten Battlefield"
+   ],
+   "name": "Sweet Kill",
+   "id": "picto-SweetKill"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Tainted"
+   ],
+   "areas": [
+    "Stone Wave Cliffs",
+    "The Reacher"
+   ],
+   "name": "Tainted",
+   "id": "picto-Tainted"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Teamwork"
+   ],
+   "areas": [
+    "Yellow Harvest"
+   ],
+   "name": "Teamwork",
+   "id": "picto-Teamwork"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "TheOne"
+   ],
+   "areas": [
+    "Sunless Cliffs"
+   ],
+   "name": "The One",
+   "id": "picto-TheOne"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "TimeTint"
+   ],
+   "areas": [
+    "Old Lumiere",
+    "Endless Tower"
+   ],
+   "name": "Time Tint",
+   "id": "picto-TimeTint"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "TriggerHappy"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "name": "Trigger Happy",
+   "id": "picto-TriggerHappy"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Versatile"
+   ],
+   "areas": [
+    "Flying Waters"
+   ],
+   "name": "Versatile",
+   "id": "picto-Versatile"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "Warming"
+   ],
+   "areas": [],
+   "name": "Warming Up",
+   "id": "picto-WarmingUp"
+  },
+  {
+   "kind": "picto",
+   "keys": [
+    "WeaknessGain"
+   ],
+   "areas": [
+    "The Monolith"
+   ],
+   "name": "Weakness Gain",
+   "id": "picto-WeaknessGain"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinGustave_Baguette"
+   ],
+   "areas": [
+    "Spring Meadows"
+   ],
+   "character": "Gustave",
+   "name": "Baguette",
+   "id": "outfit-OutfitGustave_Baguette"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinGustave_Chic"
+   ],
+   "areas": [],
+   "character": "Gustave",
+   "name": "Chic",
+   "id": "outfit-OutfitGustave_Chic"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinGustave_Civil"
+   ],
+   "areas": [],
+   "character": "Gustave",
+   "name": "Civilian",
+   "id": "outfit-OutfitGustave_Civilian"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinGustave_Esquie"
+   ],
+   "areas": [],
+   "character": "Gustave",
+   "name": "Esquie",
+   "id": "outfit-OutfitGustave_Esquie"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinGustave_Default"
+   ],
+   "areas": [],
+   "character": "Gustave",
+   "name": "Expedition",
+   "id": "outfit-OutfitGustave_Expedition"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinGustave_FlowerSuit"
+   ],
+   "areas": [],
+   "character": "Gustave",
+   "name": "Flower Suit",
+   "id": "outfit-OutfitGustave_FlowerSuit"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinGustave_Gommage"
+   ],
+   "areas": [],
+   "character": "Gustave",
+   "name": "Gommage",
+   "id": "outfit-OutfitGustave_Gommage"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinGustave_LumiereSuit"
+   ],
+   "areas": [],
+   "character": "Gustave",
+   "name": "Lumiere Suit",
+   "id": "outfit-OutfitGustave_LumiereSuit"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinGustave_Obscur"
+   ],
+   "areas": [],
+   "character": "Gustave",
+   "name": "Obscur",
+   "id": "outfit-OutfitGustave_Obscur"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinGustave_Osquio"
+   ],
+   "areas": [],
+   "character": "Gustave",
+   "name": "Osquio",
+   "id": "outfit-OutfitGustave_Osquio"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinGustave_Pure"
+   ],
+   "areas": [
+    "Gestral Village"
+   ],
+   "character": "Gustave",
+   "name": "Pure",
+   "id": "outfit-OutfitGustave_Pure"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinGustave_Potatoe_Bag"
+   ],
+   "areas": [
+    "Gestral Village"
+   ],
+   "character": "Gustave",
+   "name": "Sakapatate",
+   "id": "outfit-OutfitGustave_Sakapatate"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinGustave_Bikini"
+   ],
+   "areas": [
+    "Gestral Beach (All)"
+   ],
+   "character": "Gustave",
+   "name": "Swimsuit",
+   "id": "outfit-OutfitGustave_Swimsuit"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinLune_Baguette"
+   ],
+   "areas": [
+    "Ancient Sanctuary"
+   ],
+   "character": "Lune",
+   "name": "Baguette",
+   "id": "outfit-OutfitLune_Baguette"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinLune_Chic"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "Chic",
+   "id": "outfit-OutfitLune_Chic"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinLune_Clea"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "Clea",
+   "id": "outfit-OutfitLune_Clea"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinLune_Danseuse"
+   ],
+   "areas": [
+    "Frozen Hearts"
+   ],
+   "character": "Lune",
+   "name": "Danseuse",
+   "id": "outfit-OutfitLune_Danseuse"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinLune_Esquie"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "character": "Lune",
+   "name": "Esquie",
+   "id": "outfit-OutfitLune_Esquie"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinLune_Default"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "Expedition",
+   "id": "outfit-OutfitLune_Expedition"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinLune_FlowerSuit"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "Flower Suit",
+   "id": "outfit-OutfitLune_FlowerSuit"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinLune_Gommage"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "Gommage",
+   "id": "outfit-OutfitLune_Gommage"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinLune_Osquio"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "Osquio",
+   "id": "outfit-OutfitLune_Osquio"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinLune_Pure"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "Pure",
+   "id": "outfit-OutfitLune_Pure"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinLune_Potatoe_Bag"
+   ],
+   "areas": [
+    "Gestral Village"
+   ],
+   "character": "Lune",
+   "name": "Sakapatate",
+   "id": "outfit-OutfitLune_Sakapatate"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinLune_Sirene"
+   ],
+   "areas": [
+    "Sirene"
+   ],
+   "character": "Lune",
+   "name": "Sirene",
+   "id": "outfit-OutfitLune_Sirene"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinLune_CivilianSkirt"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "Skirt",
+   "id": "outfit-OutfitLune_Skirt"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinLune_BikiniA"
+   ],
+   "areas": [
+    "Gestral Beach (All)"
+   ],
+   "character": "Lune",
+   "name": "Swimsuit 1",
+   "id": "outfit-OutfitLune_Swimsuit1"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinLune_BikiniB"
+   ],
+   "areas": [
+    "Gestral Beach (All)"
+   ],
+   "character": "Lune",
+   "name": "Swimsuit 2",
+   "id": "outfit-OutfitLune_Swimsuit2"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMaelle_Baguette"
+   ],
+   "areas": [
+    "The Reacher"
+   ],
+   "character": "Maelle",
+   "name": "Baguette",
+   "id": "outfit-OutfitMaelle_Baguette"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMaelle_Chic"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Chic",
+   "id": "outfit-OutfitMaelle_Chic"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMaelle_CivilianLumiere"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Civilian",
+   "id": "outfit-OutfitMaelle_Civilian"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMaelle_Clair"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Clair",
+   "id": "outfit-OutfitMaelle_Clair"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMaelle_Clea"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Clea",
+   "id": "outfit-OutfitMaelle_Clea"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMaelle_Esquie"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "character": "Maelle",
+   "name": "Esquie",
+   "id": "outfit-OutfitMaelle_Esquie"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMaelle_Default"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Expedition",
+   "id": "outfit-OutfitMaelle_Expedition"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMaelle_FlowerSuit"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Flower Suit",
+   "id": "outfit-OutfitMaelle_FlowerSuit"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMaelle_Gommage"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Gommage",
+   "id": "outfit-OutfitMaelle_Gommage"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMaelle_Lumiere"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Lumiere",
+   "id": "outfit-OutfitMaelle_Lumiere"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMaelle_Obscur"
+   ],
+   "areas": [
+    "Forgotten Battlefield"
+   ],
+   "character": "Maelle",
+   "name": "Obscur",
+   "id": "outfit-OutfitMaelle_Obscur"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMaelle_Osquio"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Osquio",
+   "id": "outfit-OutfitMaelle_Osquio"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMaelle_Alicia"
+   ],
+   "areas": [
+    "The Manor"
+   ],
+   "character": "Maelle",
+   "name": "Painted Me",
+   "id": "outfit-OutfitMaelle_PaintedMe"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMaelle_Pure"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Pure",
+   "id": "outfit-OutfitMaelle_Pure"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMaelle_ActeIII"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Real Maelle",
+   "id": "outfit-OutfitMaelle_RealMaelle"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMaelle_Potatoe_Bag"
+   ],
+   "areas": [
+    "Gestral Village"
+   ],
+   "character": "Maelle",
+   "name": "Sakapatate",
+   "id": "outfit-OutfitMaelle_Sakapatate"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMaelle_CivilianSkirt"
+   ],
+   "areas": [
+    "Stone Wave Cliffs",
+    "The Manor"
+   ],
+   "character": "Maelle",
+   "name": "Skirt",
+   "id": "outfit-OutfitMaelle_Skirt"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMaelle_Bikini"
+   ],
+   "areas": [
+    "Gestral Beach (All)"
+   ],
+   "character": "Maelle",
+   "name": "Swimsuit",
+   "id": "outfit-OutfitMaelle_Swimsuit"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMonoco_Baguette"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "character": "Monoco",
+   "name": "Baguette",
+   "id": "outfit-OutfitMonoco_Baguette"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMonoco_Chic"
+   ],
+   "areas": [],
+   "character": "Monoco",
+   "name": "Chic",
+   "id": "outfit-OutfitMonoco_Chic"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMonoco_Civilian"
+   ],
+   "areas": [],
+   "character": "Monoco",
+   "name": "Civilian",
+   "id": "outfit-OutfitMonoco_Civilian"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMonoco_Esquie"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "character": "Monoco",
+   "name": "Esquie",
+   "id": "outfit-OutfitMonoco_Esquie"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMonoco_Default"
+   ],
+   "areas": [],
+   "character": "Monoco",
+   "name": "Expedition",
+   "id": "outfit-OutfitMonoco_Expedition"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMonoco_FlowerSuit"
+   ],
+   "areas": [],
+   "character": "Monoco",
+   "name": "Flower Suit",
+   "id": "outfit-OutfitMonoco_FlowerSuit"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMonoco_Gommage"
+   ],
+   "areas": [],
+   "character": "Monoco",
+   "name": "Gommage",
+   "id": "outfit-OutfitMonoco_Gommage"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMonoco_Lumiere"
+   ],
+   "areas": [
+    "Flying Casino"
+   ],
+   "character": "Monoco",
+   "name": "Lumiere",
+   "id": "outfit-OutfitMonoco_Lumiere"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMonoco_Osquio"
+   ],
+   "areas": [],
+   "character": "Monoco",
+   "name": "Osquio",
+   "id": "outfit-OutfitMonoco_Osquio"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMonoco_Pure"
+   ],
+   "areas": [],
+   "character": "Monoco",
+   "name": "Pure",
+   "id": "outfit-OutfitMonoco_Pure"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinMonoco_Bikini"
+   ],
+   "areas": [
+    "Gestral Beach (All)"
+   ],
+   "character": "Monoco",
+   "name": "Swimsuit",
+   "id": "outfit-OutfitMonoco_Swimsuit"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinSciel_Baguette"
+   ],
+   "areas": [
+    "Esquie's Nest"
+   ],
+   "character": "Sciel",
+   "name": "Baguette",
+   "id": "outfit-OutfitSciel_Baguette"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinSciel_Chic"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Chic",
+   "id": "outfit-OutfitSciel_Chic"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinSciel_Clea"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Clea",
+   "id": "outfit-OutfitSciel_Clea"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinSciel_Danseuse"
+   ],
+   "areas": [
+    "Frozen Hearts"
+   ],
+   "character": "Sciel",
+   "name": "Danseuse",
+   "id": "outfit-OutfitSciel_Danseuse"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinSciel_Esquie"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "character": "Sciel",
+   "name": "Esquie",
+   "id": "outfit-OutfitSciel_Esquie"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinSciel_Default"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Expedition",
+   "id": "outfit-OutfitSciel_Expedition"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinSciel_FlowerSuit"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Flower Suit",
+   "id": "outfit-OutfitSciel_FlowerSuit"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinSciel_Gommage"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Gommage",
+   "id": "outfit-OutfitSciel_Gommage"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinSciel_Osquio"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Osquio",
+   "id": "outfit-OutfitSciel_Osquio"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinSciel_Pure"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Pure",
+   "id": "outfit-OutfitSciel_Pure"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinSciel_Potatoe_Bag"
+   ],
+   "areas": [
+    "Gestral Village"
+   ],
+   "character": "Sciel",
+   "name": "Sakapatate",
+   "id": "outfit-OutfitSciel_Sakapatate"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinSciel_Sirene"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Sirene",
+   "id": "outfit-OutfitSciel_Sirene"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinSciel_CivilianSkirt"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Skirt",
+   "id": "outfit-OutfitSciel_Skirt"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinSciel_BikiniA"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Swimsuit 1",
+   "id": "outfit-OutfitSciel_Swimsuit1"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinSciel_BikiniB"
+   ],
+   "areas": [
+    "Gestral Beach (All)"
+   ],
+   "character": "Sciel",
+   "name": "Swimsuit 2",
+   "id": "outfit-OutfitSciel_Swimsuit2"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinVerso_Baguette"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Baguette",
+   "id": "outfit-OutfitVerso_Baguette"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinVerso_Chic"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Chic",
+   "id": "outfit-OutfitVerso_Chic"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinVerso_Civil"
+   ],
+   "areas": [
+    "The Manor"
+   ],
+   "character": "Verso",
+   "name": "Civilian",
+   "id": "outfit-OutfitVerso_Civilian"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinVerso_Clair"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "character": "Verso",
+   "name": "Clair",
+   "id": "outfit-OutfitVerso_Clair"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinVerso_Esquie"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "character": "Verso",
+   "name": "Esquie",
+   "id": "outfit-OutfitVerso_Esquie"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinVerso_Default"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Expedition",
+   "id": "outfit-OutfitVerso_Expedition"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinVerso_FlowerSuit"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Flower Suit",
+   "id": "outfit-OutfitVerso_FlowerSuit"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinVerso_Gommage"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Gommage",
+   "id": "outfit-OutfitVerso_Gommage"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinVerso_Obscur"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Obscur",
+   "id": "outfit-OutfitVerso_Obscur"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinVerso_Osquio"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Osquio",
+   "id": "outfit-OutfitVerso_Osquio"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinVerso_Pelerin"
+   ],
+   "areas": [
+    "Frozen Hearts"
+   ],
+   "character": "Verso",
+   "name": "Pelerin",
+   "id": "outfit-OutfitVerso_Pelerin"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinVerso_Pure"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Pure",
+   "id": "outfit-OutfitVerso_Pure"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinVerso_Potatoe_Bag"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Sakapatate",
+   "id": "outfit-OutfitVerso_Sakapatate"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinVerso_Simple"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Simple",
+   "id": "outfit-OutfitVerso_Simple"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinVerso_BikiniA"
+   ],
+   "areas": [
+    "Gestral Beach (All)"
+   ],
+   "character": "Verso",
+   "name": "Swimsuit 1",
+   "id": "outfit-OutfitVerso_Swimsuit1"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinVerso_BikiniB"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Swimsuit 2",
+   "id": "outfit-OutfitVerso_Swimsuit2"
+  },
+  {
+   "kind": "outfit",
+   "keys": [
+    "SkinVerso_MaskKeeper",
+    "SkinVerso_NoArmBand"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "character": "Verso",
+   "name": "Visages",
+   "id": "outfit-OutfitVerso_Visages"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceGustave_Baguette"
+   ],
+   "areas": [
+    "Spring Meadows"
+   ],
+   "character": "Gustave",
+   "name": "Baguette",
+   "id": "haircut-HaircutGustave_Baguette"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceGustave_BunBraid"
+   ],
+   "areas": [],
+   "character": "Gustave",
+   "name": "Bun Braid",
+   "id": "haircut-HaircutGustave_BunBraid"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceGustave_Charming"
+   ],
+   "areas": [],
+   "character": "Gustave",
+   "name": "Charming",
+   "id": "haircut-HaircutGustave_Charming"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceGustave_Chic"
+   ],
+   "areas": [],
+   "character": "Gustave",
+   "name": "Chic",
+   "id": "haircut-HaircutGustave_Chic"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceGustave_Curly"
+   ],
+   "areas": [],
+   "character": "Gustave",
+   "name": "Curly",
+   "id": "haircut-HaircutGustave_Curly"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceGustave_Esquie"
+   ],
+   "areas": [],
+   "character": "Gustave",
+   "name": "Esquie",
+   "id": "haircut-HaircutGustave_Esquie"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceGustave_Default_WhiteVersion"
+   ],
+   "areas": [],
+   "character": "Gustave",
+   "name": "Expedition White",
+   "id": "haircut-HaircutGustave_ExpeditionWhite"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceGustave_Flowers"
+   ],
+   "areas": [],
+   "character": "Gustave",
+   "name": "Flowers",
+   "id": "haircut-HaircutGustave_Flowers"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceGustave_Gestral"
+   ],
+   "areas": [
+    "Gestral Village"
+   ],
+   "character": "Gustave",
+   "name": "Gestral",
+   "id": "haircut-HaircutGustave_Gestral"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceGustave_Default"
+   ],
+   "areas": [],
+   "character": "Gustave",
+   "name": "Gustave",
+   "id": "haircut-HaircutGustave_Gustave"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceGustave_Osquio"
+   ],
+   "areas": [],
+   "character": "Gustave",
+   "name": "Osquio",
+   "id": "haircut-HaircutGustave_Osquio"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceGustave_Noah"
+   ],
+   "areas": [],
+   "character": "Gustave",
+   "name": "Short",
+   "id": "haircut-HaircutGustave_Short"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_Artist_s_One"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "Artist",
+   "id": "haircut-HaircutLune_Artist"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_Baguette"
+   ],
+   "areas": [
+    "Ancient Sanctuary"
+   ],
+   "character": "Lune",
+   "name": "Baguette",
+   "id": "haircut-HaircutLune_Baguette"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_Bald"
+   ],
+   "areas": [
+    "Sunless Cliffs"
+   ],
+   "character": "Lune",
+   "name": "Bald",
+   "id": "haircut-HaircutLune_Bald"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_Braid"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "Braid",
+   "id": "haircut-HaircutLune_Braid"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_Clea"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "character": "Lune",
+   "name": "Clea",
+   "id": "haircut-HaircutLune_Clea"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_DoubleBraid"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "Double Braid",
+   "id": "haircut-HaircutLune_DoubleBraid"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_DoubleBun"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "character": "Lune",
+   "name": "Double Bun",
+   "id": "haircut-HaircutLune_DoubleBun"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_Esquie"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "character": "Lune",
+   "name": "Esquie",
+   "id": "haircut-HaircutLune_Esquie"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_Flowers"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "Flowers",
+   "id": "haircut-HaircutLune_Flowers"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_Frenchbob"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "French Bob",
+   "id": "haircut-HaircutLune_FrenchBob"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_Gestral"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "Gestral",
+   "id": "haircut-HaircutLune_Gestral"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_HalfPonytail"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "Half Ponytail",
+   "id": "haircut-HaircutLune_HalfPonytail"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_DoubleBun_Long"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "Long Double Bun",
+   "id": "haircut-HaircutLune_LongDoubleBun"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_Default"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "Lune",
+   "id": "haircut-HaircutLune_Lune"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_MessyBun"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "Messy Bun",
+   "id": "haircut-HaircutLune_MessyBun"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_Osquio"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "Osquio",
+   "id": "haircut-HaircutLune_Osquio"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_Ponytail"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "Ponytail",
+   "id": "haircut-HaircutLune_Ponytail"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_Default_WhiteVer"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "character": "Lune",
+   "name": "Rebellious White",
+   "id": "haircut-HaircutLune_RebelliousWhite"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_Short"
+   ],
+   "areas": [
+    "Frozen Hearts"
+   ],
+   "character": "Lune",
+   "name": "Short",
+   "id": "haircut-HaircutLune_Short"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_Simon"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "character": "Lune",
+   "name": "Simon",
+   "id": "haircut-HaircutLune_Simon"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_Sirene"
+   ],
+   "areas": [
+    "Sirene"
+   ],
+   "character": "Lune",
+   "name": "Sirene",
+   "id": "haircut-HaircutLune_Sirene"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_Voluminous"
+   ],
+   "areas": [],
+   "character": "Lune",
+   "name": "Voluminous",
+   "id": "haircut-HaircutLune_Voluminous"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceLune_Wavy"
+   ],
+   "areas": [
+    "Yellow Harvest"
+   ],
+   "character": "Lune",
+   "name": "Wavy",
+   "id": "haircut-HaircutLune_Wavy"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_Artist_s_One"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Artist",
+   "id": "haircut-HaircutMaelle_Artist"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_Baguette"
+   ],
+   "areas": [
+    "The Reacher"
+   ],
+   "character": "Maelle",
+   "name": "Baguette",
+   "id": "haircut-HaircutMaelle_Baguette"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_Bald"
+   ],
+   "areas": [
+    "Sunless Cliffs"
+   ],
+   "character": "Maelle",
+   "name": "Bald",
+   "id": "haircut-HaircutMaelle_Bald"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_Braid"
+   ],
+   "areas": [
+    "Yellow Harvest"
+   ],
+   "character": "Maelle",
+   "name": "Braid",
+   "id": "haircut-HaircutMaelle_Braid"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_Chic"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "character": "Maelle",
+   "name": "Chic",
+   "id": "haircut-HaircutMaelle_Chic"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_Clea"
+   ],
+   "areas": [
+    "Flying Manor"
+   ],
+   "character": "Maelle",
+   "name": "Clea",
+   "id": "haircut-HaircutMaelle_Clea"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_DoubleBraid"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Double Braid",
+   "id": "haircut-HaircutMaelle_DoubleBraid"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_DoubleBraid_WhiteVersion"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "character": "Maelle",
+   "name": "Double Braid White",
+   "id": "haircut-HaircutMaelle_DoubleBraidWhite"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_DoubleBun"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "character": "Maelle",
+   "name": "Double Bun",
+   "id": "haircut-HaircutMaelle_DoubleBun"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_Esquie"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "character": "Maelle",
+   "name": "Esquie",
+   "id": "haircut-HaircutMaelle_Esquie"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_Flowers"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Flowers",
+   "id": "haircut-HaircutMaelle_Flowers"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_FrenchBob"
+   ],
+   "areas": [
+    "The Carousel",
+    "Verso's Drafts"
+   ],
+   "character": "Maelle",
+   "name": "French Bob",
+   "id": "haircut-HaircutMaelle_FrenchBob"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_Gestral"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Gestral",
+   "id": "haircut-HaircutMaelle_Gestral"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_Gestral_WhiteVersion"
+   ],
+   "areas": [
+    "Dark Gestral Arena"
+   ],
+   "character": "Maelle",
+   "name": "Gestral White",
+   "id": "haircut-HaircutMaelle_GestralWhite"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_DoubleBun_Long"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Long Double Bun",
+   "id": "haircut-HaircutMaelle_LongDoubleBun"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_Default"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Maelle",
+   "id": "haircut-HaircutMaelle_Maelle"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_MessyBun"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Messy Bun",
+   "id": "haircut-HaircutMaelle_MessyBun"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_Osquio"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Osquio",
+   "id": "haircut-HaircutMaelle_Osquio"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_Alicia"
+   ],
+   "areas": [
+    "The Reacher"
+   ],
+   "character": "Maelle",
+   "name": "Painted Me",
+   "id": "haircut-HaircutMaelle_PaintedMe"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_Default_WhiteVersion"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "character": "Maelle",
+   "name": "Ponytail White",
+   "id": "haircut-HaircutMaelle_PonytailWhite"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_ActeIII"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Real Maelle",
+   "id": "haircut-HaircutMaelle_RealMaelle"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_Rebellious"
+   ],
+   "areas": [
+    "The Manor"
+   ],
+   "character": "Maelle",
+   "name": "Rebellious",
+   "id": "haircut-HaircutMaelle_Rebellious"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_Short"
+   ],
+   "areas": [
+    "Flying Waters"
+   ],
+   "character": "Maelle",
+   "name": "Short",
+   "id": "haircut-HaircutMaelle_Short"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_Short_WhiteVersion"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Short White",
+   "id": "haircut-HaircutMaelle_ShortWhite"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_Simon"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "character": "Maelle",
+   "name": "Simon",
+   "id": "haircut-HaircutMaelle_Simon"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_Vintage"
+   ],
+   "areas": [],
+   "character": "Maelle",
+   "name": "Vintage",
+   "id": "haircut-HaircutMaelle_Vintage"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMaelle_Voluminous"
+   ],
+   "areas": [
+    "The Monolith"
+   ],
+   "character": "Maelle",
+   "name": "Voluminous",
+   "id": "haircut-HaircutMaelle_Voluminous"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMonoco_Baguette"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "character": "Monoco",
+   "name": "Baguette",
+   "id": "haircut-HaircutMonoco_Baguette"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMonoco_Bald"
+   ],
+   "areas": [
+    "Sunless Cliffs"
+   ],
+   "character": "Monoco",
+   "name": "Bald",
+   "id": "haircut-HaircutMonoco_Bald"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMonoco_Chic"
+   ],
+   "areas": [],
+   "character": "Monoco",
+   "name": "Chic",
+   "id": "haircut-HaircutMonoco_Chic"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMonoco_DoubleBun"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "character": "Monoco",
+   "name": "Double Bun",
+   "id": "haircut-HaircutMonoco_DoubleBun"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMonoco_Esquie"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "character": "Monoco",
+   "name": "Esquie",
+   "id": "haircut-HaircutMonoco_Esquie"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMonoco_Flowers"
+   ],
+   "areas": [],
+   "character": "Monoco",
+   "name": "Flowers",
+   "id": "haircut-HaircutMonoco_Flowers"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMonoco_FrenchBob"
+   ],
+   "areas": [],
+   "character": "Monoco",
+   "name": "French Bob",
+   "id": "haircut-HaircutMonoco_FrenchBob"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMonoco_Default"
+   ],
+   "areas": [],
+   "character": "Monoco",
+   "name": "Monoco",
+   "id": "haircut-HaircutMonoco_Monoco"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMonoco_Osquio"
+   ],
+   "areas": [],
+   "character": "Monoco",
+   "name": "Osquio",
+   "id": "haircut-HaircutMonoco_Osquio"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMonoco_Pure"
+   ],
+   "areas": [],
+   "character": "Monoco",
+   "name": "Pure",
+   "id": "haircut-HaircutMonoco_Pure"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMonoco_Simon"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "character": "Monoco",
+   "name": "Simon",
+   "id": "haircut-HaircutMonoco_Simon"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceMonoco_Viking"
+   ],
+   "areas": [],
+   "character": "Monoco",
+   "name": "Viking",
+   "id": "haircut-HaircutMonoco_Viking"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_Artist_s_One"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Artist",
+   "id": "haircut-HaircutSciel_Artist"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_Baguette"
+   ],
+   "areas": [
+    "Esquie's Nest"
+   ],
+   "character": "Sciel",
+   "name": "Baguette",
+   "id": "haircut-HaircutSciel_Baguette"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_Bald"
+   ],
+   "areas": [
+    "Sunless Cliffs"
+   ],
+   "character": "Sciel",
+   "name": "Bald",
+   "id": "haircut-HaircutSciel_Bald"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_Braid"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Braid",
+   "id": "haircut-HaircutSciel_Braid"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_Clea"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "character": "Sciel",
+   "name": "Clea",
+   "id": "haircut-HaircutSciel_Clea"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_DoubleBraid"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Double Braid",
+   "id": "haircut-HaircutSciel_DoubleBraid"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_DoubleBun"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "character": "Sciel",
+   "name": "Double Bun",
+   "id": "haircut-HaircutSciel_DoubleBun"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_Esquie"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "character": "Sciel",
+   "name": "Esquie",
+   "id": "haircut-HaircutSciel_Esquie"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_Flowers"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Flowers",
+   "id": "haircut-HaircutSciel_Flowers"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_FrenchBob"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "French Bob",
+   "id": "haircut-HaircutSciel_FrenchBob"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_Gestral"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Gestral",
+   "id": "haircut-HaircutSciel_Gestral"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_DoubleBun_Long"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Long Double Bun",
+   "id": "haircut-HaircutSciel_LongDoubleBun"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_Default_WhiteVersion"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "character": "Sciel",
+   "name": "Messy Bun White",
+   "id": "haircut-HaircutSciel_MessyBunWhite"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_Osquio"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Osquio",
+   "id": "haircut-HaircutSciel_Osquio"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_OldConcept"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Plunging Bob",
+   "id": "haircut-HaircutSciel_PlungingBob"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_Ponytail"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Ponytail",
+   "id": "haircut-HaircutSciel_Ponytail"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_Rebellious"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Rebellious",
+   "id": "haircut-HaircutSciel_Rebellious"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_Default"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Sciel",
+   "id": "haircut-HaircutSciel_Sciel"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_Short"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Short",
+   "id": "haircut-HaircutSciel_Short"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_CurlyShort"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Short Curly",
+   "id": "haircut-HaircutSciel_ShortCurly"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_Simon"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "character": "Sciel",
+   "name": "Simon",
+   "id": "haircut-HaircutSciel_Simon"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_Vintage"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Vintage",
+   "id": "haircut-HaircutSciel_Vintage"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceSciel_Voluminous"
+   ],
+   "areas": [],
+   "character": "Sciel",
+   "name": "Voluminous",
+   "id": "haircut-HaircutSciel_Voluminous"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceVerso_Baguette",
+    "FaceVerso_Baguette"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Baguette",
+   "id": "haircut-HaircutVerso_Baguette"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceVerso_Bald"
+   ],
+   "areas": [
+    "Sunless Cliffs"
+   ],
+   "character": "Verso",
+   "name": "Bald",
+   "id": "haircut-HaircutVerso_Bald"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceVerso_bun"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Bun",
+   "id": "haircut-HaircutVerso_Bun"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceVerso_BunBraid"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Bun Braid",
+   "id": "haircut-HaircutVerso_BunBraid"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceVerso_Chic"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "character": "Verso",
+   "name": "Chic",
+   "id": "haircut-HaircutVerso_Chic"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceVerso_Curly"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Curly",
+   "id": "haircut-HaircutVerso_Curly"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceVerso_Esquie"
+   ],
+   "areas": [
+    "Verso's Drafts"
+   ],
+   "character": "Verso",
+   "name": "Esquie",
+   "id": "haircut-HaircutVerso_Esquie"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceVerso_Default_WhiteVersion"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "character": "Verso",
+   "name": "Expedition White",
+   "id": "haircut-HaircutVerso_ExpeditionWhite"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceVerso_Flowers"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Flowers",
+   "id": "haircut-HaircutVerso_Flowers"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceVerso_Gestral"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Gestral",
+   "id": "haircut-HaircutVerso_Gestral"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceVerso_Handsome"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Gustave",
+   "id": "haircut-HaircutVerso_Gustave"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceVerso_Osquio"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Osquio",
+   "id": "haircut-HaircutVerso_Osquio"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceVerso_Samourai"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Samurai",
+   "id": "haircut-HaircutVerso_Samurai"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceVerso_Simon"
+   ],
+   "areas": [
+    "Endless Tower"
+   ],
+   "character": "Verso",
+   "name": "Simon",
+   "id": "haircut-HaircutVerso_Simon"
+  },
+  {
+   "kind": "haircut",
+   "keys": [
+    "FaceVerso_Default"
+   ],
+   "areas": [],
+   "character": "Verso",
+   "name": "Verso",
+   "id": "haircut-HaircutVerso_Verso"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Aline"
+   ],
+   "areas": [
+    "The Monolith",
+    "The Manor"
+   ],
+   "name": "Aline",
+   "id": "journal-JournalAline"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp34"
+   ],
+   "areas": [
+    "The Crows"
+   ],
+   "name": "Expedition 34",
+   "id": "journal-Journal34"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp35"
+   ],
+   "areas": [
+    "Falling Leaves"
+   ],
+   "name": "Expedition 35",
+   "id": "journal-Journal35"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp36"
+   ],
+   "areas": [
+    "White Tree"
+   ],
+   "name": "Expedition 36",
+   "id": "journal-Journal36"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp37"
+   ],
+   "areas": [
+    "Gestral Beach (All)"
+   ],
+   "name": "Expedition 37",
+   "id": "journal-Journal37"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp38"
+   ],
+   "areas": [
+    "Yellow Harvest"
+   ],
+   "name": "Expedition 38",
+   "id": "journal-Journal38"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp39"
+   ],
+   "areas": [
+    "Visages"
+   ],
+   "name": "Expedition 39",
+   "id": "journal-Journal39"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp40"
+   ],
+   "areas": [],
+   "name": "Expedition 40",
+   "id": "journal-Journal40"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp41"
+   ],
+   "areas": [
+    "Forgotten Battlefield"
+   ],
+   "name": "Expedition 41",
+   "id": "journal-Journal41"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp42"
+   ],
+   "areas": [
+    "Old Lumiere"
+   ],
+   "name": "Expedition 42",
+   "id": "journal-Journal42"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp43"
+   ],
+   "areas": [],
+   "name": "Expedition 43",
+   "id": "journal-Journal43"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp44"
+   ],
+   "areas": [
+    "Yellow Harvest"
+   ],
+   "name": "Expedition 44",
+   "id": "journal-Journal44"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp45"
+   ],
+   "areas": [
+    "Crushing Cavern"
+   ],
+   "name": "Expedition 45",
+   "id": "journal-Journal45"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp46"
+   ],
+   "areas": [
+    "Sirene's Dress"
+   ],
+   "name": "Expedition 46",
+   "id": "journal-Journal46"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp47"
+   ],
+   "areas": [],
+   "name": "Expedition 47",
+   "id": "journal-Journal47"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp48"
+   ],
+   "areas": [
+    "Stone Quarry"
+   ],
+   "name": "Expedition 48",
+   "id": "journal-Journal48"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp49"
+   ],
+   "areas": [
+    "Falling Leaves"
+   ],
+   "name": "Expedition 49",
+   "id": "journal-Journal49"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp50"
+   ],
+   "areas": [
+    "Stone Wave Cliffs"
+   ],
+   "name": "Expedition 50",
+   "id": "journal-Journal50"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp51"
+   ],
+   "areas": [
+    "Frozen Hearts"
+   ],
+   "name": "Expedition 51",
+   "id": "journal-Journal51"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp52"
+   ],
+   "areas": [
+    "Gestral Village"
+   ],
+   "name": "Expedition 52",
+   "id": "journal-Journal52"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp53"
+   ],
+   "areas": [
+    "The Small Bourgeon"
+   ],
+   "name": "Expedition 53",
+   "id": "journal-Journal53"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp54"
+   ],
+   "areas": [
+    "Stone Wave Cliffs Cave"
+   ],
+   "name": "Expedition 54",
+   "id": "journal-Journal54"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp55"
+   ],
+   "areas": [
+    "Sirene"
+   ],
+   "name": "Expedition 55",
+   "id": "journal-Journal55"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp56"
+   ],
+   "areas": [
+    "Stone Wave Cliffs"
+   ],
+   "name": "Expedition 56",
+   "id": "journal-Journal56"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp57"
+   ],
+   "areas": [
+    "Forgotten Battlefield"
+   ],
+   "name": "Expedition 57",
+   "id": "journal-Journal57"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp58"
+   ],
+   "areas": [
+    "Old Lumiere"
+   ],
+   "name": "Expedition 58",
+   "id": "journal-Journal58"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp59"
+   ],
+   "areas": [
+    "Yellow Harvest"
+   ],
+   "name": "Expedition 59",
+   "id": "journal-Journal59"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp60"
+   ],
+   "areas": [
+    "Lumiere (Act III)"
+   ],
+   "name": "Expedition 60",
+   "id": "journal-Journal60"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp61"
+   ],
+   "areas": [
+    "The Reacher"
+   ],
+   "name": "Expedition 61",
+   "id": "journal-Journal61"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp62"
+   ],
+   "areas": [],
+   "name": "Expedition 62",
+   "id": "journal-Journal62"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp63"
+   ],
+   "areas": [
+    "Ancient Sanctuary"
+   ],
+   "name": "Expedition 63",
+   "id": "journal-Journal63"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp64"
+   ],
+   "areas": [],
+   "name": "Expedition 64",
+   "id": "journal-Journal64"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp65"
+   ],
+   "areas": [
+    "Monoco's Station"
+   ],
+   "name": "Expedition 65",
+   "id": "journal-Journal65"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp66"
+   ],
+   "areas": [
+    "Esquie's Nest"
+   ],
+   "name": "Expedition 66",
+   "id": "journal-Journal66"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp67"
+   ],
+   "areas": [
+    "Sirene"
+   ],
+   "name": "Expedition 67",
+   "id": "journal-Journal67"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp68"
+   ],
+   "areas": [
+    "Flying Waters"
+   ],
+   "name": "Expedition 68",
+   "id": "journal-Journal68"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp69"
+   ],
+   "areas": [
+    "Visages"
+   ],
+   "name": "Expedition 69",
+   "id": "journal-Journal69"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp70"
+   ],
+   "areas": [
+    "The Monolith"
+   ],
+   "name": "Expedition 70",
+   "id": "journal-Journal70"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp78"
+   ],
+   "areas": [
+    "Stone Wave Cliffs"
+   ],
+   "name": "Expedition 78",
+   "id": "journal-Journal78"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp81"
+   ],
+   "areas": [
+    "Spring Meadows"
+   ],
+   "name": "Expedition 81",
+   "id": "journal-Journal81"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp84"
+   ],
+   "areas": [
+    "The Fountain"
+   ],
+   "name": "Expedition 84",
+   "id": "journal-Journal84"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp100B"
+   ],
+   "areas": [],
+   "name": "Julie",
+   "id": "journal-JournalJulie"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_RenoirManor"
+   ],
+   "areas": [
+    "Old Lumiere",
+    "The Manor"
+   ],
+   "name": "Renoir",
+   "id": "journal-JournalRenoir"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Exp100A"
+   ],
+   "areas": [
+    "The Abyss"
+   ],
+   "name": "Simon",
+   "id": "journal-JournalSimon"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_OldLumiere"
+   ],
+   "areas": [
+    "Old Lumiere"
+   ],
+   "name": "Survivor",
+   "id": "journal-JournalSurvivor"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_RenoirVisages"
+   ],
+   "areas": [
+    "Visages"
+   ],
+   "name": "Unknown 1",
+   "id": "journal-JournalUnknown1"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_RenoirReacher"
+   ],
+   "areas": [
+    "The Reacher"
+   ],
+   "name": "Unknown 2",
+   "id": "journal-JournalUnknown2"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_RenoirSirene"
+   ],
+   "areas": [
+    "The Manor"
+   ],
+   "name": "Unknown 3",
+   "id": "journal-JournalUnknown3"
+  },
+  {
+   "kind": "journal",
+   "keys": [
+    "Journal_Verso"
+   ],
+   "areas": [],
+   "name": "Verso",
+   "id": "journal-JournalVerso"
+  }
+ ]
+}

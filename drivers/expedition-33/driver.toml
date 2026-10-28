@@ -1,0 +1,36 @@
+api = 3
+
+[driver]
+id = "expedition-33"
+name = "Clair Obscur: Expedition 33"
+version = "0.1.0"
+authors = ["Arnaud Michel"]
+license = "MIT OR Apache-2.0"
+description = "Armes, pictos, tenues, coiffures et journaux d'expédition, zone par zone."
+
+# Not yet checked against a real save: see tests/ once one is available.
+[game]
+steam-app-id = 1903340
+tested-versions = []
+
+# One folder per Steam account; EXPEDITION_N.sav per slot.
+[[locations]]
+platform = "windows"
+path = "{localAppData}/Sandfall/Saved/SaveGames"
+
+[slots]
+kind = "file"
+pattern = '^(?<account>[0-9]+)/EXPEDITION_(?<slot>[0-9]+)\.sav$'
+label = "Expédition {slot}"
+
+[[layout]]
+panel = "progress"
+span = 4
+
+[[layout]]
+panel = "zones"
+span = 8
+
+[[layout]]
+panel = "list"
+span = 12

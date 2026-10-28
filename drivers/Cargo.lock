@@ -74,6 +74,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "driver-expedition-33"
+version = "0.1.0"
+dependencies = [
+ "hundo-sdk",
+ "serde",
+ "serde_json",
+]
+
+[[package]]
 name = "driver-hades"
 version = "0.1.0"
 dependencies = [

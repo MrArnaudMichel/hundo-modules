@@ -7,8 +7,8 @@ what is done. This repository holds everything to write one, free and open:
 
 - `wit/driver.wit` — the contract between Hundo and a module;
 - `drivers/sdk` — the Rust SDK (`hundo-sdk`) that implements it;
-- `drivers/<game>` — the official modules, as real examples: Hades, Hollow
-  Knight, Hollow Knight: Silksong, Schedule I;
+- `drivers/<game>` — the official modules, as real examples: Clair Obscur:
+  Expedition 33, Hades, Hollow Knight, Hollow Knight: Silksong, Schedule I;
 - `catalog/catalog.json` — the modules Hundo offers to install and update.
 
 A module never touches the disk or the network: Hundo gives it the save's
@@ -47,11 +47,13 @@ version — without reinstalling the app.
 
 Ce dépôt contient tout ce qu'il faut pour écrire un module de jeu pour
 Hundo : le contrat, le SDK Rust, les modules officiels comme exemples et le
-catalogue. Tout y est libre (MIT OR Apache-2.0). Le guide d'auteur est dans
+catalogue. Tout y est libre : MIT OR Apache-2.0, sauf Silksong (GPL-3.0-or-later, sa liste de complétion venant d'un projet GPL). Le guide d'auteur est dans
 `docs/AUTHORING.md`.
 
 ## License
 
-Licensed under either of [Apache License 2.0](LICENSE-APACHE) or
-[MIT license](LICENSE-MIT), at your option. Contributions are accepted under
-the same terms.
+The contract, the SDK and the modules are licensed under either of
+[Apache License 2.0](LICENSE-APACHE) or [MIT license](LICENSE-MIT), at your
+option — except where a module's `driver.toml` says otherwise: Hollow Knight:
+Silksong is GPL-3.0-or-later, because its completion list comes from a GPL
+project. Contributions are accepted under the license of what they change.

@@ -2,7 +2,7 @@
 # `cargo build --release` here produces one `.wasm` per driver (see .cargo/config.toml).
 [workspace]
 resolver = "3"
-members = ["sdk", "hollow-knight", "silksong", "schedule-one", "hades"]
+members = ["sdk", "hollow-knight", "silksong", "schedule-one", "hades", "expedition-33"]
 
 [workspace.package]
 edition = "2024"
