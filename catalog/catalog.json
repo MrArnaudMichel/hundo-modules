@@ -1,1 +1,69 @@
-{ "format": 1, "modules": [] }
+{
+  "format": 1,
+  "modules": [
+    {
+      "id": "hades",
+      "name": "Hades",
+      "version": "0.1.0",
+      "api": 3,
+      "description": "Armes infernales, gardiens, prophéties, relations et ressources.",
+      "authors": [
+        "Arnaud Michel"
+      ],
+      "license": "MIT OR Apache-2.0",
+      "url": "https://github.com/MrArnaudMichel/hundo-modules/releases/download/modules-20261028-5693e56/hades-0.1.0.hundo",
+      "size": 56847,
+      "sha256": "fe2aa53992aa5ba9df3cd00fb90560c56bb5f825c96dc5c29cffcfd4d6e98d66",
+      "public-key": "RWRYrbbjsgZiAx8n7tamravfA0fWetiNqushALfEDAQGtGqQLozHomfg",
+      "signature": "untrusted comment: signature from rsign secret key\nRURYrbbjsgZiA0MSOSQ6MQbMQ71t43yBXT0O7m0AvteT2nLRNuKlToykX6juVx7fqSXWveLUGqnR4HMiuCgFTMYKjR1cHO1zJgc=\ntrusted comment: hades 0.1.0\n8BFMCRFEe6/Ad2kO2FnqNujsyvpwu1xsr77y5qw6TtECqAX5dbIYo++Zf/mgOyuXvjtE3CkRzGWtsW1fKURCCg==\n"
+    },
+    {
+      "id": "hollow-knight",
+      "name": "Hollow Knight",
+      "version": "0.1.0",
+      "api": 3,
+      "description": "Complétion 112 %, charmes, boss, rêves de guerriers et panthéons.",
+      "authors": [
+        "Arnaud Michel"
+      ],
+      "license": "MIT OR Apache-2.0",
+      "url": "https://github.com/MrArnaudMichel/hundo-modules/releases/download/modules-20261028-5693e56/hollow-knight-0.1.0.hundo",
+      "size": 120286,
+      "sha256": "e1ea118b8ecd5a6ef3952e8f43632260b29636d582041ed3db40bfa85c92a273",
+      "public-key": "RWRYrbbjsgZiAx8n7tamravfA0fWetiNqushALfEDAQGtGqQLozHomfg",
+      "signature": "untrusted comment: signature from rsign secret key\nRURYrbbjsgZiAxEX1cDosSCIMD3vm/jgsTGQOMGnOmnI3TVqj/MNWImZ+xjiGOV5wuCvAP6Z6rxWRWSoN5YneZwTOJJjctqHfwU=\ntrusted comment: hollow-knight 0.1.0\nZN0KEXgpfmCws9T6RRGTSPSoQcu9NpL5wLRTqEsdzgoLpQluCCL9uyN5zvlwhklInQ6NuSR1T0q/08iEe5aRAw==\n"
+    },
+    {
+      "id": "schedule-one",
+      "name": "Schedule I",
+      "version": "0.1.0",
+      "api": 3,
+      "description": "Rang, quêtes, territoires, propriétés, commerces et clients.",
+      "authors": [
+        "Arnaud Michel"
+      ],
+      "license": "MIT OR Apache-2.0",
+      "url": "https://github.com/MrArnaudMichel/hundo-modules/releases/download/modules-20261028-5693e56/schedule-one-0.1.0.hundo",
+      "size": 61327,
+      "sha256": "7ee9baba92702c77e9230b32146beffe64a4eeb0de75f01cb1c328671a8b0e8e",
+      "public-key": "RWRYrbbjsgZiAx8n7tamravfA0fWetiNqushALfEDAQGtGqQLozHomfg",
+      "signature": "untrusted comment: signature from rsign secret key\nRURYrbbjsgZiA91cEr8BcaL1sZp2FM9fIICRQq81j7652BvWSSDj0VV03S/GWLYJLw0GoJCP1x+pJwaFMoOSXgzqqlCKGGZCyQg=\ntrusted comment: schedule-one 0.1.0\nU/9t8wshjB5PMSdoEES9nIyJeJYHlQdIuNG4COV8jsVxJTLgnAuwFgf5JAsnArPBzvpmCzt9AbHHuNPxAGWPDw==\n"
+    },
+    {
+      "id": "silksong",
+      "name": "Hollow Knight: Silksong",
+      "version": "0.1.0",
+      "api": 3,
+      "description": "Complétion 100 % : emblèmes, outils, compétences, fragments, améliorations ; puces, médaillons et clés.",
+      "authors": [
+        "Arnaud Michel"
+      ],
+      "license": "MIT OR Apache-2.0",
+      "url": "https://github.com/MrArnaudMichel/hundo-modules/releases/download/modules-20261028-5693e56/silksong-0.1.0.hundo",
+      "size": 151330,
+      "sha256": "0023dbc5e15cc47cc8c11c6bfec045d66345649ab31e4d73e6fb4eb00621c91d",
+      "public-key": "RWRYrbbjsgZiAx8n7tamravfA0fWetiNqushALfEDAQGtGqQLozHomfg",
+      "signature": "untrusted comment: signature from rsign secret key\nRURYrbbjsgZiA3dL377vw+bpZBCKhWdeQ25AU2sBc8GUBKimiv3BniHHDurHWlBmbzT/9LdpAL5SuygyYou31tvmskQ2U+pRgQk=\ntrusted comment: silksong 0.1.0\nFMF5GdJK+qbwIh1iagWc3cPQ7VcH7jj3M1uDfw/Zs2L6G67LH1iww0sAqSweW/hYinCHoi+UsoLBQGZ7TPjSBw==\n"
+    }
+  ]
+}
